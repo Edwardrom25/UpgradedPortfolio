@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { styles } from "../styles";
-import Laptop from "./Laptop";
+import { B2Canvas } from "./canvas";
 
 const Hero = () => {
   return (
@@ -25,7 +25,7 @@ const Hero = () => {
             </p>
           </div>
           <div>
-            <Laptop />
+            <B2Canvas />
           </div>
         </div>
       </div>
