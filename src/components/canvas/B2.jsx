@@ -1,54 +1,74 @@
-import React, { useEffect } from "react";
+import React, { Suspense, useEffect, useState } from "react";
 import { Canvas } from "@react-three/fiber";
-import { OrbitControls, useGLTF } from "@react-three/drei";
+import { OrbitControls, Preload, useGLTF } from "@react-three/drei";
 
-const B2Model = () => {
-  const { scene } = useGLTF("/src/components/canvas/B2.glb"); // Adjust the path to your GLB file
+import CanvasLoader from "../Loader";
 
-  return <primitive object={scene} position={[0, 0, 0]} scale={4} />;  // Keep the model centered and scaled
+const B2 = ({ isMobile }) => {
+  const B2 = useGLTF("./B2/scene.gltf");
+
+  return (
+    <mesh>
+      <hemisphereLight intensity={5} groundColor='black' />
+      <spotLight
+        position={[-20, 50, 10]}
+        angle={0.12}
+        penumbra={1}
+        intensity={1}
+        castShadow
+        shadow-mapSize={1024}
+      />
+      <pointLight intensity={1} />
+      <primitive
+        object={B2.scene}
+        scale={0.09}  // Set the scale to 0.09
+        position={isMobile ? [0, -3, -2.2] : [0, -3.25, -1.5]}
+        rotation={[-0.01, -0.2, -0.1]}
+      />
+    </mesh>
+  );
 };
 
-const B2 = () => {
+const B2Canvas = () => {
+  const [isMobile, setIsMobile] = useState(false);
+
   useEffect(() => {
-    const canvas = document.querySelector("canvas");
-    const handleContextLost = (event) => {
-      event.preventDefault();
-      console.warn("WebGL context lost. Attempting to restore...");
-    };
-    const handleContextRestored = () => {
-      console.log("WebGL context restored.");
+    // Add a listener for changes to the screen size
+    const mediaQuery = window.matchMedia("(max-width: 500px)");
+
+    // Set the initial value of the `isMobile` state variable
+    setIsMobile(mediaQuery.matches);
+
+    // Define a callback function to handle changes to the media query
+    const handleMediaQueryChange = (event) => {
+      setIsMobile(event.matches);
     };
 
-    canvas.addEventListener("webglcontextlost", handleContextLost, false);
-    canvas.addEventListener("webglcontextrestored", handleContextRestored, false);
+    // Add the callback function as a listener for changes to the media query
+    mediaQuery.addEventListener("change", handleMediaQueryChange);
 
+    // Remove the listener when the component is unmounted
     return () => {
-      canvas.removeEventListener("webglcontextlost", handleContextLost);
-      canvas.removeEventListener("webglcontextrestored", handleContextRestored);
+      mediaQuery.removeEventListener("change", handleMediaQueryChange);
     };
   }, []);
 
   return (
-    <div className="b2-container"> {/* Apply the CSS class here */}
-      <Canvas
-        camera={{ position: [15, 15, 0], fov: 50 }}  // Isometric camera position
-        gl={{
-          antialias: false,
-          pixelRatio: 0.5,  // Reduced pixel ratio
-        }}
-      >
-        <ambientLight intensity={1} />
-        <directionalLight position={[-10, 10, 0]} intensity={2.5} />
+    <Canvas
+      frameloop='demand'
+      shadows
+      dpr={[1, 2]}
+      camera={{ position: [15, 15, 0], fov: 50 }}
+      gl={{ preserveDrawingBuffer: true }}
+    >
+      <Suspense fallback={<CanvasLoader />}>
+        <OrbitControls enableZoom={false} />
+        <B2 isMobile={isMobile} />
+      </Suspense>
 
-        <B2Model />
-
-        <OrbitControls 
-          enableZoom={false} 
-          enableRotate={true}
-        />
-      </Canvas>
-    </div>
+      <Preload all />
+    </Canvas>
   );
 };
 
-export default B2;
+export default B2Canvas;
