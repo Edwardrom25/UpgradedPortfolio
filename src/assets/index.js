@@ -56,9 +56,18 @@ import tripguide from "./tripguide.png";
 import mrgtravel from "./mrgtravel.png";
 import nasa from "./nasa.png";
 import ventures from "./ventures.png";
+import PIDm from "./PID.png";
+import ECGm from "./ECG.png";
+
+import PID from "./PID.pdf";
+import ECG from "./ECG.pdf";
 
 export {
   logo,
+  PID,
+  ECGm,
+  PIDm,
+  ECG,
   backend,
   creator,
   mobile,

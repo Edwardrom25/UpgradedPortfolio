@@ -1,72 +1,38 @@
-import React, { Suspense, useEffect, useState } from "react";
+import React, { Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, Preload, useGLTF } from "@react-three/drei";
 
 import CanvasLoader from "../Loader";
 
-const B2 = ({ isMobile }) => {
-  const B2 = useGLTF("./B2/scene.gltf");
+const B2 = () => {
+  const b2 = useGLTF("./B2/scene.gltf");
 
   return (
-    <mesh>
-      <hemisphereLight intensity={5} groundColor='black' />
-      <spotLight
-        position={[-20, 50, 10]}
-        angle={0.12}
-        penumbra={1}
-        intensity={1}
-        castShadow
-        shadow-mapSize={1024}
-      />
-      <pointLight intensity={1} />
-      <primitive
-        object={B2.scene}
-        scale={0.09}  // Set the scale to 0.09
-        position={isMobile ? [0, -3, -2.2] : [0, -3.25, -1.5]}
-        rotation={[-0.01, -0.2, -0.1]}
-      />
-    </mesh>
+    <primitive object={b2.scene} scale={0.025} position-y={0} rotation-y={0} />
   );
 };
 
 const B2Canvas = () => {
-  const [isMobile, setIsMobile] = useState(false);
-
-  useEffect(() => {
-    // Add a listener for changes to the screen size
-    const mediaQuery = window.matchMedia("(max-width: 500px)");
-
-    // Set the initial value of the `isMobile` state variable
-    setIsMobile(mediaQuery.matches);
-
-    // Define a callback function to handle changes to the media query
-    const handleMediaQueryChange = (event) => {
-      setIsMobile(event.matches);
-    };
-
-    // Add the callback function as a listener for changes to the media query
-    mediaQuery.addEventListener("change", handleMediaQueryChange);
-
-    // Remove the listener when the component is unmounted
-    return () => {
-      mediaQuery.removeEventListener("change", handleMediaQueryChange);
-    };
-  }, []);
-
   return (
     <Canvas
-      frameloop='demand'
       shadows
+      frameloop='demand'
       dpr={[1, 2]}
-      camera={{ position: [15, 15, 0], fov: 50 }}
       gl={{ preserveDrawingBuffer: true }}
+      camera={{
+        fov: 45,
+        near: 0.1,
+        far: 200,
+        position: [10, 10, 0],
+      }}
     >
+      <ambientLight intensity={5} /> {/* Increased intensity */}
+      
       <Suspense fallback={<CanvasLoader />}>
         <OrbitControls enableZoom={false} />
-        <B2 isMobile={isMobile} />
+        <B2 />
+        <Preload all />
       </Suspense>
-
-      <Preload all />
     </Canvas>
   );
 };

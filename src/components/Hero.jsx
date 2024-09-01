@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { styles } from "../styles";
-import { B2Canvas } from "./canvas";
+import Laptop from "./Laptop";
 
 const Hero = () => {
   return (
@@ -15,17 +15,22 @@ const Hero = () => {
             <h1 className={`${styles.heroHeadText} text-white mt-24`}>
               Hi, I'm <span className='text-[#915EFF]'>Edward</span>
             </h1>
+            <div>
+              {/* <div className="loader"></div> */}
+            </div>
           </div>
           <div className="flex flex-col w-full items-center justify-center">
             <p className={`${styles.heroSubText} text-white-100`}>
-              Master's Electrical & Computer Engineering Student @ UIUC<br className='sm:block hidden' />
+            Master's Electrical & Computer Engineering Student @ UIUC<br className='sm:block hidden' />
             </p>
           </div>
           <div>
-            <B2Canvas /> {/* Render the B2 bomber model */}
+            <Laptop />
           </div>
         </div>
       </div>
+
+      {/* <ComputersCanvas /> */}
 
       <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>
         <a href='#about'>
