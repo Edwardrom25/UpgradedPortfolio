@@ -5,7 +5,7 @@ import { OrbitControls, useGLTF } from "@react-three/drei";
 const B2Model = () => {
   const { scene } = useGLTF("/src/components/canvas/B2.glb"); // Adjust the path to your GLB file
 
-  return <primitive object={scene} position={[0, 0, 0]} scale={0.09} />;  // Keep the model centered and scaled
+  return <primitive object={scene} position={[0, 0, 0]} scale={4} />;  // Keep the model centered and scaled
 };
 
 const B2 = () => {
@@ -34,7 +34,7 @@ const B2 = () => {
         camera={{ position: [15, 15, 0], fov: 50 }}  // Isometric camera position
         gl={{
           antialias: false,
-          pixelRatio: 0.0005,  // Reduced pixel ratio
+          pixelRatio: 0.5,  // Reduced pixel ratio
         }}
       >
         <ambientLight intensity={1} />
@@ -52,5 +52,3 @@ const B2 = () => {
 };
 
 export default B2;
-
-
