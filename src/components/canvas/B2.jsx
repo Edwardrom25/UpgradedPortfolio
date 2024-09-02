@@ -8,7 +8,7 @@ const B2 = () => {
   const b2 = useGLTF("./B2/scene.gltf");
 
   return (
-    <primitive object={b2.scene} scale={0.045} position-z={1.05} position-y={-1} rotation-y={0} />
+    <primitive object={b2.scene} scale={0.045} position-z={1.05} position-y={-0.8} rotation-y={0} />
   );
 };
 
