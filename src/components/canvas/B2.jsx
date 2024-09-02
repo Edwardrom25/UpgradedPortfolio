@@ -8,7 +8,7 @@ const B2 = () => {
   const b2 = useGLTF("./B2/scene.gltf");
 
   return (
-    <primitive object={b2.scene} scale={0.05} position-y={0} rotation-y={0} />
+    <primitive object={b2.scene} scale={0.045} position-z={1} position-y={-1} rotation-y={0} />
   );
 };
 
@@ -23,10 +23,10 @@ const B2Canvas = () => {
         fov: 45,
         near: 0.1,
         far: 200,
-        position: [10, 7.5, 0],
+        position: [10, 7.5, -2.5],
       }}
     >
-      <ambientLight intensity={7} /> {/* Increased intensity */}
+      <ambientLight intensity={9} /> {/* Increased intensity */}
       
       <Suspense fallback={<CanvasLoader />}>
         <OrbitControls enableZoom={false} />
