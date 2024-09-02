@@ -1,10 +1,39 @@
+import React, { useEffect, useRef, useState } from "react";
 import { motion } from "framer-motion";
 import { styles } from "../styles";
 import { B2Canvas } from "./canvas";
 
 const Hero = () => {
+  const heroRef = useRef(null);
+  const [isB2Visible, setB2Visible] = useState(false);
+
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            setB2Visible(true);
+          } else {
+            setB2Visible(false);
+          }
+        });
+      },
+      { threshold: 0.5 }
+    );
+
+    if (heroRef.current) {
+      observer.observe(heroRef.current);
+    }
+
+    return () => {
+      if (heroRef.current) {
+        observer.unobserve(heroRef.current);
+      }
+    };
+  }, []);
+
   return (
-    <section className="relative w-full h-screen mx-auto flex justify-center items-center">
+    <section ref={heroRef} className="relative w-full h-screen mx-auto flex justify-center items-center">
       <div className={`${styles.paddingX} absolute inset-0 top-[120px] w-full max-w-7x1 mx-auto flex flex-row items-start gap-5`}>
         <div className="flex flex-col justify-center items-center mt-5">
           <div className='w-5 h-5 rounded-full bg-[#915EFF]' />
@@ -21,11 +50,11 @@ const Hero = () => {
           </div>
           <div className="flex flex-col w-full items-center justify-center">
             <p className={`${styles.heroSubText} text-white-100`}>
-            Master's Electrical & Computer Engineering Student @ UIUC<br className='sm:block hidden' />
+              Master's Electrical & Computer Engineering Student @ UIUC<br className='sm:block hidden' />
             </p>
           </div>
           <div>
-            <B2Canvas />
+            {isB2Visible && <B2Canvas />}
           </div>
         </div>
       </div>

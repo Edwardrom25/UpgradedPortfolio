@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react";
+import React, { useRef, useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import emailjs from "@emailjs/browser";
 
@@ -9,10 +9,10 @@ import { slideIn } from "../utils/motion";
 
 import gmail from "../assets/gmail.svg";
 import linkedin from "../assets/linkedin.svg";
-import github from "../assets/git.png";
 
 const Contact = () => {
   const formRef = useRef();
+  const earthRef = useRef(null);
   const [form, setForm] = useState({
     name: "",
     email: "",
@@ -20,6 +20,32 @@ const Contact = () => {
   });
 
   const [loading, setLoading] = useState(false);
+  const [isEarthVisible, setEarthVisible] = useState(false);
+
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            setEarthVisible(true);
+          } else {
+            setEarthVisible(false);
+          }
+        });
+      },
+      { threshold: 0.5 }
+    );
+
+    if (earthRef.current) {
+      observer.observe(earthRef.current);
+    }
+
+    return () => {
+      if (earthRef.current) {
+        observer.unobserve(earthRef.current);
+      }
+    };
+  }, []);
 
   const handleChange = (e) => {
     const { target } = e;
@@ -63,7 +89,7 @@ const Contact = () => {
           setLoading(false);
           console.error(error);
 
-          alert("Thank you for reaching out. I will be in touch as soon as possible."); 
+          alert("Thank you for reaching out. I will be in touch as soon as possible.");
         }
       );
   };
@@ -89,9 +115,11 @@ const Contact = () => {
       </motion.div>
 
       <motion.div
+        ref={earthRef}
         variants={slideIn("right", "tween", 0.2, 1)}
         className='xl:flex-1 xl:h-auto md:h-[550px] h-[350px]'
       >
+        {isEarthVisible && <EarthCanvas />}
       </motion.div>
     </div>
   );
