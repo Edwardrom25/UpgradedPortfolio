@@ -153,8 +153,8 @@ import {
       date: "Sept. 2024 - Present",
       points: [
         "Prepared field notes, drawings, specifications, and calculations to support a team of 12 engineers in designing overhead and underground power distribution systems for ComEd.",
-        "Leverage GIS data to design circuit schematics for transformers in AutoCAD, optimizing for safety and constructability around nearby substations that are not at maximum capacity and easily accessible.",
-        "Conduct field walk-downs to audit design packages and construction jobs, ensuring installations and operations comply with all codes, specifications, and client requirements."
+        "Leveraged GIS data to design circuit schematics for transformers in AutoCAD, optimizing for safety and constructability around nearby substations that are not at maximum capacity and easily accessible.",
+        "Conducted field walk-downs to audit design packages and construction jobs, ensuring installations and operations comply with all codes, specifications, and client requirements."
       ],
     },
     {
