@@ -69,7 +69,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-center'
       >
-        Through internships and team projects, I've gained hands-on experience in programming, modeling and simulation, construction, quality assurance, and regulatory compliance. Proficient in <span style={{ color: '#915eff' }}>Python</span>, <span style={{ color: '#915eff' }}>C++</span>, <span style={{ color: '#915eff' }}>MATLAB</span>, <span style={{ color: '#915eff' }}>Simulink</span>, <span style={{ color: '#915eff' }}>SolidWorks</span>, <span style={{ color: '#915eff' }}>Altium Designer</span>, <span style={{ color: '#915eff' }}>LabVIEW</span>, and <span style={{ color: '#915eff' }}>Microsoft Office tools</span>, I am eager to leverage my technical skills to develop technologies that keep people safe and advance humanity beyond the stars.
+        Through internships and team projects, I've gained hands-on experience in programming, modeling and simulation, manufacturing, and quality assurance. Proficient in <span style={{ color: '#915eff' }}>Python</span>, <span style={{ color: '#915eff' }}>C++</span>, <span style={{ color: '#915eff' }}>MATLAB</span>, <span style={{ color: '#915eff' }}>Simulink</span>, <span style={{ color: '#915eff' }}>SolidWorks</span>, <span style={{ color: '#915eff' }}>Altium Designer</span>, <span style={{ color: '#915eff' }}>LabVIEW</span>, and <span style={{ color: '#915eff' }}>Microsoft Office tools</span>, I am eager to leverage my technical skills to develop technologies that keep people safe and advance humanity beyond the stars.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10 justify-center'>

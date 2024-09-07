@@ -196,7 +196,7 @@ import {
     {
       name: "NASA L'SPACE Mission Concept Academy",
       description:
-        "Collaborated with a team of 12 students to design a rover for an exploration mission on Mars, planning a 5‐year mission timeline and optimizing a $300M budget for a Preliminary Design Review.",
+        "Teamed up with 12 students to prepare a Preliminary Design Review for a Mars exploration rover aimed at characterizing ice at Hellas Planitia.",
       tags: [
         {
           name: "Siemens NX",
