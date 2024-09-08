@@ -152,9 +152,10 @@ import {
       iconBg: "#FFFFFF",
       date: "Sept. 2024 - Present",
       points: [
-        "Prepared field notes, drawings, specifications, and calculations to support a team of 12 engineers in designing overhead and underground power distribution systems for ComEd.",
-        "Leveraged GIS data to design circuit schematics for transformers in AutoCAD, optimizing for safety and constructability around nearby substations that are not at maximum capacity and easily accessible.",
-        "Conducted field walk-downs to audit design packages and construction jobs, ensuring installations and operations comply with all codes, specifications, and client requirements."
+        "Prepare field notes, drawings, specifications, and calculations to support a team of 12 engineers in designing overhead and underground power distribution systems for ComEd.",
+        "Leverage GIS data to design circuit schematics for transformers in AutoCAD, optimizing for safety and constructability around nearby substations that are not at maximum capacity and easily accessible.",
+        "Resolve pole instability for overhead power distribution systems in high wind regions by leveraging Pole Loading Analysis software to identify and reinforce at-risk poles, increasing reliability for critical infrastructure.",
+        "Conduct field walk-downs to audit design packages and construction jobs, ensuring installations and operations comply with all codes, specifications, and client requirements."
       ],
     },
     {
@@ -196,7 +197,7 @@ import {
     {
       name: "NASA L'SPACE Mission Concept Academy",
       description:
-        "Teamed up with 12 students to prepare a Preliminary Design Review for a Mars exploration rover aimed at characterizing ice at Hellas Planitia.",
+        "Team up with 12 students to prepare a Preliminary Design Review for a Mars exploration rover aimed at characterizing ice at Hellas Planitia.",
       tags: [
         {
           name: "Siemens NX",
