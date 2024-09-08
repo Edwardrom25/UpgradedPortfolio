@@ -1,11 +1,10 @@
-## Wasif Somji's Coding Portfolio
+## Edward Romero's Coding Portfolio
 
-Welcome to my coding portfolio! This showcases my work experience and projects as a full-stack developer.
+Welcome to my coding portfolio! This showcases my work experience and projects as an engineer.
 
 ## Tools Used:
 - Three.js + Vite
 - Tailwind CSS
-- Source code
 
-Available here: https://wasifs-portfolio.netlify.app/
+Available here: https://eromero-portfolio.netlify.app/
 "# UpgradedPortfolio" 
