@@ -152,10 +152,10 @@ import {
       iconBg: "#FFFFFF",
       date: "Sept. 2024 - Present",
       points: [
-        "Prepare field notes, drawings, specifications, and calculations to support a team of 12 engineers in designing overhead and underground power distribution systems for ComEd.",
-        "Leverage GIS data to design circuit schematics for transformers in AutoCAD, optimizing for safety and constructability around nearby substations that are not at maximum capacity and easily accessible.",
-        "Resolve pole instability for overhead power distribution systems in high wind regions by leveraging Pole Loading Analysis software to identify and reinforce at-risk poles, increasing reliability for critical infrastructure.",
-        "Conduct field walk-downs to audit design packages and construction jobs, ensuring installations and operations comply with all codes, specifications, and client requirements."
+        "Collaborate with 12 engineers to design overhead and underground power distribution systems for Southern Company, BGE, ComEd, NIPSCO, Delmarva Power, PSEG, Pepco, and AT&T.",
+        "Leverage GIS software to integrate poles, transformers, conductors, and conduits into 2D AutoCAD drawings, optimizing layouts to minimize construction time.",
+        "Resolve pole instability for overhead power distribution systems in high wind regions by leveraging pole loading analysis software to identify and reinforce at-risk poles.",
+        "Ensure installations and operations comply with all codes, specifications, and client requirements by conducting field walk-downs to create bills of materials and labor specifications and to audit design packages and construction jobs."
       ],
     },
     {
@@ -168,7 +168,7 @@ import {
         "Supported 4 engineers and 1 marketing & innovation specialist in the manufacturing and quality assurance of new and existing cleaning products for cleanrooms in pharmaceutical and microelectronics manufacturing.",
         "Designed and validated a test method to compute the coefficient of friction of mops, enabling the sales team to quantify and compare the friction experienced by users with Vileda Professional mops versus competitor mops.",
         "Developed 2D SolidWorks drawings for 9 parts of a flagship product launching in 2025, ensuring precise geometric dimensioning and tolerancing (GD&T) in connection areas to minimize assembly issues for end users.",
-        "Created bills of materials, quality control plans, packaging specifications, and pallet patterns for 6 new products, optimizing for sustainability, cost, protection, and compliance with ASTM and ISO standards.",
+        "Created bills of materials, quality control plans, and packaging specifications in Word, and optimized pallet patterns using TOPS Pro, improving the sustainability, cost savings, and protection for 6 new products.",
         "Expedited clients’ compliance documentation by compiling internal and third party testing data on the particle release and chemical resistance of 3 prototypes into PowerPoint reports.",
         "Programmed a Universal Robots UR5 Cobot Arm to simulate a trolley passing through a wheel cleaner prototype 1,000 times, automating life cycle testing of the components."
       ],
