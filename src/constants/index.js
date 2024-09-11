@@ -153,7 +153,7 @@ import {
       date: "Sept. 2024 - Present",
       points: [
         "Collaborate with 12 engineers to design overhead and underground power distribution systems for Southern Company, BGE, ComEd, NIPSCO, Delmarva Power, PSEG, Pepco, and AT&T.",
-        "Leverage CEGIS to visualize overhead and underground power distribution systems and Google Earth to optimize the layout of poles, transformers, conductors, and conduits in 2D AutoCAD drawings.",
+        "Leverage CEGIS and Google Earth to visualize and optimize the layout of poles, transformers, conductors, and conduits in 2D AutoCAD drawings.",
         "Analyze the structural integrity of overhead poles by simulating wind, ice, and line load forces in PoleForeman, resolving pole instability in at-risk regions.",
         "Ensure installations and operations comply with all codes, specifications, and client requirements by conducting field walk-downs to create bills of materials and labor specifications and to audit design packages and construction jobs."
       ],
