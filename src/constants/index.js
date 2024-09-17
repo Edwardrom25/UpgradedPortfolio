@@ -197,7 +197,7 @@ import {
     {
       name: "NASA L'SPACE Mission Concept Academy",
       description:
-        "Team up with 12 students to prepare a Preliminary Design Review for a Mars exploration rover aimed at characterizing ice at Hellas Planitia.",
+        "Team up with a group of students to prepare a Preliminary Design Review (PDR) for a spacecraft aimed at characterizing lunar pits.",
       tags: [
         {
           name: "Siemens NX",
