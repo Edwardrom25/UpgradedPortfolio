@@ -153,9 +153,9 @@ import {
       date: "Sept. 2024 - Present",
       points: [
         "Collaborate with 12 engineers to design overhead and underground power distribution systems for Southern Company, BGE, ComEd, NIPSCO, Delmarva Power, PSEG, Pepco, and AT&T.",
-        "Develop 2D drawings for power distribution systems in AutoCAD and MicroStation, leveraging Google Earth to optimize routing and assess feasibility of proposed designs.",
-        "Simulate wind, ice, and line load forces in PoleForeman to analyze the structural integrity of overhead poles, reinforcing unstable poles with guy wires.",
-        "Ensure installations and operations comply with IEEE and EIC standards by conducting field walk-downs to create material and labor specifications and to audit design packages and construction jobs."
+        "Develop one-line utility drawings in AutoCAD and MicroStation, leveraging Google Earth and CEGIS to assess the feasibility of proposed designs.",
+        "Simulate wind, ice, and line load forces in PoleForeman to analyze the structural integrity of overhead poles, reinforcing unstable poles with guy wires as recommended by ComEd Standards C7022 and C7150.",
+        "Conduct field walk-downs to review utility drawings, material specifications, and construction jobs, ensuring installations and operations comply with IEEE standards, EIC standards, and client requirements."
       ],
     },
     {
@@ -197,7 +197,7 @@ import {
     {
       name: "NASA L'SPACE Mission Concept Academy",
       description:
-        "Team up with a group of students to prepare a Preliminary Design Review (PDR) for a spacecraft aimed at characterizing lunar pits.",
+        "Team up with 16 students to prepare a Preliminary Design Review (PDR) for a spacecraft that characterizes lunar pits, potentially identifying stable environments for long-term habitation on the Moon for the Artemis missions.",
       tags: [
         {
           name: "Siemens NX",
