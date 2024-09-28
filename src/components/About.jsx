@@ -46,28 +46,28 @@ const About = () => {
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-justify'
+        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
       >
         “The nitrogen in our DNA. The calcium in our teeth. The iron in our blood. The carbon in our apple pies were made in the interiors of collapsing stars. We are made of star stuff.”
       </motion.p>
       
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-justify'
+        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
       >
         We are the universe tasting itself, talking to itself, reading its own code. Carl Sagan’s profound words inspired my pursuit of a <span style={{ color: '#915eff' }}>B.S. in Bioengineering</span> and a <span style={{ color: '#915eff' }}>Minor in Materials Science Engineering</span> at the University of Illinois Urbana-Champaign, focusing on researching and developing materials that enhance the sustainability, survivability, and operational efficiency of crew and electronic devices in aerospace vehicles.
       </motion.p>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-justify'
+        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
       >
         I am currently pursuing a <span style={{ color: '#915eff' }}>Master’s Degree in Electrical and Computer Engineering</span> from the University of Illinois Urbana-Champaign. I am seeking internship and full-time positions that will allow me to work as an engineer involved in high-profile testing and integration of flight hardware and software in defense and space technologies.
       </motion.p>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-justify'
+        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
       >
         Through internships and team projects, I've gained hands-on experience in programming, modeling and simulation, electrical systems, manufacturing, and quality assurance. Proficient in <span style={{ color: '#915eff' }}>Python</span>, <span style={{ color: '#915eff' }}>C++</span>, <span style={{ color: '#915eff' }}>MATLAB</span>, <span style={{ color: '#915eff' }}>Simulink</span>, <span style={{ color: '#915eff' }}>SolidWorks</span>, <span style={{ color: '#915eff' }}>Altium Designer</span>, <span style={{ color: '#915eff' }}>LabVIEW</span>, and <span style={{ color: '#915eff' }}>Microsoft Office tools</span>, I am eager to leverage my technical skills to develop technologies that keep people safe and advance humanity beyond the stars.
       </motion.p>
