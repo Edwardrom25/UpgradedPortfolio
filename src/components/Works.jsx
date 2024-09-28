@@ -74,7 +74,7 @@ const Works = () => {
       <div className='w-full flex justify-center items-center'>
         <motion.p
           variants={fadeIn("", "", 0.1, 1)}
-          className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px] text-center'
+          className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
         >
           The projects below demonstrate my ability to work in a team and apply engineering concepts to real-world challenges.
         </motion.p>
