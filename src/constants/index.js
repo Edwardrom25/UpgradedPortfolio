@@ -152,10 +152,10 @@ import {
       iconBg: "#FFFFFF",
       date: "Sept. 2024 - Present",
       points: [
-        "Collaborate with 12 engineers to design overhead and underground power distribution systems for Southern Company, BGE, ComEd, NIPSCO, Delmarva Power, PSEG, Pepco, and AT&T.",
-        "Develop one-line utility drawings in AutoCAD and MicroStation, leveraging Google Earth and CEGIS to assess the feasibility of proposed designs.",
-        "Simulate wind, ice, and line load forces in PoleForeman to analyze the structural integrity of overhead poles, reinforcing unstable poles with guy wires as recommended by ComEd Standards C7022 and C7150.",
-        "Conduct field walk-downs to review utility drawings, material specifications, and construction jobs, ensuring installations and operations comply with IEEE standards, EIC standards, and client requirements."
+        "Collaborated with 12 engineers to design overhead and underground power distribution systems (4-69 kV) for Exelon Corporation.",
+        "Developed 15+ one-line utility drawings in AutoCAD and MicroStation, leveraging Google Earth and CEGIS to assess the feasibility of proposed designs.",
+        "Simulated wind, ice, and line load forces in PoleForeman to analyze the structural integrity of 10+ overhead poles, reinforcing unstable poles with guy wires as recommended by ComEd Standards C7022 and C7150.",
+        "Conducted field walk-downs to review drawings, specifications, and construction jobs, ensuring installations and operations comply with IEEE standards, EIC standards, and client requirements."
       ],
     },
     {
@@ -197,7 +197,7 @@ import {
     {
       name: "NASA L'SPACE Mission Concept Academy",
       description:
-        "Team up with 16 students to prepare a Preliminary Design Review (PDR) for a spacecraft that characterizes lunar pits, potentially identifying stable environments for long-term habitation on the Moon for the Artemis missions.",
+        "Teamed up with 16 students to prepare a Preliminary Design Review (PDR) for a spacecraft that characterizes lunar pits, potentially identifying stable environments for long-term habitation on the Moon for the Artemis missions.",
       tags: [
         {
           name: "Siemens NX",
