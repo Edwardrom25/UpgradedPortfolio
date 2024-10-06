@@ -43,6 +43,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import mrg from "./company/mrg.png";
 import milhouse from "./company/milhouse.png";
+import nasawork from "./company/nasa_work.png";
 import FHCS from "./company/FHCS.png";
 import katz from "./company/katz.png";
 import shomigo from "./company/shomigo.png";
@@ -61,11 +62,14 @@ import ECGm from "./ECG.png";
 
 import PID from "./PID.pdf";
 import ECG from "./ECG.pdf";
+import homepage from "./homepage.png";
 
 export {
   logo,
   PID,
+  homepage,
   ECGm,
+  nasawork,
   PIDm,
   ECG,
   backend,
