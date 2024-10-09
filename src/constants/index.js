@@ -155,8 +155,8 @@ import {
       date: "Jan. 2025 - May 2025",
       points: [
         "Awarded a NASA Illinois Space Grant to fund upcoming internship at NASA Kennedy Space Center, focused on researching the effects of microgravity on biological organisms.",
-        "Conduct computational fluid dynamics (CFD) simulations on plant cells in ANSYS to optimize nutrient transport and gas exchange for life support systems in the International Space Station (ISS).",
-        "Develop MATLAB and Python scripts to calculate the net gravitational force experienced by cell cultures in Gravite microgravity simulators.",
+        "Conducting computational fluid dynamics (CFD) simulations on plant cells in ANSYS to optimize nutrient transport and gas exchange for life support systems in the International Space Station (ISS).",
+        "Developing MATLAB and Python scripts to calculate the net gravitational force experienced by cell cultures in Gravite microgravity simulators.",
       ],
     },
     {
