@@ -244,7 +244,7 @@ import {
         },
         {
           name: "CSS",
-          color: "blue-text-gradient",
+          color: "pink-text-gradient",
         },
       ],
       image: homepage,
