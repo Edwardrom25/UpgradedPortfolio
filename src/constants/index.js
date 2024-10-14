@@ -216,7 +216,11 @@ import {
         {
           name: "Siemens NX",
           color: "blue-text-gradient",
-        }
+        },
+        {
+          name: "JMARS",
+          color: "orange-text-gradient",
+        },
       ],
       image: nasa,
       deploy_link: "https://www.lspace.asu.edu/"
@@ -224,7 +228,7 @@ import {
     {
       name: "NASA International Space Apps Challenge",
       description:
-        "Developed an interactive platform in React.js for NASA’s Space Apps Challenge, overlaying global emission data from the U.S. GHG Center on a 3D model of Earth, making climate information accessible and engaging for the public.",
+        "Developed a website in React with JavaScript, HTML, and CSS, overlaying datasets from the U.S. Greenhouse Gas Center onto a 3D model of Earth to create an interactive tool that simplified climate change data for users.",
       tags: [
         {
           name: "React.js",
