@@ -211,7 +211,7 @@ import {
     {
       name: "NASA L'SPACE Mission Concept Academy",
       description:
-        "Teamed up with 16 students to prepare a Preliminary Design Review (PDR) for a spacecraft that characterizes lunar pits, potentially identifying stable environments for long-term habitation on the Moon for the Artemis missions.",
+        "Teamed up with 16 students to prepare a MCR, SRR, MDR, and PDR for a rover that characterizes lunar pits, potentially identifying stable environments for long-term habitation on the Moon for the Artemis missions.",
       tags: [
         {
           name: "Siemens NX",
