@@ -167,9 +167,9 @@ import {
       date: "Sept. 2024 - Dec. 2024",
       points: [
         "Collaborated with 12 engineers to design overhead and underground power distribution systems (4-69 kV) for Exelon Corporation.",
-        "Developed 15+ one-line utility drawings in AutoCAD and MicroStation for 10+ clients, leveraging Google Earth and CEGIS to assess the feasibility of proposed designs.",
-        "Simulated wind, ice, and line load forces in PoleForeman to analyze the structural integrity of 10+ overhead poles, reinforcing unstable poles with guy wires as recommended by ComEd Standards C7022 and C7150.",
-        "Conducted field walk-downs to review drawings, specifications, and construction jobs, ensuring installations and operations comply with IEEE standards, EIC standards, and client requirements."
+        "Developed 15+ one-line utility drawings in AutoCAD and MicroStation for 15+ FEJA projects, leveraging Google Earth KMZ files and ComEd GIS to assess the feasibility of customer’s proposed designs.",
+        "Simulated wind, ice, and line load forces in PoleForeman to analyze the structural integrity of 10+ overhead poles, as outlined in NESC Rule 250B.",
+        "Conducted field walk-downs to audit design packages and construction jobs, verifying that installations and operations complied with NESC standards and client requirements."
       ],
     },
     {
@@ -180,11 +180,11 @@ import {
       date: "June 2024 - Aug. 2024",
       points: [
         "Supported 4 engineers and 1 marketing & innovation specialist in the manufacturing and quality assurance of new and existing cleaning products for cleanrooms in pharmaceutical and microelectronics manufacturing.",
-        "Designed and validated a test method to compute the coefficient of friction of mops, enabling the sales team to quantify and compare the friction experienced by users with Vileda Professional mops versus competitor mops.",
         "Developed 2D SolidWorks drawings for 9 parts of a flagship product launching in 2025, incorporating geometric dimensioning and tolerancing (GD&T) in connection areas to minimize assembly issues for end users.",
         "Created bills of materials, quality control plans, and packaging specifications in Word, and optimized pallet patterns using TOPS Pro, improving sustainability, cost savings, and protection for 6 new products.",
-        "Expedited clients’ compliance documentation by compiling internal and third party testing data on the particle release and chemical resistance of 3 prototypes into PowerPoint reports.",
-        "Programmed a Universal Robots UR5 Cobot Arm to simulate a trolley passing through a wheel cleaner prototype 1,000 times, automating life cycle testing of the components."
+        "Coordinated third-party particle release testing and conducted internal testing in the R&D lab on the autoclavability and chemical resistance of 3 prototypes, compiling the data into PowerPoint reports.",
+        "Programmed a Universal Robots UR5 Cobot Arm to simulate a trolley passing through a wheel cleaner prototype 1,000 times, automating life cycle testing of the components.",
+        "Designed and validated a test method to compute the coefficient of friction of mops, enabling the sales team to quantify and compare the friction experienced by users with Vileda Professional mops versus competitor mops."
       ],
     },
     {
@@ -195,8 +195,8 @@ import {
       date: "Jan. 2024 - May 2024",
       points: [
         "Collaborated with 2 engineers and 4 students to provide the first noninvasive method for diagnosing fibromyalgia by developing a near-infrared spectroscopy prototype that measures muscle oxygenation in a patient’s hand.",
-        "Reduced readout time for muscle oxygenation to under 15 seconds by developing and implementing C++ code into Arduino IDE for an Arduino Nano that computes and displays SmO₂% on an LCD.",
-        "Automated data collection for electronic health records by creating Python scripts in Jupyter Notebook to generate plots for tracking trends in patient SmO₂% levels.",
+        "Developed C++ code in Arduino IDE for an Arduino Nano that computes and displays SmO₂% on an LCD, reducing readout time for muscle oxygenation to under 15 seconds.",
+        "Created Python scripts to generate time series analyses of patient SmO₂% levels and securely store them in Amazon Web Services (AWS), automating data collection for electronic health records.",
         "Leveraged Git and GitHub for version control and issue tracking, enabling the team to contribute code, review changes, and report bugs.",
         "Verified that the prototype’s design conforms with user needs by interviewing 2 fibromyalgia patients to gain insights into their preferences and challenges with the current diagnostic process.",
       ],
@@ -211,7 +211,7 @@ import {
     {
       name: "NASA L'SPACE Mission Concept Academy",
       description:
-        "Teamed up with 16 students to prepare a MCR, SRR, MDR, and PDR for a rover that characterizes lunar pits, potentially identifying stable environments for long-term habitation on the Moon for the Artemis missions.",
+        "Led a team of 16 students to prepare a MCR, SRR, MDR, and PDR for a rover that characterizes lunar pits, potentially identifying stable environments for long-term habitation on the Moon for the Artemis missions.",
       tags: [
         {
           name: "Siemens NX",
@@ -228,7 +228,7 @@ import {
     {
       name: "NASA International Space Apps Challenge",
       description:
-        "Developed a website in React with JavaScript, HTML, and CSS, overlaying datasets from the U.S. Greenhouse Gas Center onto a 3D model of Earth to create an interactive tool that simplified climate change data for users.",
+        "Developed a React website using TypeScript, overlaying emission datasets from the U.S. Greenhouse Gas Center onto a 3D model of Earth to create an interactive tool that simplified climate change data for users.",
       tags: [
         {
           name: "React.js",
