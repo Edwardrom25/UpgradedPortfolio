@@ -169,7 +169,7 @@ import {
         "Collaborated with 12 engineers to design overhead and underground power distribution systems (4-69 kV) for Exelon Corporation.",
         "Developed 15+ one-line utility drawings in AutoCAD and MicroStation for 15+ FEJA projects, leveraging Google Earth KMZ files and ComEd GIS to assess the feasibility of customer’s proposed designs.",
         "Simulated wind, ice, and line load forces in PoleForeman to analyze the structural integrity of 10+ overhead poles, as outlined in NESC Rule 250B.",
-        "Conducted field walk-downs to audit design packages and construction jobs, verifying that installations and operations complied with NESC standards and client requirements."
+        "Conducted field walk-downs to audit design packages and construction jobs, verifying that installations and operations complied with the NESC and client requirements."
       ],
     },
     {
@@ -180,7 +180,7 @@ import {
       date: "June 2024 - Aug. 2024",
       points: [
         "Supported 4 engineers and 1 marketing & innovation specialist in the manufacturing and quality assurance of new and existing cleaning products for cleanrooms in pharmaceutical and microelectronics manufacturing.",
-        "Developed 2D SolidWorks drawings for 9 parts of a flagship product launching in 2025, incorporating geometric dimensioning and tolerancing (GD&T) in connection areas to minimize assembly issues for end users.",
+        "Developed 2D drawings in SolidWorks for 9 parts of a flagship product launching in 2025, incorporating geometric dimensioning and tolerancing (GD&T) in connection areas to minimize assembly issues for end users.",
         "Created bills of materials, quality control plans, and packaging specifications in Word, and optimized pallet patterns using TOPS Pro, improving sustainability, cost savings, and protection for 6 new products.",
         "Coordinated third-party particle release testing and conducted internal testing in the R&D lab on the autoclavability and chemical resistance of 3 prototypes, compiling the data into PowerPoint reports.",
         "Programmed a Universal Robots UR5 Cobot Arm to simulate a trolley passing through a wheel cleaner prototype 1,000 times, automating life cycle testing of the components.",
@@ -223,7 +223,7 @@ import {
         },
       ],
       image: nasa,
-      deploy_link: "https://www.lspace.asu.edu/"
+      deploy_link: "https://www.lspace.asu.edu/mission-concept-academy"
     },
     {
       name: "NASA International Space Apps Challenge",
