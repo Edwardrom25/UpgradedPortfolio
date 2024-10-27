@@ -4,6 +4,7 @@ import {
     creator,
     web,
     javascript,
+    vileda,
     typescript,
     html,
     css,
@@ -152,7 +153,7 @@ import {
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
-      date: "Jan. 2025 - May 2025",
+      date: "January 2025 - May 2025",
       points: [
         "Awarded a NASA Illinois Space Grant to fund upcoming internship at NASA Kennedy Space Center, focused on researching the effects of microgravity on biological organisms.",
         "Conducting computational fluid dynamics (CFD) simulations on plant cells in ANSYS to optimize nutrient transport and gas exchange for life support systems in the International Space Station (ISS).",
@@ -164,7 +165,7 @@ import {
       company_name: "Milhouse Engineering and Construction, Inc.",
       icon: milhouse,
       iconBg: "#FFFFFF",
-      date: "Sept. 2024 - Dec. 2024",
+      date: "September 2024 - December 2024",
       points: [
         "Collaborated with 12 engineers to design overhead and underground power distribution systems (4-69 kV) for ComEd, the largest electric utility provider in Illinois.",
         "Developed interconnection diagrams in AutoCAD and MicroStation for 15+ FEJA solar projects, leveraging Google Earth KMZ files and ComEd GIS to assess the feasibility of customer’s proposed designs.",
@@ -174,10 +175,10 @@ import {
     },
     {
       title: "Project Engineering Intern",
-      company_name: "Freudenberg Household Products",
-      icon: FHCS,
+      company_name: "Vileda Professional CE",
+      icon: vileda,
       iconBg: "#FFFFFF",
-      date: "June 2024 - Aug. 2024",
+      date: "June 2024 - August 2024",
       points: [
         "Supported 4 engineers and 1 marketing & innovation specialist in the manufacturing and quality assurance of new and existing cleaning products for cleanrooms in pharmaceutical and microelectronics manufacturing.",
         "Developed 2D drawings in SolidWorks for 9 parts of a flagship product launching in 2025, incorporating geometric dimensioning and tolerancing (GD&T) in connection areas to minimize assembly issues for end users.",
@@ -192,7 +193,7 @@ import {
       company_name: "Katz Diagnostics, Inc.",
       icon: katz,
       iconBg: "#FFFFFF",
-      date: "Jan. 2024 - May 2024",
+      date: "January 2024 - May 2024",
       points: [
         "Collaborated with 2 engineers and 4 students to provide the first noninvasive method for diagnosing fibromyalgia by developing a near-infrared spectroscopy prototype that measures muscle oxygenation in a patient’s hand.",
         "Developed C++ code in Arduino IDE for an Arduino Nano that computes and displays SmO₂% on an LCD, reducing readout time for muscle oxygenation to under 15 seconds.",

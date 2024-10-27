@@ -47,6 +47,7 @@ import milhouse from "./company/milhouse.png";
 import nasawork from "./company/nasa_work.png";
 import FHCS from "./company/FHCS.png";
 import katz from "./company/katz.png";
+import vileda from "./company/vileda.png";
 import shomigo from "./company/shomigo.png";
 import lottus from "./company/lottus.png";
 import khamis from "./company/khamis-towing.png";
@@ -72,6 +73,7 @@ export {
   homepage,
   ECGm,
   nasawork,
+  vileda,
   PIDm,
   ECG,
   backend,
