@@ -212,7 +212,7 @@ import {
     {
       name: "NASA L'SPACE Mission Concept Academy",
       description:
-        "Led a team of 16 students to prepare a MCR, SRR, MDR, and PDR for a rover that characterizes lunar pits, potentially identifying stable environments for long-term habitation on the Moon for the Artemis missions.",
+        "Co-led a team of 16 students to prepare a MCR, SRR, MDR, and PDR for a rover that characterizes lunar pits to identify stable environments for long-term habitation on the Moon for the Artemis missions.",
       tags: [
         {
           name: "Siemens NX",
@@ -236,7 +236,7 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "JavaScript",
+          name: "TypeScript",
           color: "orange-text-gradient",
         },
         {
