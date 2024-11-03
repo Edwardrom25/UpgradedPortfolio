@@ -155,8 +155,8 @@ import {
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Awarded a NASA Illinois Space Grant to fund upcoming internship at NASA Kennedy Space Center, focused on researching the effects of microgravity on biological organisms.",
-        "Conducting computational fluid dynamics (CFD) simulations on plant cells in ANSYS to optimize nutrient transport and gas exchange for life support systems in the International Space Station (ISS).",
+        "Awarded a NASA Illinois Space Grant for an internship at NASA Kennedy Space Center, supporting a team of project scientists researching the effects of microgravity on biological organisms.",
+        "Conducting computational fluid dynamics (CFD) simulations on plants in ANSYS to optimize nutrient transport and gas exchange for life support systems in the International Space Station (ISS).",
         "Developing MATLAB and Python scripts to calculate the net gravitational force experienced by cell cultures in Gravite microgravity simulators.",
       ],
     },
@@ -212,7 +212,7 @@ import {
     {
       name: "NASA L'SPACE Mission Concept Academy",
       description:
-        "Co-led a team of 16 students to prepare a MCR, SRR, MDR, and PDR for a rover that characterizes lunar pits to identify stable environments for long-term habitation on the Moon for the Artemis missions.",
+        "Co-led a team of 16 students as the lead systems engineer, preparing a MCR, SRR, MDR, and PDR for a rover that characterizes lunar pits to identify stable environments for long-term habitation on the Moon for the Artemis missions.",
       tags: [
         {
           name: "Siemens NX",
