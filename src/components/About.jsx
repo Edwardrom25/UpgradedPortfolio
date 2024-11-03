@@ -55,14 +55,14 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
       >
-        We are the universe tasting itself, talking to itself, reading its own code. Carl Sagan’s profound words inspired my pursuit of a <span style={{ color: '#915eff' }}>B.S. in Bioengineering</span> and a <span style={{ color: '#915eff' }}>Minor in Materials Science Engineering</span> at the University of Illinois Urbana-Champaign, focusing on researching and developing materials that enhance the sustainability, survivability, and operational efficiency of crew and electronic devices in aerospace vehicles.
+        We are the universe tasting itself, talking to itself, reading its own code. Carl Sagan’s profound words inspired my pursuit of a <span style={{ color: '#915eff' }}>bachelor's degree in bioengineering</span> and a <span style={{ color: '#915eff' }}>minor in materials science engineering</span> at the University of Illinois Urbana-Champaign, with a focus on researching and developing materials that enhance the sustainability, survivability, and operational efficiency of crew and electronic devices in aerospace vehicles.
       </motion.p>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
       >
-        I am currently pursuing a <span style={{ color: '#915eff' }}>Master’s Degree in Electrical and Computer Engineering</span> from the University of Illinois Urbana-Champaign. I am seeking internship and full-time positions that will allow me to work as an engineer involved in high-profile testing and integration of flight hardware and software in defense and space technologies.
+        I am currently pursuing a <span style={{ color: '#915eff' }}>master’s degree in electrical and computer engineering</span> from the University of Illinois Urbana-Champaign. I am seeking internship and full-time positions that will allow me to work as an engineer involved in high-profile testing and integration of flight hardware and software in defense and space technologies.
       </motion.p>
 
       <motion.p
