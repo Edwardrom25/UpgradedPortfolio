@@ -180,9 +180,9 @@ import {
       iconBg: "#FFFFFF",
       date: "June 2024 - August 2024",
       points: [
-        "Supported 4 engineers and 1 marketing & innovation specialist in the manufacturing and quality assurance of new and existing cleaning products for cleanrooms in pharmaceutical and microelectronics manufacturing.",
+        "Supported the new product development (NPD) and quality assurance teams in the design and testing of new and existing cleaning products for ISO 5-ISO 8 cleanrooms.",
         "Developed 2D drawings in SolidWorks for 9 parts of a flagship product launching in 2025, incorporating geometric dimensioning and tolerancing (GD&T) in connection areas to minimize assembly issues for end users.",
-        "Created bills of materials, quality control plans, and packaging specifications in Word, and optimized pallet patterns using TOPS Pro, improving sustainability, cost savings, and protection for 6 new products.",
+        "Created bills of materials, quality control plans, and packaging process specifications for 6 products, utilizing TOPS Pro to optimize pallet patterns for improved cost savings.",
         "Coordinated third-party particle release testing and conducted internal testing in the R&D lab on the autoclavability and chemical resistance of 3 prototypes, compiling the data into PowerPoint reports.",
         "Programmed a Universal Robots UR5 Cobot Arm to simulate a trolley passing through a wheel cleaner prototype 1,000 times, automating life cycle testing of the components.",
         "Designed and validated a test method to compute the coefficient of friction of mops, enabling the sales team to quantify and compare the friction experienced by users with Vileda Professional mops versus competitor mops."
@@ -195,7 +195,7 @@ import {
       iconBg: "#FFFFFF",
       date: "January 2024 - May 2024",
       points: [
-        "Collaborated with 2 engineers and 4 students to provide the first noninvasive method for diagnosing fibromyalgia by developing a near-infrared spectroscopy prototype that measures muscle oxygenation in a patient’s hand.",
+        "Collaborated with 6 engineers to provide the first noninvasive method for diagnosing fibromyalgia by developing a near-infrared spectroscopy prototype that measures muscle oxygenation in a patient's hand.",
         "Developed C++ code in Arduino IDE for an Arduino Nano that computes and displays SmO₂% on an LCD, reducing readout time for muscle oxygenation to under 15 seconds.",
         "Created Python scripts to generate time series analyses of patient SmO₂% levels and securely store them in Amazon Web Services (AWS), automating data collection for electronic health records.",
         "Leveraged Git and GitHub for version control and issue tracking, enabling the team to contribute code, review changes, and report bugs.",
