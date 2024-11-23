@@ -8,8 +8,9 @@ import { styles } from "../styles";
 
 const Tech = () => {
   return (
-    <div className='flex flex-col items-center gap-10 max-w-6xl mx-auto'>
-      <h2 className={`${styles.sectionHeadText} text-center`}>
+    <div className='flex flex-col items-center max-w-6xl mx-auto'>
+      <p className={`${styles.sectionSubText} text-center`}>My Technical Skills</p>
+      <h2 className={`${styles.sectionHeadText} text-center mb-10`}>
         Technologies
       </h2>
       <div className='flex flex-row flex-wrap justify-center gap-10'>
@@ -23,4 +24,4 @@ const Tech = () => {
   );
 }
 
-export default Tech
+export default Tech;

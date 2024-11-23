@@ -36,6 +36,7 @@ import siemens from "./tech/siemens.png";
 import autocad from "./tech/autocad.png";
 import fusion from "./tech/fusion.png";
 import microsoft from "./tech/microsoft.png";
+import ansys from "./tech/ansys.png";
 
 
 import meta from "./company/meta.png";
@@ -45,6 +46,7 @@ import tesla from "./company/tesla.png";
 import mrg from "./company/mrg.png";
 import milhouse from "./company/milhouse.png";
 import nasawork from "./company/nasa_work.png";
+import spacex from "./company/spacex.png";
 import FHCS from "./company/FHCS.png";
 import katz from "./company/katz.png";
 import vileda from "./company/vileda.png";
@@ -52,15 +54,21 @@ import shomigo from "./company/shomigo.png";
 import lottus from "./company/lottus.png";
 import khamis from "./company/khamis-towing.png";
 import pacific from "./company/pacific.jpg";
+import collins from "./company/collins.png";
+import FBI from "./company/FBI.png";
+import katzfull from "./company/katzfull.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import mrgtravel from "./mrgtravel.png";
 import nasa from "./nasa.png";
+import nasaproject from "./nasa_project.png";
 import ventures from "./ventures.png";
 import PIDm from "./PID.png";
 import ECGm from "./ECG.png";
+import spaceshot from "./spaceshot.png";
+import ISS from "./ISS.png";
 
 import PID from "./PID.pdf";
 import ECG from "./ECG.pdf";
@@ -69,8 +77,12 @@ import homepage from "./homepage.png";
 export {
   logo,
   logopng,
+  nasaproject,
+  ISS,
+  spaceshot,
   PID,
   homepage,
+  katzfull,
   ECGm,
   nasawork,
   vileda,
@@ -78,6 +90,7 @@ export {
   ECG,
   backend,
   creator,
+  collins,
   mobile,
   web,
   github,
@@ -89,6 +102,8 @@ export {
   git,
   html,
   solidworks,
+  spacex,
+  ansys,
   microsoft,
   matlab,
   siemens,
@@ -108,6 +123,7 @@ export {
   threejs,
   meta,
   shopify,
+  FBI,
   starbucks,
   tesla,
   carrent,

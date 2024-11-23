@@ -26,6 +26,9 @@ import {
     threejs,
     mrg,
     milhouse,
+    collins,
+    katzfull,
+    FBI,
     nasa,
     FHCS,
     katz,
@@ -43,9 +46,14 @@ import {
     ventures,
     next,
     solidworks,
+    spaceshot,
+    ansys,
     matlab,
     python,
     c,
+    nasaproject,
+    spacex,
+    ISS,
     altium,
     homepage,
     labview,
@@ -68,6 +76,10 @@ import {
       title: "Work Experience",
     },
     {
+      id: "activities",
+      title: "Activities",
+    },
+    {
       id: "contact",
       title: "Contact",
     },
@@ -75,15 +87,15 @@ import {
   
   const services = [
     {
-      title: "Electrical Systems",
+      title: "Systems Engineering",
       icon: backend,
     },
     {
-      title: "Materials & Processes",
+      title: "Electrical Systems",
       icon: web,
     },
     {
-      title: "Manufacturing",
+      title: "Materials & Processes",
       icon: mobile,
     },
   ];
@@ -103,35 +115,35 @@ import {
     },
     {
       name: "TypeScript",
-      icon: fusion,
-    },
-    {
-      name: "HTML 5",
-      icon: matlab,
-    },
-    {
-      name: "CSS 3",
-      icon: python,
-    },
-    {
-      name: "React JS",
       icon: c,
     },
     {
-      name: "Next JS",
+      name: "HTML 5",
+      icon: python,
+    },
+    {
+      name: "CSS 3",
+      icon: matlab,
+    },
+    {
+      name: "React JS",
       icon: javascript,
     },
     {
-      name: "Node JS",
+      name: "Next JS",
       icon: html,
     },
     {
-      name: "MongoDB",
+      name: "Node JS",
       icon: css,
     },
     {
-      name: "Spring Boot",
+      name: "MongoDB",
       icon: git,
+    },
+    {
+      name: "Spring Boot",
+      icon: ansys,
     },
     {
       name: "PostgreSQL",
@@ -156,8 +168,9 @@ import {
       date: "January 2025 - May 2025",
       points: [
         "Awarded a NASA Illinois Space Grant for an internship at NASA Kennedy Space Center, supporting a team of project scientists researching the effects of microgravity on biological organisms.",
-        "Conducting computational fluid dynamics (CFD) simulations on plants in ANSYS to optimize nutrient transport and gas exchange for life support systems in the International Space Station (ISS).",
-        "Developing MATLAB and Python scripts to calculate the net gravitational force experienced by cell cultures in Gravite microgravity simulators.",
+        "Conducted computational fluid dynamics (CFD) simulations in ANSYS to quantify the stress on cells and model fluid and particle motion under various simulated microgravity conditions.",
+        "Developed MATLAB and Python scripts to calculate the net gravitational force experienced by cell cultures in Airbus microgravity simulators.",
+        "Contributed to the back-end development of an internal NASA database, designed to streamline access and comparison of data from spaceflight studies and Earth-based microgravity simulations.",
       ],
     },
     {
@@ -167,8 +180,8 @@ import {
       iconBg: "#FFFFFF",
       date: "September 2024 - December 2024",
       points: [
-        "Collaborated with 12 engineers to design overhead and underground power distribution systems (4-69 kV) for ComEd, the largest electric utility provider in Illinois.",
-        "Developed interconnection diagrams in AutoCAD and MicroStation for 15+ FEJA solar projects, leveraging Google Earth KMZ files and ComEd GIS to assess the feasibility of customer’s proposed designs.",
+        "Collaborated with electrical engineers to design overhead and underground power distribution systems (4-69 kV) for ComEd, the largest electric utility provider in Illinois.",
+        "Developed interconnection diagrams in AutoCAD and MicroStation for 30+ FEJA solar projects, leveraging Google Earth KMZ files and ComEd GIS to assess the feasibility of customer’s proposed designs.",
         "Simulated wind, ice, and line load forces in PoleForeman to analyze the structural integrity of 10+ overhead poles, as outlined in NESC Rule 250B.",
         "Conducted field walk-downs to audit design packages and construction jobs, verifying that installations and operations complied with the National Electrical Safety Code and client requirements."
       ],
@@ -191,15 +204,15 @@ import {
     {
       title: "Software Engineering Intern",
       company_name: "Katz Diagnostics, Inc.",
-      icon: katz,
+      icon: katzfull,
       iconBg: "#FFFFFF",
       date: "January 2024 - May 2024",
       points: [
-        "Collaborated with 6 engineers to provide the first noninvasive method for diagnosing fibromyalgia by developing a near-infrared spectroscopy prototype that measures muscle oxygenation in a patient's hand.",
-        "Developed C++ code in Arduino IDE for an Arduino Nano that computes and displays SmO₂% on an LCD, reducing readout time for muscle oxygenation to under 15 seconds.",
+        "Assisted Dr. Robert Katz's startup in developing the first noninvasive test for diagnosing fibromyalgia by designing a near-infrared spectroscopy prototype that measures muscle oxygenation in a patient's hand.",
+        "Developed C++ code in Arduino IDE for an Arduino Nano that computes and displays SmO₂% on an LCD, reducing the readout time for muscle oxygenation to under 15 seconds.",
         "Created Python scripts to generate time series analyses of patient SmO₂% levels and securely store them in Amazon Web Services (AWS), automating data collection for electronic health records.",
-        "Leveraged Git and GitHub for version control and issue tracking, enabling the team to contribute code, review changes, and report bugs.",
-        "Verified that the prototype’s design conforms with user needs by interviewing 2 fibromyalgia patients to gain insights into their preferences and challenges with the current diagnostic process.",
+        "Leveraged Git and GitHub for version control, enabling the team to contribute code, review changes, and report bugs.",
+        "Verified that the prototype’s design conformed with user needs by interviewing 2 fibromyalgia patients to gain insights into their preferences and challenges with the current diagnostic process.",
       ],
     },
   ];
@@ -209,6 +222,23 @@ import {
   ];
   
   const projects = [
+    {
+      name: "NASA L'SPACE Proposal Writing and Evaluation Experience Academy",
+      description:
+        "Co-led a team of 16 students to successfully write a 7-page technical proposal on a tumbling ball rover for NASA Marshall's Chief Technologist.",
+      tags: [
+        {
+          name: "Siemens NX",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "JMARS",
+          color: "orange-text-gradient",
+        },
+      ],
+      image: nasaproject,
+      deploy_link: "https://www.lspace.asu.edu/proposal-writing-academy"
+    },
     {
       name: "NASA L'SPACE Mission Concept Academy",
       description:
@@ -223,7 +253,7 @@ import {
           color: "orange-text-gradient",
         },
       ],
-      image: nasa,
+      image: nasaproject,
       deploy_link: "https://www.lspace.asu.edu/mission-concept-academy"
     },
     {
@@ -250,6 +280,23 @@ import {
       ],
       image: homepage,
       deploy_link: "https://carbon0.netlify.app/"
+    },
+    {
+      name: "The Illinois Space Society",
+      description:
+        "Supported the avionics team in developing and testing multi-stage rocket systems targeting the Karman line for the Illinois Space Society's Spaceshot projects.",
+      tags: [
+        {
+          name: "C++",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "MATLAB",
+          color: "orange-text-gradient",
+        },
+      ],
+      image: spaceshot,
+      deploy_link: "https://www.illinoisspacesociety.org/spaceshot"
     },
   ];
   

@@ -5,8 +5,9 @@ import { motion } from 'framer-motion';
 import { styles } from '../styles';
 import { services } from '../constants';
 import { fadeIn, textVariant } from '../utils/motion';
+import { SectionWrapper } from '../hoc';
 
-const ServiceCard = ({ index, title, icon }) =>  {
+const ServiceCard = ({ index, title, icon }) => {
   return (
     <Tilt className='xs:w-[250px] w-full'>
       <motion.div
@@ -34,11 +35,11 @@ const ServiceCard = ({ index, title, icon }) =>  {
       </motion.div>
     </Tilt>
   );
-}
+};
 
 const About = () => {
   return (
-    <div id="about" className='flex flex-col items-center pt-20'>
+    <div className='flex flex-col items-center'>
       <motion.div variants={textVariant()} className='text-center'>
         <p className={styles.sectionSubText}>Introduction</p>
         <h2 className={styles.sectionHeadText}>About Me</h2>
@@ -50,7 +51,7 @@ const About = () => {
       >
         “The nitrogen in our DNA. The calcium in our teeth. The iron in our blood. The carbon in our apple pies were made in the interiors of collapsing stars. We are made of star stuff.”
       </motion.p>
-      
+
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
@@ -78,7 +79,7 @@ const About = () => {
         ))}
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default About;
+export default SectionWrapper(About, "about");
