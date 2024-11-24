@@ -188,8 +188,8 @@ import {
     },
     {
       title: "Project Engineering Intern",
-      company_name: "Vileda Professional CE",
-      icon: vileda,
+      company_name: "Freudenberg Household Products",
+      icon: FHCS,
       iconBg: "#FFFFFF",
       date: "June 2024 - August 2024",
       points: [
