@@ -168,9 +168,9 @@ import {
       date: "January 2025 - May 2025",
       points: [
         "Awarded a NASA Illinois Space Grant for an internship at NASA Kennedy Space Center, supporting a team of project scientists researching the effects of microgravity on biological organisms.",
-        "Conducted computational fluid dynamics (CFD) simulations in ANSYS to quantify the stress on cells and model fluid and particle motion under various simulated microgravity conditions.",
-        "Developed MATLAB and Python scripts to calculate the net gravitational force experienced by cell cultures in Airbus microgravity simulators.",
-        "Assisted with the back-end development of an internal NASA database, designed to streamline access and comparison of data from spaceflight studies and Earth-based microgravity simulations.",
+        "Conducting computational fluid dynamics (CFD) simulations in ANSYS to quantify the stress on cells and model fluid and particle motion under various simulated microgravity conditions.",
+        "Developing MATLAB and Python scripts to calculate the net gravitational force experienced by cell cultures in Airbus microgravity simulators.",
+        "Assisting with the back-end development of an internal NASA database, designed to streamline access and comparison of data from spaceflight studies and Earth-based microgravity simulations.",
       ],
     },
     {
@@ -225,7 +225,7 @@ import {
     {
       name: "NASA L'SPACE Proposal Writing and Evaluation Experience Academy",
       description:
-        "Co-led a team of 16 students to successfully write a 7-page technical proposal on a tumbling ball rover for NASA Marshall's Chief Technologist.",
+        "Co-leading a team of 16 students as the project manager, writing a 7-page technical proposal on advanced electronics and computing hardware for atmospheric and space flight systems for NASA Marshall’s Chief Technologist.",
       tags: [
         {
           name: "Siemens NX",
