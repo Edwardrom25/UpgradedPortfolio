@@ -161,13 +161,13 @@ import {
   
   const experiences = [
     {
-      title: "Microgravity Simulation Support Facility (MSSF) Engineering Intern",
+      title: "Modeling and Simulation Intern",
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Awarded a NASA Illinois Space Grant for an internship at NASA Kennedy Space Center, supporting a team of project scientists researching the effects of microgravity on biological organisms.",
+        "Awarded a NASA Space Grant for an internship at NASA Kennedy Space Center's Microgravity Simulation Support Facility, collaborating with scientists to research the effects of microgravity on biological organisms to advance space medicine.",
         "Conducting computational fluid dynamics (CFD) simulations in ANSYS to quantify the stress on cells and model fluid and particle motion under various simulated microgravity conditions.",
         "Developing MATLAB and Python scripts to calculate the net gravitational force experienced by cell cultures in Airbus microgravity simulators.",
         "Assisting with the back-end development of an internal NASA database, designed to streamline access and comparison of data from spaceflight studies and Earth-based microgravity simulations.",
@@ -211,7 +211,6 @@ import {
         "Assisted Dr. Robert Katz's startup in developing the first noninvasive test for diagnosing fibromyalgia by designing a near-infrared spectroscopy prototype that measures muscle oxygenation in a patient's hand.",
         "Developed C++ code in Arduino IDE for an Arduino Nano that computes and displays SmO₂% on an LCD, reducing the readout time for muscle oxygenation to under 15 seconds.",
         "Created Python scripts to generate time series analyses of patient SmO₂% levels and securely store them in Amazon Web Services (AWS), automating data collection for electronic health records.",
-        "Leveraged Git and GitHub for version control, enabling the team to contribute code, review changes, and report bugs.",
         "Verified that the prototype’s design conformed with user needs by interviewing 2 fibromyalgia patients to gain insights into their preferences and challenges with the current diagnostic process.",
       ],
     },
@@ -242,7 +241,7 @@ import {
     {
       name: "NASA L'SPACE Mission Concept Academy",
       description:
-        "Co-led a team of 16 students as the lead systems engineer, preparing a MCR, SRR, MDR, and PDR for a rover that characterizes lunar pits to identify stable environments for long-term habitation on the Moon for the Artemis missions.",
+        "Co-led a team of 16 students as the lead systems engineer, preparing a Mission Concept Review (MCR), System Requirements Review (SRR), Mission Design Review (MDR), and Preliminary Design Review (PDR) for a rover that characterizes lunar pits as potential stable environments for long-term habitation on the Moon for the Artemis missions.",
       tags: [
         {
           name: "Siemens NX",
@@ -259,7 +258,7 @@ import {
     {
       name: "NASA International Space Apps Challenge",
       description:
-        "Developed a React website using TypeScript, overlaying emission datasets from the U.S. Greenhouse Gas Center onto a 3D model of Earth to create an interactive tool that simplified climate change data for users.",
+        "Built a web app with React and TypeScript to overlay emission datasets from the U.S. Greenhouse Gas Center onto a 3D model of Earth, creating an interactive tool that simplified climate change data for users.",
       tags: [
         {
           name: "React.js",
@@ -284,7 +283,7 @@ import {
     {
       name: "The Illinois Space Society",
       description:
-        "Supported the avionics team in developing and testing multi-stage rocket systems targeting the Karman line for the Illinois Space Society's Spaceshot projects.",
+        "Supported the avionics team as a GNC engineer, developing and testing multi-stage rocket systems capable of reaching the Kármán line for the Illinois Space Society's Spaceshot competitions.",
       tags: [
         {
           name: "C++",
