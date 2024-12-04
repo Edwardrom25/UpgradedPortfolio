@@ -1,5 +1,6 @@
 import logo from "./logo.svg";
 import logov2 from "./logo_v2.svg";
+import logov3 from "./logo_v3.svg";
 import logopng from "./logo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
@@ -79,6 +80,7 @@ export {
   logo,
   logopng,
   logov2,
+  logov3,
   nasaproject,
   ISS,
   spaceshot,

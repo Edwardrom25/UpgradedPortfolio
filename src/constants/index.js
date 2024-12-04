@@ -191,9 +191,10 @@ import {
       date: "September 2024 - December 2024",
       points: [
         "Collaborated with electrical engineers to design overhead and underground power distribution systems (4-69 kV) for ComEd, the largest electric utility provider in Illinois.",
-        "Developed interconnection diagrams in AutoCAD for 30+ FEJA solar projects, leveraging Google Earth and ComEd's GIS to assess the feasibility of client's proposed designs.",
-        "Simulated wind, ice, and line load forces in PoleForeman to analyze the structural integrity of overhead poles, adhering to NESC Rule 250B.",
-        "Conducted field walk-downs to audit design packages and construction jobs, verifying that installations and operations complied with the National Electrical Safety Code and client requirements."
+        "Developed interconnection diagrams in AutoCAD for 30+ FEJA solar projects, ensuring compliance with all customer requirements and the National Electrical Safety Code (NESC).",
+        "Conducted customer site visits to prepare field notes for feasible feeder and fiber extensions and identify potential equipment placements and reconfigurations to support future solar field expansions.",
+        "Simulated wind, ice, and line load forces in PoleForeman to analyze the structural integrity of existing and proposed overhead poles, adhering to NESC Rule 250B.",
+        "Trained a newly hired full-time electrical engineer on how to use AutoCAD and ComEd's internal GIS platform to create geo-spatially accurate interconnection diagrams, enabling them to contribute independently within two weeks."
       ],
     },
     {
@@ -205,9 +206,9 @@ import {
       points: [
         "Supported the new product development (NPD) and quality assurance teams with designing and testing new and existing cleaning products for ISO 5-ISO 8 cleanrooms.",
         "Developed 2D drawings in SolidWorks for 9 parts of a flagship product launching in 2025, incorporating geometric dimensioning and tolerancing (GD&T) in connection areas to minimize assembly issues for end users.",
-        "Created bills of materials, quality control plans, and packaging process specifications for 6 products, utilizing TOPS Pro to optimize pallet patterns for improved cost savings.",
-        "Coordinated third-party particle release testing and conducted internal testing in the R&D lab on the autoclavability and chemical resistance of 3 prototypes, compiling the data into PowerPoint reports.",
         "Programmed a Universal Robots UR5 Cobot Arm to simulate a trolley passing through a wheel cleaner prototype 1,000 times, automating life cycle testing of the components.",
+        "Coordinated third-party particle release testing and conducted internal testing in the R&D lab on the autoclavability and chemical resistance of 3 prototypes, compiling the data into PowerPoint reports.",
+        "Created bills of materials, quality control plans, and packaging process specifications for 6 products, utilizing TOPS Pro to optimize pallet patterns for improved cost savings.",
         "Designed and validated a test method to compute the coefficient of friction of mops, enabling the sales team to quantify and compare the friction experienced by users with Vileda Professional mops versus competitor mops."
       ],
     },
