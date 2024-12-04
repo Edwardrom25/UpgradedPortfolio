@@ -56,21 +56,21 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
       >
-        We are the universe tasting itself, talking to itself, reading its own code. Carl Sagan’s profound words inspired my pursuit of a <span style={{ color: '#915eff' }}>bachelor's degree in bioengineering</span> and a <span style={{ color: '#915eff' }}>minor in materials science engineering</span> at the University of Illinois Urbana-Champaign, with a focus on researching and developing materials that enhance the sustainability, survivability, and operational efficiency of crew and electronic devices in aerospace vehicles.
+        We are the universe tasting itself, talking to itself, reading its own code. Carl Sagan’s profound words inspired my pursuit of a <span style={{ color: '#915eff' }}>bachelor's degree in bioengineering</span> and a <span style={{ color: '#915eff' }}>minor in materials science engineering</span> at the University of Illinois Urbana-Champaign. <span style={{ color: '#915eff' }}>I am conducting space medicine research at NASA Kennedy Space Center’s Microgravity Simulation Support Facility (MSSF)</span>, examining the effects of microgravity on various biological organisms.
       </motion.p>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
       >
-        I am currently pursuing a <span style={{ color: '#915eff' }}>master’s degree in electrical and computer engineering</span> from the University of Illinois Urbana-Champaign. I am seeking internship and full-time positions that will allow me to work as an engineer involved in high-profile testing and integration of flight hardware and software in defense and space technologies.
+        I am also highly interested in the electronic hardware side of space systems and am currently pursuing a <span style={{ color: '#915eff' }}>master’s degree in electrical and computer engineering</span> from the University of Illinois Urbana-Champaign. This summer, <span style={{ color: '#915eff' }}>I am working on SpaceX’s high power electrical engineering team</span>, supporting the design and troubleshooting of electrical components and systems critical to launch and recovery operations.
       </motion.p>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
       >
-        Through internships and team projects, I've gained hands-on experience in programming, modeling and simulation, electrical systems, and quality assurance. Proficient in <span style={{ color: '#915eff' }}>Python</span>, <span style={{ color: '#915eff' }}>C++</span>, <span style={{ color: '#915eff' }}>MATLAB</span>, <span style={{ color: '#915eff' }}>SolidWorks</span>, <span style={{ color: '#915eff' }}>Altium Designer</span>, and <span style={{ color: '#915eff' }}>Microsoft Office tools</span>, I am eager to leverage my technical skills to develop technologies that keep people safe and advance humanity beyond the stars.
+        I am a dedicated leader and collaborator focused on delivering excellence to the United States of America through intelligence and innovation. I have over one year of applied engineering experience in programming, modeling and simulation, electrical systems, and quality assurance. Proficient in <span style={{ color: '#915eff' }}>Python</span>, <span style={{ color: '#915eff' }}>C++</span>, <span style={{ color: '#915eff' }}>MATLAB</span>, <span style={{ color: '#915eff' }}>SolidWorks</span>, <span style={{ color: '#915eff' }}>Altium Designer</span>, and <span style={{ color: '#915eff' }}>Microsoft Office tools</span>, I am eager to leverage my technical skills to develop technologies that keep people safe and advance humanity beyond the stars.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10 justify-center'>

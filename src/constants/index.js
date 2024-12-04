@@ -161,6 +161,16 @@ import {
   
   const experiences = [
     {
+      title: "Launch High Power Graduate Engineer",
+      company_name: "SpaceX",
+      icon: spacex,
+      iconBg: "#000000",
+      date: "May 2025 - August 2025",
+      points: [
+        "Supporting the design and troubleshooting of electrical components and systems critical to launch and recovery operations, including switchgears, motor control centers, and power monitoring hardware and software.",
+      ],
+    },
+    {
       title: "Modeling and Simulation Intern",
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
@@ -181,8 +191,8 @@ import {
       date: "September 2024 - December 2024",
       points: [
         "Collaborated with electrical engineers to design overhead and underground power distribution systems (4-69 kV) for ComEd, the largest electric utility provider in Illinois.",
-        "Developed interconnection diagrams in AutoCAD for 30+ FEJA solar projects, leveraging Google Earth KMZ files and ComEd GIS to assess the feasibility of customer’s proposed designs.",
-        "Simulated wind, ice, and line load forces in PoleForeman to analyze the structural integrity of 10+ overhead poles, as outlined in NESC Rule 250B.",
+        "Developed interconnection diagrams in AutoCAD for 30+ FEJA solar projects, leveraging Google Earth and ComEd GIS to assess the feasibility of client's proposed designs.",
+        "Simulated wind, ice, and line load forces in PoleForeman to analyze the structural integrity of overhead poles, adhering to NESC Rule 250B.",
         "Conducted field walk-downs to audit design packages and construction jobs, verifying that installations and operations complied with the National Electrical Safety Code and client requirements."
       ],
     },
@@ -199,19 +209,6 @@ import {
         "Coordinated third-party particle release testing and conducted internal testing in the R&D lab on the autoclavability and chemical resistance of 3 prototypes, compiling the data into PowerPoint reports.",
         "Programmed a Universal Robots UR5 Cobot Arm to simulate a trolley passing through a wheel cleaner prototype 1,000 times, automating life cycle testing of the components.",
         "Designed and validated a test method to compute the coefficient of friction of mops, enabling the sales team to quantify and compare the friction experienced by users with Vileda Professional mops versus competitor mops."
-      ],
-    },
-    {
-      title: "Software Engineering Intern",
-      company_name: "Katz Diagnostics, Inc.",
-      icon: katzfull,
-      iconBg: "#FFFFFF",
-      date: "January 2024 - May 2024",
-      points: [
-        "Assisted Dr. Robert Katz's startup in developing the first noninvasive test for diagnosing fibromyalgia by designing a near-infrared spectroscopy prototype that measures muscle oxygenation in a patient's hand.",
-        "Developed C++ code in Arduino IDE for an Arduino Nano that computes and displays SmO₂% on an LCD, reducing the readout time for muscle oxygenation to under 15 seconds.",
-        "Created Python scripts to generate time series analyses of patient SmO₂% levels and securely store them in Amazon Web Services (AWS), automating data collection for electronic health records.",
-        "Verified that the prototype’s design conformed with user needs by interviewing 2 fibromyalgia patients to gain insights into their preferences and challenges with the current diagnostic process.",
       ],
     },
   ];
