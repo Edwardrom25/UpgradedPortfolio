@@ -168,6 +168,8 @@ import {
       date: "May 2025 - August 2025",
       points: [
         "Supporting the design and troubleshooting of electrical components and systems critical to launch and recovery operations, including switchgears, motor control centers, and power monitoring hardware and software.",
+        "Coordinating electrical installations with local Kennedy Space Center and Cape Canaveral Air Force Station electrical utilities personnel, utilizing NFPA 70E, NFPA 70 NEC, NFPA 497, NFPA 101, Vol 5 & 6 AFSPCMAN 91-710, and IBC standards.",
+        "Performing load flow analyses to evaluate voltage levels, power flows, and system losses, ensuring electrical power distribution systems remain compatible with facility power budgets and integrated equipment.",
       ],
     },
     {
@@ -254,7 +256,7 @@ import {
       deploy_link: "https://www.lspace.asu.edu/mission-concept-academy"
     },
     {
-      name: "NASA International Space Apps Challenge",
+      name: "2024 NASA International Space Apps Challenge",
       description:
         "Built a web app with React and TypeScript to overlay emission datasets from the U.S. Greenhouse Gas Center onto a 3D model of Earth, creating an interactive tool that simplified climate change data for users.",
       tags: [
