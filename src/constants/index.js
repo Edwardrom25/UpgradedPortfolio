@@ -194,7 +194,7 @@ import {
       points: [
         "Collaborated with electrical engineers to design overhead and underground power distribution systems (4-69 kV) for ComEd, the largest electric utility provider in Illinois.",
         "Developed interconnection diagrams in AutoCAD for 30+ FEJA solar projects, ensuring compliance with all customer requirements and the National Electrical Safety Code (NESC).",
-        "Conducted customer site visits to prepare field notes for feasible feeder and fiber extensions and identify potential equipment placements and reconfigurations to support future solar field expansions.",
+        "Conducted customer site visits to document feasible electrical feeder and fiber-optic extensions and identify potential equipment placements and reconfigurations to support future solar field expansions.",
         "Simulated wind, ice, and line load forces in PoleForeman to analyze the structural integrity of existing and proposed overhead poles, adhering to NESC Rule 250B.",
         "Trained a newly hired full-time electrical engineer on how to use AutoCAD and ComEd's internal GIS platform to create geo-spatially accurate interconnection diagrams, enabling them to contribute independently within two weeks."
       ],
