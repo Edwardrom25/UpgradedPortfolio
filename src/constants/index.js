@@ -161,7 +161,7 @@ import {
   
   const experiences = [
     {
-      title: "Launch High Power Graduate Engineer",
+      title: "Launch High Power Electrical Graduate Engineer",
       company_name: "SpaceX",
       icon: spacex,
       iconBg: "#000000",
@@ -222,7 +222,7 @@ import {
   
   const projects = [
     {
-      name: "NASA L'SPACE Proposal Writing and Evaluation Experience Academy",
+      name: "NASA L'SPACE Proposal Writing and Evaluation Experience",
       description:
         "Co-leading a team of 16 students as the project manager, writing a 7-page technical proposal on advanced electronics and computing hardware for atmospheric and space flight systems for NASA Marshall’s Chief Technologist.",
       tags: [
