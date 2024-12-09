@@ -224,7 +224,7 @@ import {
     {
       name: "NASA L'SPACE Proposal Writing and Evaluation Experience",
       description:
-        "Co-leading a team of 16 students as the project manager, writing a 7-page technical proposal on advanced electronics and computing hardware for atmospheric and space flight systems for NASA Marshall’s Chief Technologist.",
+        "Co-leading a team of 16 students to write a 7-page technical proposal on advanced electronics and computing hardware for atmospheric and space flight systems for NASA Marshall’s Chief Technologist.",
       tags: [
         {
           name: "Siemens NX",
