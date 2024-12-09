@@ -173,7 +173,7 @@ import {
       ],
     },
     {
-      title: "Microgravity Modeling and Simulation Intern",
+      title: "Modeling and Simulation Intern",
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
