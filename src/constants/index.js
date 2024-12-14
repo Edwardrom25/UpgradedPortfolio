@@ -26,6 +26,7 @@ import {
     threejs,
     mrg,
     milhouse,
+    lspace,
     collins,
     katzfull,
     FBI,
@@ -54,6 +55,7 @@ import {
     nasaproject,
     spacex,
     ISS,
+    spaceapps,
     altium,
     homepage,
     labview,
@@ -235,7 +237,7 @@ import {
           color: "orange-text-gradient",
         },
       ],
-      image: nasaproject,
+      image: lspace,
       deploy_link: "https://www.lspace.asu.edu/proposal-writing-academy"
     },
     {
@@ -252,7 +254,7 @@ import {
           color: "orange-text-gradient",
         },
       ],
-      image: nasaproject,
+      image: lspace,
       deploy_link: "https://www.lspace.asu.edu/mission-concept-academy"
     },
     {
@@ -277,7 +279,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: homepage,
+      image: spaceapps,
       deploy_link: "https://carbon0.netlify.app/"
     },
     {

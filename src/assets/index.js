@@ -66,6 +66,8 @@ import tripguide from "./tripguide.png";
 import mrgtravel from "./mrgtravel.png";
 import nasa from "./nasa.png";
 import nasaproject from "./nasa_project.png";
+import lspace from "./lspace.png";
+import spaceapps from "./spaceapps.png";
 import ventures from "./ventures.png";
 import PIDm from "./PID.png";
 import ECGm from "./ECG.png";
@@ -84,6 +86,7 @@ export {
   nasaproject,
   ISS,
   spaceshot,
+  spaceapps,
   PID,
   homepage,
   katzfull,
@@ -91,6 +94,7 @@ export {
   nasawork,
   vileda,
   PIDm,
+  lspace,
   ECG,
   backend,
   creator,
