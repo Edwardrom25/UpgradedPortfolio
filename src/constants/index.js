@@ -163,28 +163,26 @@ import {
   
   const experiences = [
     {
-      title: "Launch High Power Electrical Graduate Engineer",
+      title: "High Power Graduate Engineer",
       company_name: "SpaceX",
       icon: spacex,
       iconBg: "#000000",
       date: "May 2025 - August 2025",
       points: [
         "Supporting the design and troubleshooting of electrical components and systems critical to launch and recovery operations, including switchgears, motor control centers, and power monitoring hardware and software.",
-        "Coordinating electrical installations with local Kennedy Space Center and Cape Canaveral Air Force Station electrical utilities personnel, utilizing NFPA 70E, NFPA 70 NEC, NFPA 497, NFPA 101, Vol 5 & 6 AFSPCMAN 91-710, and IBC standards.",
-        "Performing load flow analyses to evaluate voltage levels, current flows, and system losses, ensuring electrical power distribution systems remain compatible with facility power budgets and integrated equipment.",
       ],
     },
     {
-      title: "Modeling and Simulation Intern",
+      title: "MSSF OSTEM Intern",
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Awarded a NASA Space Grant for an internship at NASA Kennedy Space Center's Microgravity Simulation Support Facility, collaborating with scientists to research the effects of microgravity on biological organisms to advance space medicine.",
-        "Conducting computational fluid dynamics (CFD) simulations in ANSYS to quantify the stress on cells and model fluid and particle motion under various simulated microgravity conditions.",
-        "Developing MATLAB and Python scripts to calculate the net gravitational force experienced by cell cultures in Airbus microgravity simulators.",
-        "Assisting with the back-end development of an internal NASA database, designed to streamline access and comparison of data from spaceflight studies and Earth-based microgravity simulations.",
+        "Awarded a NASA Space Grant to research the effects of microgravity on biological organisms at NASA Kennedy Space Center's Microgravity Simulation Support Facility (MSSF).",
+        "Conducting computational fluid dynamics (CFD) simulations in ANSYS CFX to model fluid and particle motion in cells under various simulated microgravity conditions.",
+        "Developing MATLAB and Python scripts to model the gravitational forces experienced by cell cultures in microgravity simulator devices, such as rotating wall vessel bioreactors and 3-D clinostats.",
+        "Assisting with the front-end and back-end development of an internal NASA database designed to streamline the retrieval and analysis of spaceflight and Earth-based life science studies.",
       ],
     },
     {
