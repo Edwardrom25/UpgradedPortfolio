@@ -56,7 +56,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
       >
-        We are the universe tasting itself, talking to itself, reading its own code. Carl Sagan’s profound words inspired my pursuit of a <span style={{ color: '#915eff' }}>bachelor's degree in bioengineering</span> and a <span style={{ color: '#915eff' }}>minor in materials science engineering</span> at the University of Illinois Urbana-Champaign. <span style={{ color: '#915eff' }}>This spring, I am conducting research at NASA Kennedy Space Center’s Microgravity Simulation Support Facility (MSSF)</span>, studying the effects of microgravity on biological organisms. These studies improve our understanding of health risks during long-term missions and advance plant-based life support systems that recycle air and water on spacecraft.
+        We are the universe tasting itself, talking to itself, reading its own code. Carl Sagan’s profound words inspired my pursuit of a <span style={{ color: '#915eff' }}>bachelor's degree in bioengineering</span> and a <span style={{ color: '#915eff' }}>minor in materials science engineering</span> at the University of Illinois Urbana-Champaign. <span style={{ color: '#915eff' }}>This spring, I am conducting research at NASA Kennedy Space Center’s Microgravity Simulation Support Facility (MSSF)</span>, examining the effects of microgravity on biological organisms. These studies improve our understanding of health risks during long-term missions and advance plant-based life support systems that recycle air and water on spacecraft.
       </motion.p>
 
       <motion.p
