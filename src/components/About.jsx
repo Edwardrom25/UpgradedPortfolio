@@ -56,14 +56,14 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
       >
-        We are the universe tasting itself, talking to itself, reading its own code. Carl Sagan’s profound words inspired my pursuit of a <span style={{ color: '#915eff' }}>bachelor's degree in bioengineering</span> and a <span style={{ color: '#915eff' }}>minor in materials science engineering</span> at the University of Illinois Urbana-Champaign. <span style={{ color: '#915eff' }}>I am conducting space medicine research at NASA Kennedy Space Center’s Microgravity Simulation Support Facility (MSSF)</span>, examining the effects of microgravity on various biological organisms.
+        We are the universe tasting itself, talking to itself, reading its own code. Carl Sagan’s profound words inspired my pursuit of a <span style={{ color: '#915eff' }}>bachelor's degree in bioengineering</span> and a <span style={{ color: '#915eff' }}>minor in materials science engineering</span> at the University of Illinois Urbana-Champaign. <span style={{ color: '#915eff' }}>This spring, I am conducting research at NASA Kennedy Space Center’s Microgravity Simulation Support Facility (MSSF)</span>, studying the effects of microgravity on biological organisms. This work improves our understanding of health risks during long-term missions and advances plant-based life support systems that recycle air and water on spacecraft.
       </motion.p>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
       >
-        I am also highly interested in the electronic hardware side of space systems and am currently pursuing a <span style={{ color: '#915eff' }}>master’s degree in electrical and computer engineering</span> from the University of Illinois Urbana-Champaign. This summer, <span style={{ color: '#915eff' }}>I am working on SpaceX’s high power electrical engineering team</span>, supporting the design and troubleshooting of electrical components and systems critical to launch and recovery operations.
+        I am also highly interested in the design and testing of electrical systems for spacecraft, so I am currently pursuing a <span style={{ color: '#915eff' }}>master’s degree in electrical and computer engineering</span> from the University of Illinois Urbana-Champaign. This summer, <span style={{ color: '#915eff' }}>I am working on SpaceX’s high power electrical engineering team</span>, supporting the design and troubleshooting of electrical components and systems critical to launch and recovery operations.
       </motion.p>
 
       <motion.p
