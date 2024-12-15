@@ -179,7 +179,7 @@ import {
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Awarded a NASA Space Grant to research the effects of microgravity on biological organisms at NASA Kennedy Space Center's Microgravity Simulation Support Facility (MSSF).",
+        "Awarded a NASA Space Grant to collaborate with scientists at NASA KSC’s Microgravity Simulation Support Facility (MSSF) to research how microgravity affects biological organisms, uncovering health risks for astronauts on long-term missions.",
         "Conducting computational fluid dynamics (CFD) simulations in ANSYS CFX to model fluid and particle motion in cells under various simulated microgravity conditions.",
         "Developing MATLAB and Python scripts to model the gravitational forces experienced by cell cultures in microgravity simulator devices, such as rotating wall vessel bioreactors and 3-D clinostats.",
         "Assisting with the front-end and back-end development of an internal NASA database designed to streamline the retrieval and analysis of spaceflight and Earth-based life science studies.",
