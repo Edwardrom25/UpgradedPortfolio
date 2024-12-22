@@ -258,7 +258,7 @@ import {
     {
       name: "2024 NASA International Space Apps Challenge",
       description:
-        "Built a web app with React and TypeScript to overlay emission datasets from the U.S. Greenhouse Gas Center onto a 3D model of Earth, creating an interactive tool that simplified climate change data for users.",
+        "Built a web app with React and TypeScript to overlay emission datasets from the U.S. Greenhouse Gas Center onto a 3D model of Earth, creating an interactive tool for users to explore and understand the impacts of climate change.",
       tags: [
         {
           name: "React.js",
