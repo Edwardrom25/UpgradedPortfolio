@@ -169,7 +169,7 @@ import {
       iconBg: "#000000",
       date: "May 2025 - August 2025",
       points: [
-        "Supporting the design and troubleshooting of electrical components and systems critical to launch and recovery operations, including switchgears, motor control centers, and power monitoring hardware and software.",
+        "Supporting the design and troubleshooting of electrical components and systems critical to launch and recovery operations, including motor control centers, exterior and interior lighting, standby and emergency generators, and fire alarm systems.",
       ],
     },
     {
