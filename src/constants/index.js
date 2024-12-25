@@ -194,7 +194,7 @@ import {
       points: [
         "Collaborated with electrical engineers to design overhead and underground power distribution systems (4-69 kV) for ComEd’s Future Energy Jobs Act (FEJA), a $200M+ per year initiative expanding renewable energy infrastructure in Illinois.",
         "Developed interconnection diagrams in AutoCAD for 40+ FEJA solar power projects, ensuring installations complied with customer requirements and the National Electrical Safety Code (NESC).",
-        "Conducted site visits to identify and document potential electrical feeder extensions and equipment placements that could interface with customers' existing electrical systems and support future solar farm expansions.",
+        "Conducted walkdowns to determine project scopes, preparing field notes on conductor and conduit extensions, easement boundaries, and equipment configurations or upgrades to interface with customers' existing electrical systems.",
         "Simulated wind, ice, and line load forces in PoleForeman to analyze the structural integrity of existing and proposed overhead poles, adhering to NESC Rule 250B.",
         "Trained a newly hired full-time electrical engineer on how to use AutoCAD and ComEd's internal GIS platform to create geo-spatially accurate interconnection diagrams, enabling them to contribute independently within two weeks."
       ],
@@ -211,7 +211,7 @@ import {
         "Programmed a Universal Robots UR5 Cobot Arm to simulate a trolley passing through a wheel cleaner prototype 1,000 times, automating life cycle testing of the components.",
         "Coordinated third-party particle release testing and conducted internal testing in the R&D lab on the autoclavability and chemical resistance of 3 prototypes, compiling the data into PowerPoint reports.",
         "Created bills of materials, quality control plans, and packaging process specifications for 6 products, utilizing TOPS Pro to optimize pallet patterns for improved cost savings.",
-        "Designed and validated a test method to compute the coefficient of friction of mops, enabling the sales team to quantify and compare the friction experienced by users with Vileda Professional mops versus competitor mops."
+        "Designed a test method to compute the coefficient of friction of mops, providing the sales team with a metric to compare the ergonomics of Vileda Professional mops against competitor mops during sales pitches to customers."
       ],
     },
   ];
