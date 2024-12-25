@@ -194,7 +194,7 @@ import {
       points: [
         "Collaborated with electrical engineers to design overhead and underground power distribution systems (4-69 kV) for ComEd’s Future Energy Jobs Act (FEJA), a $200M+ per year initiative expanding renewable energy infrastructure in Illinois.",
         "Developed interconnection diagrams in AutoCAD for 40+ FEJA solar power projects, ensuring installations complied with customer requirements and the National Electrical Safety Code (NESC).",
-        "Conducted walkdowns to determine project scopes, preparing field notes on conductor and conduit extensions, easement boundaries, and equipment configurations or upgrades to interface with customers' existing electrical systems.",
+        "Conducted walkdowns to determine project scopes, preparing field notes on conductor and conduit extensions, easement boundaries, and equipment configurations and upgrades to interface with customers' existing electrical systems.",
         "Simulated wind, ice, and line load forces in PoleForeman to analyze the structural integrity of existing and proposed overhead poles, adhering to NESC Rule 250B.",
         "Trained a newly hired full-time electrical engineer on how to use AutoCAD and ComEd's internal GIS platform to create geo-spatially accurate interconnection diagrams, enabling them to contribute independently within two weeks."
       ],
