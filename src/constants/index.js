@@ -196,11 +196,11 @@ import {
         "Conducted walkdowns to determine project scopes for solar farm interconnections, documenting easement boundaries and required reconfigurations and upgrades to ComEd's equipment to properly interface with customers' electrical systems.",
         "Developed 40+ construction drawings in AutoCAD for the interconnections of solar farms to ComEd’s distribution systems, ensuring electrical installations complied with customer requirements and the National Electrical Safety Code (NESC).",
         "Simulated wind, ice, and line load forces in PoleForeman to analyze the structural integrity of existing and proposed overhead poles, adhering to NESC Rule 250B.",
-        "Trained a newly hired full-time electrical engineer on how to use AutoCAD and ComEd's internal GIS platform to create geo-spatially accurate interconnection diagrams, enabling them to contribute independently within two weeks."
+        "Trained a newly hired full-time electrical engineer on how to use AutoCAD and ComEd's internal GIS platform to create geo-spatially accurate construction drawings, enabling them to contribute independently within 2 weeks."
       ],
     },
     {
-      title: "Manufacturing Engineering Intern",
+      title: "Project Engineering Intern",
       company_name: "Freudenberg Household Products",
       icon: FHCS,
       iconBg: "#FFFFFF",
