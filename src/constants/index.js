@@ -186,7 +186,7 @@ import {
       ],
     },
     {
-      title: "Electrical Engineering Intern",
+      title: "Electrical Distribution Engineering Intern",
       company_name: "Milhouse Engineering and Construction, Inc.",
       icon: milhouse,
       iconBg: "#FFFFFF",
@@ -200,18 +200,19 @@ import {
       ],
     },
     {
-      title: "Project Engineering Intern",
+      title: "Manufacturing Engineering Intern",
       company_name: "Freudenberg Household Products",
       icon: FHCS,
       iconBg: "#FFFFFF",
       date: "June 2024 - August 2024",
       points: [
-        "Supported the new product development (NPD) and quality assurance teams with designing and testing new and existing cleaning products for ISO 5-ISO 8 cleanrooms in the aerospace industry.",
+        "Supported the new product development (NPD) and quality assurance teams with designing and testing new and existing cleaning products for ISO 5-ISO 8 cleanrooms in the aerospace and medical device industries.",
         "Developed 2D drawings in SolidWorks for 9 parts of a flagship product launching in 2025, incorporating geometric dimensioning and tolerancing (GD&T) in connection areas to minimize assembly issues for end users.",
         "Programmed a Universal Robots UR5 Cobot Arm to simulate a trolley passing through a wheel cleaner prototype 1,000 times, automating life cycle testing of the components.",
         "Coordinated third-party particle release testing and conducted internal testing in the R&D lab on the autoclavability and chemical resistance of 3 prototypes, compiling the data into PowerPoint reports.",
         "Created bills of materials, quality control plans, and packaging process specifications for 6 products, utilizing TOPS Pro to optimize pallet patterns for improved cost savings.",
-        "Designed a test method to compute the coefficient of friction of mops, providing the sales team with a metric to compare the ergonomics of Vileda Professional mops against competitor mops during sales pitches to customers."
+        "Designed a test method to compute the coefficient of friction of mops, providing the sales team with a metric to compare the ergonomics of Vileda Professional mops against competitor mops during sales pitches to customers.",
+        "Researched autoclaves with continuous cycling capabilities to streamline internal wear-and-tear testing in the R&D lab, proposing 3 options for purchase that adhered to the $10,000 budget and the lab's limited physical space."
       ],
     },
   ];
