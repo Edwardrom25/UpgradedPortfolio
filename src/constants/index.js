@@ -181,7 +181,7 @@ import {
       points: [
         "Awarded a NASA Space Grant to collaborate with scientists at NASA Kennedy Space Center’s MSSF to research how microgravity affects biological organisms, uncovering health risks for astronauts on long-term missions.",
         "Conducting computational fluid dynamics (CFD) simulations in ANSYS CFX to model fluid and particle motion in cells under various simulated microgravity conditions.",
-        "Developing MATLAB and Python scripts to model the gravitational forces experienced by cell cultures in microgravity simulator devices, such as rotating wall vessel bioreactors and 3-D clinostats.",
+        "Developing MATLAB and Python scripts to calculate the gravitational vector experienced by cell cultures in microgravity simulator devices, such as rotating wall vessel bioreactors and 3-D clinostats.",
         "Assisting with the front-end and back-end development of an internal NASA database designed to streamline the retrieval and analysis of spaceflight and Earth-based life science studies.",
       ],
     },
@@ -200,18 +200,18 @@ import {
       ],
     },
     {
-      title: "Project Engineering Intern",
+      title: "Quality Engineering Intern",
       company_name: "Freudenberg Household Products",
       icon: FHCS,
       iconBg: "#FFFFFF",
       date: "June 2024 - August 2024",
       points: [
-        "Supported the new product development (NPD) and quality assurance teams with designing and testing new and existing cleaning products for ISO 5-ISO 8 cleanrooms in the aerospace and medical device industries.",
-        "Developed 2D drawings in SolidWorks for 9 parts of a flagship product launching in 2025, incorporating geometric dimensioning and tolerancing (GD&T) in connection areas to minimize assembly issues for end users.",
-        "Programmed a Universal Robots UR5 Cobot Arm to simulate a trolley passing through a wheel cleaner prototype 1,000 times, automating life cycle testing of the components.",
+        "Supported the new product development (NPD) and quality assurance teams in designing and testing microfiber cleaning products for ISO 5-ISO 8 cleanrooms in the aerospace industry.",
+        "Led a failure analysis of a wheel cleaner prototype by programming a Universal Robots UR5 Cobot Arm to simulate a trolley passing through 1,000+ times, implementing corrective actions that improved component reliability.",
         "Coordinated third-party particle release testing and conducted internal testing in the R&D lab on the autoclavability and chemical resistance of 3 prototypes, compiling the data into PowerPoint reports.",
         "Created bills of materials, quality control plans, and packaging process specifications for 6 products, utilizing TOPS Pro to optimize pallet patterns for improved cost savings.",
-        "Designed a test method to compute the coefficient of friction of mops, providing the sales team with a metric to compare the ergonomics of Vileda Professional mops against competitor mops during sales pitches to customers.",
+        "Developed 2D drawings in SolidWorks for 9 parts of a flagship product launching in 2025, incorporating geometric dimensioning and tolerancing (GD&T) in connection areas to minimize assembly issues for end users.",
+        "Designed a test method to compute the coefficient of friction of microfiber cleaning products, providing the sales team with a data-driven metric to highlight the ergonomic advantages of Vileda Professional products over competitors.",
         "Researched autoclaves with continuous cycling capabilities to streamline internal wear-and-tear testing in the R&D lab, proposing 3 options for purchase that adhered to the $10,000 budget and the lab's limited physical space."
       ],
     },
