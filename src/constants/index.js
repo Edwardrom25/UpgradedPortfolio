@@ -206,7 +206,7 @@ import {
       iconBg: "#FFFFFF",
       date: "June 2024 - August 2024",
       points: [
-        "Supported new product development (NPD) and quality teams in the manufacturing and testing of metal and plastic components for cleaning products used in ISO 5–ISO 8 cleanrooms in the aerospace industry.",
+        "Supported the new product development (NPD) and quality teams in the manufacturing and testing of metal and plastic components for cleaning products used in ISO 5–ISO 8 cleanrooms in the aerospace industry.",
         "Led a failure analysis of a wheel cleaner prototype by programming a Universal Robots UR5 Cobot Arm to simulate a trolley passing through 1,000+ times, implementing corrective actions that improved component reliability.",
         "Coordinated third-party particle release testing and led autoclavability and chemical resistance testing in the R&D lab on prototypes made from recycled materials for a new eco-friendly product line, compiling the data into PowerPoint reports.",
         "Created bills of materials, quality control plans, and packaging process specifications for 6 products, utilizing TOPS Pro to optimize pallet patterns for improved cost savings.",
