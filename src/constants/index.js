@@ -186,7 +186,7 @@ import {
       ],
     },
     {
-      title: "Electrical Engineering Intern - Power Distribution",
+      title: "Electrical Engineering Intern (Power Systems)",
       company_name: "Milhouse Engineering and Construction, Inc.",
       icon: milhouse,
       iconBg: "#FFFFFF",
