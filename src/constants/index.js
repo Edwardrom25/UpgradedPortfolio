@@ -9,6 +9,7 @@ import {
     html,
     css,
     reactjs,
+    spaceappscertificate,
     redux,
     tailwind,
     nodejs,
@@ -186,7 +187,7 @@ import {
       ],
     },
     {
-      title: "Electrical Engineering Intern (Power Systems)",
+      title: "Electrical Engineering Intern",
       company_name: "Milhouse Engineering and Construction, Inc.",
       icon: milhouse,
       iconBg: "#FFFFFF",
@@ -279,7 +280,8 @@ import {
         },
       ],
       image: spaceapps,
-      deploy_link: "https://carbon0.netlify.app/"
+      source_code_link: spaceappscertificate,
+      deploy_link: "https://www.spaceappschallenge.org/"
     },
     {
       name: "The Illinois Space Society",

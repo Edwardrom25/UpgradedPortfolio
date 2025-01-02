@@ -7,6 +7,7 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import certificate from "./certificate.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -75,6 +76,7 @@ import spaceshot from "./spaceshot.png";
 import ISS from "./ISS.png";
 
 import PID from "./PID.pdf";
+import spaceappscertificate from "./ERomero 2024 NASA International Space Apps Challenge Certificate.pdf";
 import ECG from "./ECG.pdf";
 import homepage from "./homepage.png";
 
@@ -84,9 +86,11 @@ export {
   logov2,
   logov3,
   nasaproject,
+  spaceappscertificate,
   ISS,
   spaceshot,
   spaceapps,
+  certificate,
   PID,
   homepage,
   katzfull,
