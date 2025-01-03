@@ -10,6 +10,7 @@ import {
     css,
     reactjs,
     spaceappscertificate,
+    lucy,
     redux,
     tailwind,
     nodejs,
@@ -194,10 +195,9 @@ import {
       date: "September 2024 - December 2024",
       points: [
         "Collaborated with electrical engineers to design overhead and underground power distribution systems (4-69 kV) for ComEd’s Future Energy Jobs Act (FEJA), a $200M+ per year initiative expanding renewable energy infrastructure in Illinois.",
-        "Conducted walkdowns to determine project scopes for solar farm interconnections, documenting easement boundaries and required reconfigurations and upgrades to ComEd's equipment to properly interface with customers' electrical systems.",
-        "Developed 40+ construction drawings in AutoCAD for the interconnections of solar farms to ComEd’s distribution systems, ensuring electrical installations complied with customer requirements and the National Electrical Safety Code (NESC).",
-        "Simulated wind, ice, and line load forces in PoleForeman to analyze the structural integrity of existing and proposed overhead poles, adhering to NESC Rule 250B.",
-        "Trained a newly hired full-time electrical engineer on how to use AutoCAD and ComEd's internal GIS platform to create geo-spatially accurate construction drawings, enabling them to contribute independently within 2 weeks."
+        "Conducted walkdowns to determine scopes for solar farm interconnection projects, documenting required utility easements and modifications to ComEd's distribution systems to properly interface with customers' electrical systems.",
+        "Drafted 40+ geospatially accurate construction drawings in AutoCAD for solar farm interconnection projects, ensuring electrical installations complied with customer requirements and the National Electrical Safety Code (NESC).",
+        "Simulated wind, ice, and line load forces in PoleForeman to analyze the structural integrity of existing and proposed overhead poles, adhering to NESC Rule 250B."
       ],
     },
     {
@@ -207,7 +207,7 @@ import {
       iconBg: "#FFFFFF",
       date: "June 2024 - August 2024",
       points: [
-        "Supported the new product development (NPD) and quality teams in the manufacturing and testing of metal and plastic components for cleaning products used in ISO 5–ISO 8 cleanrooms in the aerospace industry.",
+        "Supported the new product development (NPD) and quality teams in the manufacturing and testing of metal and plastic components for cleaning products used in cleanrooms in the aerospace industry.",
         "Led a failure analysis of a wheel cleaner prototype by programming a Universal Robots UR5 Cobot Arm to simulate a trolley passing through 1,000+ times, implementing corrective actions that improved component reliability.",
         "Coordinated third-party particle release testing and led autoclavability and chemical resistance testing in the R&D lab on prototypes made from recycled plastics for a new eco-friendly product line, compiling the data into PowerPoint reports.",
         "Created bills of materials, quality control plans, and packaging process specifications for 6 products, utilizing TOPS Pro to optimize pallet patterns for improved cost savings.",
@@ -224,7 +224,7 @@ import {
   
   const projects = [
     {
-      name: "NASA L'SPACE Proposal Writing and Evaluation Experience",
+      name: "NASA L'SPACE Proposal Writing and Evaluation Experience (NPWEE)",
       description:
         "Co-leading a team of 16 students to write a 7-page technical proposal on advanced electronics and computing hardware for atmospheric and space flight systems for NASA Marshall’s Chief Technologist.",
       tags: [
@@ -237,11 +237,11 @@ import {
           color: "orange-text-gradient",
         },
       ],
-      image: lspace,
+      image: lucy,
       deploy_link: "https://www.lspace.asu.edu/proposal-writing-academy"
     },
     {
-      name: "NASA L'SPACE Mission Concept Academy",
+      name: "NASA L'SPACE Mission Concept Academy (MCA)",
       description:
         "Co-led a team of 16 students as the Chief Engineer, preparing a Mission Concept Review (MCR), System Requirements Review (SRR), Mission Design Review (MDR), and Preliminary Design Review (PDR) for a rover that characterizes lunar pits as potential stable environments for long-term habitation on the Moon for the Artemis missions.",
       tags: [
@@ -254,7 +254,7 @@ import {
           color: "orange-text-gradient",
         },
       ],
-      image: lspace,
+      image: lucy,
       deploy_link: "https://www.lspace.asu.edu/mission-concept-academy"
     },
     {

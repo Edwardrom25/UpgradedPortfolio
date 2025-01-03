@@ -74,6 +74,7 @@ import PIDm from "./PID.png";
 import ECGm from "./ECG.png";
 import spaceshot from "./spaceshot.png";
 import ISS from "./ISS.png";
+import lucy from "./lucy.png";
 
 import PID from "./PID.pdf";
 import spaceappscertificate from "./ERomero 2024 NASA International Space Apps Challenge Certificate.pdf";
@@ -86,6 +87,7 @@ export {
   logov2,
   logov3,
   nasaproject,
+  lucy,
   spaceappscertificate,
   ISS,
   spaceshot,
