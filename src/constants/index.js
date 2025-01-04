@@ -243,7 +243,7 @@ import {
     {
       name: "NASA L'SPACE Mission Concept Academy (MCA)",
       description:
-        "Co-led a team of 16 students as the Chief Engineer, preparing a Mission Concept Review (MCR), System Requirements Review (SRR), Mission Design Review (MDR), and Preliminary Design Review (PDR) for a rover that characterizes lunar pits as potential stable environments for long-term habitation on the Moon for the Artemis missions.",
+        "Co-led a team of 16 students as the Chief Engineer, preparing a Mission Concept Review (MCR), System Requirements Review (SRR), Mission Design Review (MDR), and Preliminary Design Review (PDR) for a rover that tests the thermal isolation and structural integrity of lunar pits as potential long-term habitation sites on the Moon for the Artemis missions.",
       tags: [
         {
           name: "Siemens NX",
