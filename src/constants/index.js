@@ -40,6 +40,7 @@ import {
     lottus,
     khamis,
     pacific,
+    FAA,
     go,
     java,
     postgres,
@@ -224,17 +225,30 @@ import {
   
   const projects = [
     {
+      name: "Student Pilot",
+      description:
+        "Pursuing a Private Pilot License (PPL) by preparing for the FAA Private Pilot Airplane (PAR) Knowledge Test, logging 40+ flight hours, and obtaining a Class 3 Medical Certificate.",
+      tags: [
+        {
+          name: "ForeFlight",
+          color: "blue-text-gradient",
+        },
+      ],
+      image: FAA,
+      deploy_link: "https://www.illinoisaviation.com/flight-training/private-pilot-141/"
+    },
+    {
       name: "NASA L'SPACE Proposal Writing and Evaluation Experience (NPWEE)",
       description:
         "Co-leading a team of 16 students to write a 7-page technical proposal on advanced electronics and computing hardware for atmospheric and space flight systems for NASA Marshall’s Chief Technologist.",
       tags: [
         {
           name: "Siemens NX",
-          color: "blue-text-gradient",
+          color: "orange-text-gradient",
         },
         {
           name: "JMARS",
-          color: "orange-text-gradient",
+          color: "green-text-gradient",
         },
       ],
       image: lucy,
@@ -247,11 +261,11 @@ import {
       tags: [
         {
           name: "Siemens NX",
-          color: "blue-text-gradient",
+          color: "pink-text-gradient",
         },
         {
           name: "JMARS",
-          color: "orange-text-gradient",
+          color: "blue-text-gradient",
         },
       ],
       image: lucy,
@@ -264,19 +278,19 @@ import {
       tags: [
         {
           name: "React.js",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "TypeScript",
           color: "orange-text-gradient",
         },
         {
-          name: "HTML",
+          name: "TypeScript",
           color: "green-text-gradient",
         },
         {
-          name: "CSS",
+          name: "HTML",
           color: "pink-text-gradient",
+        },
+        {
+          name: "CSS",
+          color: "blue-text-gradient",
         },
       ],
       image: spaceapps,
@@ -290,11 +304,11 @@ import {
       tags: [
         {
           name: "C++",
-          color: "blue-text-gradient",
+          color: "orange-text-gradient",
         },
         {
           name: "MATLAB",
-          color: "orange-text-gradient",
+          color: "green-text-gradient",
         },
       ],
       image: spaceshot,

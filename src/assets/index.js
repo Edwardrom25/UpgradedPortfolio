@@ -75,6 +75,7 @@ import ECGm from "./ECG.png";
 import spaceshot from "./spaceshot.png";
 import ISS from "./ISS.png";
 import lucy from "./lucy.png";
+import FAA from "./FAA.png";
 
 import PID from "./PID.pdf";
 import spaceappscertificate from "./ERomero 2024 NASA International Space Apps Challenge Certificate.pdf";
@@ -85,6 +86,7 @@ export {
   logo,
   logopng,
   logov2,
+  FAA,
   logov3,
   nasaproject,
   lucy,
