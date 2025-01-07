@@ -183,7 +183,7 @@ import {
       date: "January 2025 - May 2025",
       points: [
         "Supporting a team of scientists at NASA KSC's Microgravity Simulation Support Facility (MSSF) in researching the effects of microgravity on microorganisms, cells, tissues, small plants, and small animals.",
-        "Conducting computational fluid dynamics (CFD) simulations in ANSYS CFX to model fluidic shear forces on suspended cells within rotating wall vessel bioreactors subjected to various simulated microgravity conditions.",
+        "Conducting computational fluid dynamics (CFD) simulations in ANSYS CFX to model fluidic shear forces on suspended cells within rotating wall vessel bioreactors under simulated microgravity.",
         "Developing MATLAB and Python scripts to calculate the gravitational acceleration vector experienced by cell cultures in microgravity simulator devices.",
         "Assisting with the front-end and back-end development of an internal NASA database designed to streamline the retrieval and analysis of spaceflight and ground-based life science studies.",
         "Designing CAD models in SolidWorks for experiment unique equipment (EUE) add-ons for 3D clinostats, leveraging 3D printing and machining capabilities in the KSC Prototype Shop.",
