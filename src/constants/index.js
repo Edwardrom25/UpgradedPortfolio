@@ -177,7 +177,7 @@ import {
     },
     {
       title: "Bioastronautics OSTEM Intern",
-      company_name: "NASA Kennedy Space Center",
+      company_name: "NASA Kennedy Space Center (KSC)",
       icon: nasawork,
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
@@ -186,7 +186,7 @@ import {
         "Conducting computational fluid dynamics (CFD) simulations in ANSYS CFX to model fluidic shear forces on suspended cells within rotating wall vessel bioreactors under simulated microgravity.",
         "Developing MATLAB and Python scripts to calculate the gravitational acceleration vector experienced by cell cultures in microgravity simulator devices.",
         "Assisting with the front-end and back-end development of an internal NASA database designed to streamline the retrieval and analysis of spaceflight and ground-based life science studies.",
-        "Designing CAD models in SolidWorks for experiment unique equipment (EUE) add-ons for 3D clinostats, leveraging 3D printing and machining capabilities in the KSC Prototype Shop.",
+        "Designing CAD models in SolidWorks for experiment unique equipment (EUE) add-ons for 3D clinostats, leveraging the 3D printing and machining capabilities of the KSC Prototype Shop.",
       ],
     },
     {
