@@ -176,16 +176,17 @@ import {
       ],
     },
     {
-      title: "Microgravity Simulation Support Facility (MSSF) OSTEM Intern",
+      title: "Bioastronautics OSTEM Intern",
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Awarded a NASA Space Grant to collaborate with scientists at NASA Kennedy Space Center’s MSSF to research how microgravity affects biological organisms, uncovering health risks for astronauts on long-term missions.",
-        "Conducting computational fluid dynamics (CFD) simulations in ANSYS CFX to model fluid and particle motion in cells under various simulated microgravity conditions.",
-        "Developing MATLAB and Python scripts to calculate the gravitational vector experienced by cell cultures in microgravity simulator devices, such as rotating wall vessel bioreactors and 3-D clinostats.",
-        "Assisting with the front-end and back-end development of an internal NASA database designed to streamline the retrieval and analysis of spaceflight and Earth-based life science studies.",
+        "Supporting a team of scientists at NASA KSC's Microgravity Simulation Support Facility (MSSF) in researching the effects of microgravity on microorganisms, cells, tissues, small plants, and small animals.",
+        "Conducting computational fluid dynamics (CFD) simulations in ANSYS CFX to model fluidic shear forces on suspended cells within rotating wall vessel bioreactors subjected to various simulated microgravity conditions.",
+        "Developing MATLAB and Python scripts to calculate the gravitational acceleration vector experienced by cell cultures in microgravity simulator devices.",
+        "Assisting with the front-end and back-end development of an internal NASA database designed to streamline the retrieval and analysis of spaceflight and ground-based life science studies.",
+        "Designing CAD models in SolidWorks for experiment unique equipment (EUE) add-ons for 3D clinostats, leveraging 3D printing and machining capabilities in the KSC Prototype Shop.",
       ],
     },
     {
@@ -195,7 +196,7 @@ import {
       iconBg: "#FFFFFF",
       date: "September 2024 - December 2024",
       points: [
-        "Collaborated with electrical engineers to provide consulting services to ComEd on the design of power distribution systems for Illinois' Future Energy Jobs Act, a $200M+ per year initiative expanding renewable energy infrastructure.",
+        "Collaborated with electrical engineers to design overhead and underground power distribution systems for Illinois' Future Energy Jobs Act (FEJA), legislation that requires Illinois’ largest electric utilities to expand renewable energy infrastructure.",
         "Conducted walkdowns to determine scopes for solar farm interconnection projects, documenting required utility easements and modifications to ComEd's distribution systems to properly interface with customers' electrical systems.",
         "Drafted 40+ geospatially accurate construction drawings in AutoCAD for solar farm interconnection projects, ensuring electrical installations complied with customer requirements and the National Electrical Safety Code (NESC).",
         "Simulated wind, ice, and line load forces in PoleForeman to analyze the structural integrity of existing and proposed overhead poles, adhering to NESC Rule 250B."
@@ -208,7 +209,7 @@ import {
       iconBg: "#FFFFFF",
       date: "June 2024 - August 2024",
       points: [
-        "Supported the new product development (NPD) and quality teams in the manufacturing and testing of metal and plastic components for microfiber mechanical cleaning systems used in cleanrooms in the aerospace industry.",
+        "Supported the new product development (NPD) and quality teams in the manufacturing and testing of metal and plastic components for microfiber mechanical cleaning systems used within controlled environments.",
         "Led a failure analysis of a wheel cleaner prototype by programming a Universal Robots UR5 Cobot Arm to simulate a trolley passing through 1,000+ times, implementing corrective actions that improved component reliability.",
         "Coordinated third-party particle release testing and led autoclavability and chemical resistance testing in the R&D lab on prototypes made from recycled plastics for a new eco-friendly product line, compiling the data into PowerPoint reports.",
         "Created bills of materials, quality control plans, and packaging process specifications for 6 products, utilizing TOPS Pro to optimize pallet patterns for improved cost savings.",
@@ -224,19 +225,6 @@ import {
   ];
   
   const projects = [
-    {
-      name: "Student Pilot",
-      description:
-        "Pursuing a Private Pilot License (PPL) by preparing for the FAA Private Pilot Airplane (PAR) Knowledge Test, logging 40+ flight hours, and obtaining a Class 3 Medical Certificate.",
-      tags: [
-        {
-          name: "ForeFlight",
-          color: "blue-text-gradient",
-        },
-      ],
-      image: FAA,
-      deploy_link: "https://www.illinoisaviation.com/flight-training/private-pilot-141/"
-    },
     {
       name: "NASA L'SPACE Proposal Writing and Evaluation Experience (NPWEE)",
       description:
