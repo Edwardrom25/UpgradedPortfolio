@@ -167,7 +167,7 @@ import {
   
   const experiences = [
     {
-      title: "Launch High Power Electrical Engineering Intern",
+      title: "High Power Graduate Engineer",
       company_name: "SpaceX",
       icon: spacex,
       iconBg: "#000000",
@@ -226,6 +226,23 @@ import {
   ];
   
   const projects = [
+    {
+      name: "Student Pilot",
+      description:
+        "Admitted to the private pilot program at Parkland College for the fall 2025 and spring 2026 semesters. The private pilot training consists of two classes taken over the course of two semesters: AVI 101 (Private Pilot I) and AVI 120 (Private Pilot II). Completing AVI 101 and AVI 120 earns 29.7 and 37.4 flight with simulator hours, respectively.",
+      tags: [
+        {
+          name: "ForeFlight",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Frasca Flight Simulators",
+          color: "blue-text-gradient",
+        },
+      ],
+      image: FAA,
+      deploy_link: "https://www.parkland.edu/Main/Academics/Departments/Aviation/Explore/Academics"
+    },
     {
       name: "NASA L'SPACE Proposal Writing and Evaluation Experience (NPWEE)",
       description:
@@ -286,23 +303,6 @@ import {
       image: spaceapps,
       source_code_link: spaceappscertificate,
       deploy_link: "https://www.spaceappschallenge.org/"
-    },
-    {
-      name: "The Illinois Space Society",
-      description:
-        "Supported the avionics team as a GNC engineer, developing and testing multi-stage rocket systems capable of reaching the Kármán line for the Illinois Space Society's Spaceshot competitions.",
-      tags: [
-        {
-          name: "C++",
-          color: "orange-text-gradient",
-        },
-        {
-          name: "MATLAB",
-          color: "green-text-gradient",
-        },
-      ],
-      image: spaceshot,
-      deploy_link: "https://www.illinoisspacesociety.org/spaceshot"
     },
   ];
   
