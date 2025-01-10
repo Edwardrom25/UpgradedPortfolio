@@ -40,6 +40,7 @@ import autocad from "./tech/autocad.png";
 import fusion from "./tech/fusion.png";
 import microsoft from "./tech/microsoft.png";
 import ansys from "./tech/ansys.png";
+import KiCAD from "./tech/KiCAD.png";
 
 
 import meta from "./company/meta.png";
@@ -106,6 +107,7 @@ export {
   PIDm,
   lspace,
   ECG,
+  KiCAD,
   backend,
   creator,
   collins,

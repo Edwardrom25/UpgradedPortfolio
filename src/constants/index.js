@@ -61,6 +61,7 @@ import {
     ISS,
     spaceapps,
     altium,
+    KiCAD,
     homepage,
     labview,
     siemens,
@@ -93,16 +94,16 @@ import {
   
   const services = [
     {
-      title: "Systems Engineering",
+      title: "Electrical Systems",
       icon: backend,
     },
     {
-      title: "Electrical Systems",
-      icon: web,
+      title: "Systems Engineering",
+      icon: mobile,
     },
     {
-      title: "Materials & Processes",
-      icon: mobile,
+      title: "Space Medicine",
+      icon: web,
     },
   ];
   
@@ -153,7 +154,7 @@ import {
     },
     {
       name: "PostgreSQL",
-      icon: altium,
+      icon: KiCAD,
     },
     {
       name: "git",
@@ -279,30 +280,17 @@ import {
       deploy_link: "https://www.lspace.asu.edu/mission-concept-academy"
     },
     {
-      name: "2024 NASA International Space Apps Challenge",
+      name: "The Illinois Space Society",
       description:
-        "Built a web app with React and TypeScript to overlay emission datasets from the U.S. Greenhouse Gas Center onto a 3D model of Earth, creating an interactive tool for users to explore and understand the impacts of climate change.",
+        "Acted as an Electronic Hardware Engineer for the Illinois Space Society's Spaceshot Project, designing electronic boards and circuits critical for the operation of the avionics bay in rockets competing in events such as FAR-51025 and the Spaceport America Cup.",
       tags: [
         {
-          name: "React.js",
+          name: "KiCad EDA",
           color: "orange-text-gradient",
         },
-        {
-          name: "TypeScript",
-          color: "green-text-gradient",
-        },
-        {
-          name: "HTML",
-          color: "pink-text-gradient",
-        },
-        {
-          name: "CSS",
-          color: "blue-text-gradient",
-        },
       ],
-      image: spaceapps,
-      source_code_link: spaceappscertificate,
-      deploy_link: "https://www.spaceappschallenge.org/"
+      image: spaceshot,
+      deploy_link: "https://www.illinoisspacesociety.org/spaceshot"
     },
   ];
   
