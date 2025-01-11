@@ -205,14 +205,14 @@ import {
       ],
     },
     {
-      title: "Materials & Processes Engineering Intern",
+      title: "Quality Engineering Intern",
       company_name: "Freudenberg Household Products",
       icon: vileda,
       iconBg: "#FFFFFF",
       date: "June 2024 - August 2024",
       points: [
         "Supported the new product development (NPD) and quality teams in the manufacturing and testing of metal and plastic components for microfiber mechanical cleaning systems used within controlled environments.",
-        "Led a failure analysis of a wheel cleaner prototype by programming a Universal Robots UR5 Cobot Arm to simulate a trolley passing through 1,000+ times, implementing corrective actions that improved component reliability.",
+        "Led a failure analysis of a wheel cleaner prototype by programming a Universal Robots UR5 Cobot Arm to simulate a trolley passing through 1,000+ times, identifying and mitigating the root cause to improve component reliability.",
         "Coordinated third-party particle release testing and led autoclavability and chemical resistance testing in the R&D lab on prototypes made from recycled plastics for a new eco-friendly product line, compiling the data into PowerPoint reports.",
         "Created bills of materials, quality control plans, and packaging process specifications for 6 products, utilizing TOPS Pro to optimize pallet patterns for improved cost savings.",
         "Developed 2D drawings in SolidWorks for 9 parts of a flagship product launching in 2025, incorporating geometric dimensioning and tolerancing (GD&T) in connection areas to minimize assembly issues for end users.",
