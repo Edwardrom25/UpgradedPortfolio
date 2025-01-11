@@ -1,6 +1,7 @@
 import React, { useRef, useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import emailjs from "@emailjs/browser";
+import { Toaster, toast } from "react-hot-toast";
 
 import { styles } from "../styles";
 import { EarthCanvas } from "./canvas";
@@ -62,7 +63,10 @@ const Contact = () => {
 
     // Validation: Check if all fields are filled
     if (!form.name || !form.email || !form.message) {
-      alert("Please fill in all the fields before submitting.");
+      toast.error("Please fill in all the fields before submitting.", {
+        duration: 3000,
+        position: "bottom-right",
+      });
       return; // Prevent submission if any field is empty
     }
 
@@ -78,7 +82,10 @@ const Contact = () => {
       .then(
         () => {
           setLoading(false);
-          alert("Thank you! I will get back to you as soon as possible.");
+          toast.success("Thank you! I will get back to you as soon as possible.", {
+            duration: 3000,
+            position: "bottom-right",
+          });
 
           setForm({
             name: "",
@@ -90,15 +97,28 @@ const Contact = () => {
           setLoading(false);
           console.error(error);
 
-          alert("Something went wrong. Please try again.");
+          toast.error("Something went wrong. Please try again.", {
+            duration: 3000,
+            position: "bottom-right",
+          });
         }
       );
   };
 
   return (
-    <div
-      className={`xl:mt-12 flex xl:flex-row flex-col-reverse gap-10 overflow-hidden`}
-    >
+    <div className={`xl:mt-12 flex xl:flex-row flex-col-reverse gap-10 overflow-hidden`}>
+      <Toaster 
+        position="bottom-right"
+        reverseOrder={false}
+        toastOptions={{
+          className: "",
+          style: {
+            border: "1px solid #713200",
+            padding: "16px",
+            color: "#713200",
+          },
+        }}
+      />
       <motion.div
         variants={slideIn("left", "tween", 0.2, 1)}
         className="flex-[0.75] bg-black-100 p-8 rounded-2xl"
