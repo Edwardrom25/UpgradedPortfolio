@@ -184,7 +184,7 @@ import {
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Assisting a team of scientists at NASA KSC's Microgravity Simulation Support Facility (MSSF) in researching the effects of microgravity on biological organisms to develop human health countermeasures for long-duration spaceflight.",
+        "Assisting a team of scientists at NASA Kennedy Space Center's Microgravity Simulation Support Facility (MSSF) in researching the effects of microgravity on biological organisms to develop human health countermeasures for long-duration spaceflight.",
         "Conducting computational fluid dynamics (CFD) simulations in ANSYS CFX to model fluidic shear forces on suspended cells within rotating wall vessel bioreactors under simulated microgravity.",
         "Developing MATLAB and Python scripts to calculate the gravitational acceleration vector experienced by cell cultures in microgravity simulator devices.",
         "Contributing to the front-end and back-end development of an internal NASA database designed to streamline the retrieval and analysis of spaceflight and ground-based life science studies.",
