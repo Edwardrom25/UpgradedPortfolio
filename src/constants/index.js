@@ -199,8 +199,8 @@ import {
       date: "September 2024 - December 2024",
       points: [
         "Collaborated with engineers to design and commission power distribution systems for Illinois' Future Energy Jobs Act (FEJA), legislation that requires Illinois’ largest electric utilities to expand renewable energy infrastructure.",
-        "Conducted site visits to document existing conditions and assess the utility easements, power line extensions, and pole or pad-mounted equipment needed to connect commercial solar farms to ComEd’s electrical grid.",
-        "Drafted 40+ construction drawings in AutoCAD for commercial solar farm interconnection projects, ensuring electrical installations complied with client requirements and the National Electrical Safety Code (NESC).",
+        "Conducted site visits to document existing conditions and assess the utility easements, power line extensions, and pole or pad-mounted equipment needed to connect solar farms to ComEd’s electrical grid.",
+        "Drafted construction drawings in AutoCAD for 40+ solar interconnection projects, ensuring electrical installations complied with client requirements and the National Electrical Safety Code (NESC).",
         "Simulated wind, ice, and line load forces in PoleForeman to analyze the structural integrity of existing and proposed overhead poles, adhering to NESC Rule 250B."
       ],
     },
