@@ -121,6 +121,10 @@ import {
       icon: autocad,
     },
     {
+      name: "PostgreSQL",
+      icon: KiCAD,
+    },
+    {
       name: "TypeScript",
       icon: c,
     },
@@ -153,10 +157,6 @@ import {
       icon: ansys,
     },
     {
-      name: "PostgreSQL",
-      icon: KiCAD,
-    },
-    {
       name: "git",
       icon: labview,
     },
@@ -174,12 +174,12 @@ import {
       iconBg: "#000000",
       date: "May 2025 - August 2025",
       points: [
-        "Supporting the design and troubleshooting of electrical components and systems critical to launch and recovery operations, including motor control centers, exterior and interior lighting, standby and emergency generators, and fire alarm systems.",
+        "Providing detailed electrical design and specification for the installation of switch-gear and motor control centers, UPS units, standby and emergency generators, exterior and interior lighting, and lightning protection systems.",
       ],
     },
     {
       title: "Bioastronautics Research Engineering Intern",
-      company_name: "NASA Kennedy Space Center (KSC)",
+      company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
@@ -198,9 +198,9 @@ import {
       iconBg: "#FFFFFF",
       date: "September 2024 - December 2024",
       points: [
-        "Collaborated with electrical engineers to design overhead and underground power distribution systems for Illinois' Future Energy Jobs Act (FEJA), legislation that requires Illinois’ largest electric utilities to expand renewable energy infrastructure.",
-        "Conducted walkdowns to determine scopes for solar farm interconnection projects, documenting required utility easements and modifications to ComEd's distribution systems to properly interface with customers' electrical systems.",
-        "Drafted 40+ geospatially accurate construction drawings in AutoCAD for solar farm interconnection projects, ensuring electrical installations complied with customer requirements and the National Electrical Safety Code (NESC).",
+        "Collaborated with engineers to design and commission power distribution systems for Illinois' Future Energy Jobs Act (FEJA), legislation that requires Illinois’ largest electric utilities to expand renewable energy infrastructure.",
+        "Reviewed property deeds and conducted project site visits to determine the utility easements and electrical distribution equipment required to connect commercial solar farms to Illinois' electrical grid.",
+        "Drafted 40+ construction drawings in AutoCAD for commercial solar farm interconnection projects, ensuring electrical installations complied with client requirements and the National Electrical Safety Code (NESC).",
         "Simulated wind, ice, and line load forces in PoleForeman to analyze the structural integrity of existing and proposed overhead poles, adhering to NESC Rule 250B."
       ],
     },
@@ -212,8 +212,8 @@ import {
       date: "June 2024 - August 2024",
       points: [
         "Supported the new product development (NPD) and quality teams in the manufacturing and testing of metal and plastic components for microfiber mechanical cleaning systems used to clean controlled environments.",
-        "Led a failure analysis of a wheel cleaner prototype by programming a Universal Robots UR5 Cobot Arm to simulate a trolley passing through 1,000+ times, identifying and mitigating the root cause to improve component reliability.",
-        "Coordinated third-party particle release testing and led autoclavability and chemical resistance testing in the R&D lab on prototypes made from recycled plastics for a new eco-friendly product line, compiling the data into PowerPoint reports.",
+        "Led a failure analysis of a wheel cleaner prototype by programming a Universal Robots UR5 Cobot Arm to simulate a trolley passing through 1,000+ times, identifying and resolving the root cause to improve design reliability.",
+        "Coordinated third-party particle release testing and led chemical resistance testing in the R&D lab on prototypes made from recycled materials for a new eco-friendly product line, compiling the data into PowerPoint reports.",
         "Created bills of materials, quality control plans, and packaging process specifications for 6 products, utilizing TOPS Pro to optimize pallet patterns for improved cost savings.",
         "Developed 2D drawings in SolidWorks for 9 parts of a flagship product launching in 2025, incorporating geometric dimensioning and tolerancing (GD&T) in connection areas to minimize assembly issues for end users.",
         "Designed a test method to compute the coefficient of friction of microfiber cleaning materials, providing the sales team with a data-driven metric to highlight the ergonomic advantages of Vileda Professional products over competitors.",
@@ -264,7 +264,7 @@ import {
     {
       name: "NASA L'SPACE Mission Concept Academy (MCA)",
       description:
-        "Co-led a team of 16 students as the Lead Systems Engineer, preparing a Mission Concept Review (MCR), System Requirements Review (SRR), Mission Definition Review (MDR), and Preliminary Design Review (PDR) for a rover that tests the thermal isolation and structural integrity of lunar pits as potential long-term habitation sites for the Artemis missions.",
+        "Co-led a team of 16 students as Lead Systems Engineer to prepare a Mission Concept Review (MCR), System Requirements Review (SRR), Mission Definition Review (MDR), and Preliminary Design Review (PDR) for a rover that tests the thermal isolation and structural integrity of lunar pits to identify long-term habitation sites for the Artemis missions.",
       tags: [
         {
           name: "Siemens NX",

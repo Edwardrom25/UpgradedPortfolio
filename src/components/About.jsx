@@ -63,7 +63,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
       >
-        I am also very interested in designing and testing electrical systems for spacecraft, so I am currently pursuing a <span style={{ color: '#915eff' }}>master’s degree in electrical and computer engineering</span> at the University of Illinois Urbana-Champaign. This summer, <span style={{ color: '#915eff' }}>I am working on SpaceX’s launch high power electrical engineering team</span>, supporting the design and troubleshooting of electrical components and systems critical to launch and recovery operations.
+        I am also very interested in power systems, so I am currently pursuing a <span style={{ color: '#915eff' }}>master’s degree in electrical and computer engineering</span> at the University of Illinois Urbana-Champaign. This summer, <span style={{ color: '#915eff' }}>I am working on SpaceX’s launch high power electrical engineering team</span>, providing engineering support for the design, operation, and troubleshooting of facility electrical components and systems. I have passed the FE Electrical and Computer Exam and am currently studying for the PE Electrical and Computer: Power Exam so that I can eventually obtain my PE license.
       </motion.p>
 
       <motion.p
