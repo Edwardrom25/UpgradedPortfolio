@@ -56,14 +56,14 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
       >
-        We are the universe tasting itself, talking to itself, reading its own code. Carl Sagan’s profound words inspired my pursuit of a <span style={{ color: '#915eff' }}>bachelor's degree in bioengineering</span> and a <span style={{ color: '#915eff' }}>minor in materials science engineering</span> at the University of Illinois Urbana-Champaign. This spring, <span style={{ color: '#915eff' }}>I am conducting bioastronautics research at NASA Kennedy Space Center’s Microgravity Simulation Support Facility (MSSF)</span>. I’m collaborating with scientists to examine how low-gravity environments affect the growth, development, and morphology of biological organisms. This research is critical for developing human health countermeasures for long-duration spaceflight, enabling humans to establish a long-term presence on the Moon, Mars, and other planetary surfaces.
+        We are the universe tasting itself, talking to itself, reading its own code. Carl Sagan’s profound words inspired my pursuit of a <span style={{ color: '#915eff' }}>bachelor's degree in bioengineering</span> and a <span style={{ color: '#915eff' }}>minor in materials science engineering</span> at the University of Illinois Urbana-Champaign. This spring, <span style={{ color: '#915eff' }}>I am conducting bioastronautics research at NASA Kennedy Space Center’s Microgravity Simulation Support Facility (MSSF)</span>. I’m collaborating with scientists to examine how low-gravity environments affect the growth, development, and morphology of biological organisms. This research is key to developing human health countermeasures for long-duration spaceflight so humans can establish a long-term presence on the Moon, Mars, and other planetary surfaces.
       </motion.p>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
       >
-        I am also very interested in power systems, so I am currently pursuing a <span style={{ color: '#915eff' }}>master’s degree in electrical and computer engineering</span> at the University of Illinois Urbana-Champaign. This summer, <span style={{ color: '#915eff' }}>I am working on SpaceX’s launch high power electrical engineering team</span>, providing engineering support for the design, operation, and troubleshooting of facility electrical components and systems. I have passed the FE Electrical and Computer Exam and am currently studying for the PE Electrical and Computer: Power Exam so that I can eventually obtain my PE license.
+        I am also very interested in power systems, so I am currently pursuing a <span style={{ color: '#915eff' }}>master’s degree in electrical and computer engineering</span> at the University of Illinois Urbana-Champaign. This summer, <span style={{ color: '#915eff' }}>I am working on SpaceX’s launch high power electrical engineering team</span>, supporting the design, operation, and troubleshooting of facility electrical components and systems. I earned my EIT certification in May 2024 and am currently studying for the PE Electrical and Computer: Power Exam to obtain my PE license.
       </motion.p>
 
       <motion.p
