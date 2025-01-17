@@ -178,7 +178,7 @@ import {
       ],
     },
     {
-      title: "Bioastronautics Research Engineering Intern",
+      title: "Space Medical Research Engineering Intern",
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
