@@ -168,7 +168,7 @@ import {
   
   const experiences = [
     {
-      title: "Graduate Engineer, High Power",
+      title: "High Power Graduate Engineer",
       company_name: "SpaceX",
       icon: spacex,
       iconBg: "#000000",
