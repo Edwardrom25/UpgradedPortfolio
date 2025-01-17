@@ -168,7 +168,7 @@ import {
   
   const experiences = [
     {
-      title: "Launch High Power Electrical Engineering Intern",
+      title: "Graduate Engineer, High Power",
       company_name: "SpaceX",
       icon: spacex,
       iconBg: "#000000",
@@ -211,13 +211,13 @@ import {
       iconBg: "#FFFFFF",
       date: "June 2024 - August 2024",
       points: [
-        "Supported the new product development (NPD) and quality teams in the manufacturing and testing of metal and plastic components for microfiber mechanical cleaning systems used to clean controlled environments.",
-        "Led a failure analysis of a wheel cleaner prototype by programming a Universal Robots UR5 Cobot Arm to simulate a trolley passing through 1,000+ times, identifying and resolving the root cause to improve design reliability.",
-        "Coordinated third-party particle release testing and led chemical resistance testing in the R&D lab on prototypes made from recycled materials for a new eco-friendly product line, compiling the data into PowerPoint reports.",
-        "Created bills of materials, quality control plans, and packaging process specifications for 6 products, utilizing TOPS Pro to optimize pallet patterns for improved cost savings.",
-        "Developed 2D drawings in SolidWorks for 9 parts of a flagship product launching in 2025, incorporating geometric dimensioning and tolerancing (GD&T) in connection areas to minimize assembly issues for end users.",
+        "Supported the new product development (NPD) and quality teams in the manufacturing and testing of metal and plastic components for microfiber cleaning systems used for contamination control in controlled environments.",
+        "Led a failure analysis of a wheel cleaner prototype by programming a Universal Robots UR5 Cobot Arm to simulate a trolley passing through 1,000+ times, identifying and resolving root causes to improve design reliability.",
+        "Coordinated third-party gamma irradiation testing and conducted chemical resistance testing on prototypes made from recycled materials for a new eco-friendly product line, compiling the data into PowerPoint reports.",
+        "Created product specifications, bills of materials, quality control plans, and packaging process specifications for new and existing products.",
+        "Developed 2D drawings in SolidWorks for each part of the Vileda Professional CE Wheel Cleaner, incorporating geometric dimensioning and tolerancing (GD&T) in connection areas to minimize assembly issues for end users.",
         "Designed a test method to compute the coefficient of friction of microfiber cleaning materials, providing the sales team with a data-driven metric to highlight the ergonomic advantages of Vileda Professional products over competitors.",
-        "Researched autoclaves with continuous cycling capabilities to streamline internal wear-and-tear testing in the R&D lab, proposing 3 options for purchase that adhered to the $10,000 budget and the lab's limited physical space."
+        "Researched autoclaves with continuous cycling capabilities to streamline wear-and-tear testing in the R&D lab, proposing 3 models that adhered to the $10K budget and accommodated the lab's limited space."
       ],
     },
   ];
