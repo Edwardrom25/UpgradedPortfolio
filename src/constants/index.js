@@ -212,7 +212,7 @@ import {
       date: "June 2024 - August 2024",
       points: [
         "Supported the new product development (NPD) and quality assurance teams in designing and testing metal and plastic components for microfiber cleaning systems used for contamination control in cleanrooms.",
-        "Programmed a Universal Robots UR5 Cobot Arm to continually expose a wheel cleaner prototype to the forces it is expected to undergo over its lifetime to reveal component failures and determine its operational lifespan.",
+        "Programmed a Universal Robots UR5 Cobot Arm to continually expose a wheel cleaner prototype to the forces it is expected to sustain during normal usage to determine component durability and operational lifespan.",
         "Coordinated third-party gamma irradiation testing and conducted chemical resistance testing on prototypes made from recycled materials to ensure a new sustainability-focused product line met reliability standards.",
         "Created product specifications, bills of materials, quality control plans, and packaging process specifications for new and existing products.",
         "Developed 2D drawings in SolidWorks for product assemblies, incorporating geometric dimensioning and tolerancing (GD&T) in connection areas to minimize assembly issues for end users.",
