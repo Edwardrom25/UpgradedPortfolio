@@ -98,7 +98,7 @@ import {
       icon: backend,
     },
     {
-      title: "Systems Engineering",
+      title: "Materials & Processes",
       icon: mobile,
     },
     {
