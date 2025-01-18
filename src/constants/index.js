@@ -205,19 +205,19 @@ import {
       ],
     },
     {
-      title: "Quality Engineering Intern",
+      title: "Materials Engineering Intern",
       company_name: "Freudenberg Household Products",
       icon: FHCS,
       iconBg: "#FFFFFF",
       date: "June 2024 - August 2024",
       points: [
-        "Supported the new product development (NPD) and quality teams in the manufacturing and testing of metal and plastic components for microfiber cleaning systems used for contamination control in controlled environments.",
-        "Led a failure analysis of a wheel cleaner prototype by programming a Universal Robots UR5 Cobot Arm to simulate a trolley passing through 1,000+ times, identifying and resolving root causes to improve design reliability.",
-        "Coordinated third-party gamma irradiation testing and conducted chemical resistance testing on prototypes made from recycled materials for a new eco-friendly product line, compiling the data into PowerPoint reports.",
+        "Supported the new product development (NPD) and quality assurance teams in designing and testing metal and plastic components for microfiber cleaning systems used for contamination control in cleanrooms.",
+        "Programmed a Universal Robots UR5 cobot arm to continually expose a wheel cleaner prototype to the forces expected to act on it when in normal service to evaluate its life cycle and component shortcomings.",
+        "Coordinated third-party gamma irradiation testing and conducted chemical resistance testing on prototypes made from recycled materials to ensure a new sustainability-focused product line met reliability standards.",
         "Created product specifications, bills of materials, quality control plans, and packaging process specifications for new and existing products.",
-        "Developed 2D drawings in SolidWorks for each part of the Vileda Professional CE Wheel Cleaner, incorporating geometric dimensioning and tolerancing (GD&T) in connection areas to minimize assembly issues for end users.",
+        "Developed 2D drawings in SolidWorks for product assemblies, incorporating geometric dimensioning and tolerancing (GD&T) in connection areas to minimize assembly issues for end users.",
         "Designed a test method to compute the coefficient of friction of microfiber cleaning materials, providing the sales team with a data-driven metric to highlight the ergonomic advantages of Vileda Professional products over competitors.",
-        "Researched autoclaves with continuous cycling capabilities to streamline wear-and-tear testing in the R&D lab, proposing 3 models that adhered to the $10K budget and accommodated the lab's limited space."
+        "Investigated and resolved quality complaints by determining root causes and implementing corrective actions."
       ],
     },
   ];
