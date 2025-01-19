@@ -230,7 +230,7 @@ import {
     {
       name: "Student Pilot",
       description:
-        "Admitted to the private pilot program at Parkland College for the fall 2025 and spring 2026 semesters. The private pilot training consists of two classes taken over the course of two semesters: AVI 101 (Private Pilot I) and AVI 120 (Private Pilot II). Completing AVI 101 and AVI 120 earns 29.7 and 37.4 flight with simulator hours, respectively.",
+        "Completing the private pilot program at Parkland College during the fall 2025 and spring 2026 semesters. The private pilot training consists of two classes taken over the course of two semesters: AVI 101 (Private Pilot I) and AVI 120 (Private Pilot II), which provide 29.7 and 37.4 flight with simulator hours, respectively.",
       tags: [
         {
           name: "ForeFlight",
