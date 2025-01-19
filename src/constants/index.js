@@ -201,8 +201,8 @@ import {
         "Designed and commissioned medium-voltage (4-69 kV) power distribution systems to support ComEd’s expansion of renewable energy infrastructure under Illinois' Future Energy Jobs Act (FEJA).",
         "Conducted pre-design walkdowns to document existing conditions and assess the electrical feeder extensions and pole- or pad-mounted equipment needed to connect solar farms to ComEd’s electrical grid.",
         "Drafted construction drawings in AutoCAD for 40+ solar interconnection projects, ensuring electrical installations complied with all specifications, codes, and client requirements.",
-        "Simulated wind and ice loads on overhead poles in PoleForeman to verify that proposed designs adhered to NESC Rule 250B.",
-        "Coordinated civil and DA radio surveys and procured materials and permits to facilitate Issue for Approval (IFA) and Issue for Construction (IFC) submissions."
+        "Simulated wind and ice loads on overhead poles in PoleForeman to verify that proposed designs adhered to NESC Rules 250B, 250C, and 250D.",
+        "Utilized TED and CEGIS to create work orders, incorporate associated sketches into ComEd's geospatial database of electrical and physical infrastructure, and coordinate with field and operations teams to execute electrical work."
       ],
     },
     {
