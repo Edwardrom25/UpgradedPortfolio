@@ -185,10 +185,6 @@ import {
       date: "January 2025 - May 2025",
       points: [
         "Assisting a team of scientists at NASA Kennedy Space Center's Microgravity Simulation Support Facility (MSSF) in researching the effects of microgravity on biological organisms to develop human health countermeasures for long-duration spaceflight.",
-        "Conducting computational fluid dynamics (CFD) simulations in ANSYS CFX to model fluidic shear forces on suspended cells within rotating wall vessel bioreactors under simulated microgravity.",
-        "Developing MATLAB and Python scripts to calculate the gravitational acceleration vector experienced by cell cultures in microgravity simulator devices.",
-        "Contributing to the front-end and back-end development of an internal NASA database designed to streamline the retrieval and analysis of spaceflight and ground-based life science studies.",
-        "Designing CAD models in SolidWorks for experiment unique equipment (EUE) add-ons for 3D clinostats, leveraging the 3D printing and machining capabilities of the KSC Prototype Shop.",
       ],
     },
     {
@@ -248,7 +244,7 @@ import {
     {
       name: "NASA L'SPACE Proposal Writing and Evaluation Experience (NPWEE)",
       description:
-        "Co-leading a team of 16 students to write a 7-page technical proposal on advanced electronics and computing hardware for atmospheric and space flight systems for NASA Marshall’s Chief Technologist.",
+        "Completing the NASA L'SPACE Proposal Writing and Evaluation Experience, a 12-week NASA workforce development program focused on teaching participants how to identify NASA's needs and learn the process of proposing ideas to NASA for funding.",
       tags: [
         {
           name: "Siemens NX",
