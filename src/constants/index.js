@@ -231,11 +231,11 @@ import {
       tags: [
         {
           name: "ForeFlight",
-          color: "pink-text-gradient",
+          color: "blue-text-gradient",
         },
         {
           name: "Frasca Flight Simulators",
-          color: "blue-text-gradient",
+          color: "orange-text-gradient",
         },
       ],
       image: FAA,
@@ -248,10 +248,6 @@ import {
       tags: [
         {
           name: "Siemens NX",
-          color: "orange-text-gradient",
-        },
-        {
-          name: "JMARS",
           color: "green-text-gradient",
         },
       ],
