@@ -194,7 +194,7 @@ import {
       iconBg: "#FFFFFF",
       date: "September 2024 - December 2024",
       points: [
-        "Designed and commissioned medium-voltage (4-69 kV) power distribution systems to support ComEd’s expansion of renewable energy infrastructure under Illinois' Future Energy Jobs Act (FEJA).",
+        "Designed and commissioned medium voltage (4-69 kV) power distribution systems to support ComEd’s expansion of renewable energy infrastructure under Illinois' Future Energy Jobs Act (FEJA).",
         "Conducted pre-design walkdowns to document existing conditions and assess the electrical feeder extensions and pole- or pad-mounted equipment needed to connect solar farms to ComEd’s electrical grid.",
         "Drafted construction drawings in AutoCAD for 40+ solar interconnection projects, ensuring electrical installations complied with all specifications, codes, and client requirements.",
         "Simulated wind and ice loads on overhead poles in PoleForeman to verify that proposed designs adhered to NESC Rules 250B, 250C, and 250D.",
@@ -209,12 +209,11 @@ import {
       date: "June 2024 - August 2024",
       points: [
         "Supported the new product development (NPD) and quality teams in designing, testing, and manufacturing metal and plastic components for microfiber cleaning systems used for contamination control in cleanrooms.",
-        "Programmed a Universal Robots UR5 Cobot Arm to continually expose a wheel cleaner prototype to the forces it is expected to sustain during normal usage to determine component durability and operational lifespan.",
-        "Coordinated third-party gamma irradiation testing and conducted chemical resistance testing on prototypes made from recycled materials to ensure a new sustainability-focused product line met reliability standards.",
-        "Created product specifications, bills of materials, quality control plans, and packaging process specifications for new and existing products.",
-        "Developed 2D drawings in SolidWorks for product assemblies, incorporating geometric dimensioning and tolerancing (GD&T) in connection areas to minimize assembly issues for end users.",
+        "Led gamma irradiation, particle release, cleaning efficacy, autoclavability, and chemical resistance testing on prototypes made from recycled materials to ensure a new sustainability-focused product line met reliability goals.",
         "Designed a test method to compute the coefficient of friction of microfiber cleaning materials, providing the sales team with a data-driven metric to highlight the ergonomic advantages of Vileda Professional products over competitors.",
-        "Investigated and resolved quality complaints by determining root causes and implementing corrective actions."
+        "Investigated and resolved quality complaints by determining root causes and implementing corrective actions.",
+        "Created product specifications, bills of materials, quality control plans, and packaging process specifications for new and existing products.",
+        "Developed 2D drawings in SolidWorks for product assemblies, incorporating geometric dimensioning and tolerancing (GD&T) in connection areas to minimize assembly issues for end users."
       ],
     },
   ];
