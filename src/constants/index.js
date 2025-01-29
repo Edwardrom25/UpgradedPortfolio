@@ -178,7 +178,7 @@ import {
       ],
     },
     {
-      title: "Space Biology Research OSTEM Intern",
+      title: "Space Biology OSTEM Intern",
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
