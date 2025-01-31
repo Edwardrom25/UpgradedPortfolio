@@ -178,13 +178,13 @@ import {
       ],
     },
     {
-      title: "Computational Modeling Intern",
+      title: "Modeling and Simulation Intern",
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Assisting a team of scientists at NASA Kennedy Space Center's Microgravity Simulation Support Facility (MSSF) in researching the effects of microgravity on biological organisms to inform crop production and human health countermeasures for long-duration spaceflight.",
+        "Assisting a team of scientists at NASA Kennedy Space Center's Microgravity Simulation Support Facility (MSSF) in using microgravity simulation devices to study the effects of zero-g and partial-g on biological organisms in spaceflight.",
       ],
     },
     {
