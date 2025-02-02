@@ -49,28 +49,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
       >
-        “The nitrogen in our DNA. The calcium in our teeth. The iron in our blood. The carbon in our apple pies were made in the interiors of collapsing stars. We are made of star stuff.”
-      </motion.p>
-
-      <motion.p
-        variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
-      >
-        We are the universe tasting itself, talking to itself, reading its own code. Carl Sagan’s profound words inspired my pursuit of a <span style={{ color: '#915eff' }}>bachelor's degree in bioengineering</span> and a <span style={{ color: '#915eff' }}>minor in materials science engineering</span> at the University of Illinois Urbana-Champaign. This spring, <span style={{ color: '#915eff' }}>I am conducting space biology research at NASA Kennedy Space Center’s Microgravity Simulation Support Facility (MSSF)</span>. I’m collaborating with scientists to examine how low-gravity environments affect the growth, development, and morphology of biological organisms. This research informs crop production and human health countermeasures for long-duration spaceflight, which is necessary for humans to establish a long-term presence on the Moon, Mars, and other planetary surfaces.
-      </motion.p>
-
-      <motion.p
-        variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
-      >
-        I am also very interested in power systems, so I am currently pursuing a <span style={{ color: '#915eff' }}>master’s degree in electrical and computer engineering</span> at the University of Illinois Urbana-Champaign. This summer, <span style={{ color: '#915eff' }}>I am working on SpaceX’s launch high power electrical engineering team</span>, supporting the design, operation, and troubleshooting of facility electrical components and systems. I plan to work on power systems in the aerospace industry long-term, so I passed the FE Electrical and Computer Exam in May 2024 and am studying for the PE Electrical and Computer: Power Exam to earn my PE license.
-      </motion.p>
-
-      <motion.p
-        variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
-      >
-        I am a dedicated leader focused on delivering excellence to the United States of America through intelligence and innovation. I have over one year of applied engineering experience in programming, modeling and simulation, electrical systems, and quality assurance. Proficient in <span style={{ color: '#915eff' }}>Python</span>, <span style={{ color: '#915eff' }}>C++</span>, <span style={{ color: '#915eff' }}>MATLAB</span>, <span style={{ color: '#915eff' }}>SolidWorks</span>, <span style={{ color: '#915eff' }}>AutoCAD</span>, and <span style={{ color: '#915eff' }}>Microsoft Office tools</span>, I am eager to leverage my technical skills to develop technologies that keep people safe and advance humanity beyond the stars.
+        Born and raised in Chicago, Illinois. Graduated from the University of Illinois Urbana-Champaign with a Bachelor’s Degree in Bioengineering and a minor in Materials Science Engineering. Currently pursuing a Master’s Degree in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign and a Private Pilot Certificate from Parkland College. Passed the FE Electrical and Computer Exam and am currently studying for the PE Electrical and Computer: Power Exam to earn my PE license. Advancing space biology research at NASA Kennedy Space Center as an OSTEM Intern and supporting the design, operation, and troubleshooting of facility electrical components and systems at SpaceX as a High Power Graduate Engineer to do my part in putting American astronauts on Mars.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10 justify-center'>
