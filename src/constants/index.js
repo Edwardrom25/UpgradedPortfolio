@@ -178,13 +178,13 @@ import {
       ],
     },
     {
-      title: "Modeling & Simulation Engineering Intern",
+      title: "Microgravity Research Engineer",
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Assisting a team of scientists at NASA Kennedy Space Center's Microgravity Simulation Support Facility (MSSF) in using microgravity simulation devices to study the effects of zero-g and partial-g on biological organisms in spaceflight.",
+        "Conducting research on the biological effects of microgravity using microgravity simulation devices that simulate zero-g and partial-g conditions equivalent to those of the ISS, the Moon, and Mars.",
       ],
     },
     {
