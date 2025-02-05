@@ -178,7 +178,7 @@ import {
       ],
     },
     {
-      title: "Modeling and Simulation Engineering Intern",
+      title: "Modeling & Simulation Engineering Intern",
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
@@ -208,7 +208,7 @@ import {
       iconBg: "#FFFFFF",
       date: "June 2024 - August 2024",
       points: [
-        "Supported the new product development (NPD) and quality teams in designing, testing, and manufacturing metal and plastic components for microfiber cleaning systems used for contamination control in cleanrooms.",
+        "Supported the new product development (NPD) and quality teams in designing, testing, and manufacturing metal and plastic components for microfiber cleaning systems used for contamination control in aerospace cleanrooms.",
         "Led gamma irradiation, particle release, cleaning efficacy, autoclavability, and chemical resistance testing on prototypes made from recycled materials to ensure a new eco-friendly product line met reliability goals.",
         "Designed a test method to compute the coefficient of friction of microfiber cleaning materials, providing the sales team with a data-driven metric to highlight the ergonomic advantages of Vileda Professional products over competitors.",
         "Investigated and resolved quality complaints by determining root causes and implementing corrective actions.",
