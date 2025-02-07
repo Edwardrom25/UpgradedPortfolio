@@ -178,13 +178,13 @@ import {
       ],
     },
     {
-      title: "Microgravity Research Engineer",
+      title: "Spaceflight Physiology Research Engineer",
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Conducting research on the biological effects of microgravity using microgravity simulation devices that simulate zero-g and partial-g conditions equivalent to those of the ISS, the Moon, and Mars.",
+        "Developing hardware and software for devices that simulate zero-g and partial-g conditions equivalent to those of the ISS, the Moon, and Mars to support scientists researching the biological effects of microgravity.",
       ],
     },
     {
