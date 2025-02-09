@@ -243,7 +243,7 @@ import {
     {
       name: "NASA L'SPACE Proposal Writing and Evaluation Experience (NPWEE)",
       description:
-        "Completing the NASA L'SPACE Proposal Writing and Evaluation Experience, a 12-week NASA workforce development program focused on teaching participants how to identify NASA's needs and the process of proposing ideas to NASA for funding.",
+        "Completing the NASA L'SPACE Proposal Writing and Evaluation Experience, a 12-week NASA workforce development program that teaches the process of proposing ideas to NASA for funding.",
       tags: [
         {
           name: "Siemens NX",
