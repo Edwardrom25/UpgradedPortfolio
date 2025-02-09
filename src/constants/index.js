@@ -210,10 +210,10 @@ import {
       points: [
         "Supported the new product development (NPD) and quality teams in designing, testing, and manufacturing metal and plastic components for microfiber cleaning systems used for contamination control in aerospace cleanrooms.",
         "Led gamma irradiation, particle release, cleaning efficacy, autoclavability, and chemical resistance testing on prototypes made from recycled materials to ensure a new eco-friendly product line met reliability goals.",
-        "Designed a test method to compute the coefficient of friction of microfiber cleaning materials, providing the sales team with a data-driven metric to highlight the ergonomic advantages of Vileda Professional products over competitors.",
+        "Programmed a Universal Robots UR5 Cobot Arm to continually expose a wheel cleaner prototype to the forces it is expected to sustain over its lifetime to reveal component shortcomings.",
         "Investigated and resolved quality complaints by determining root causes and implementing corrective actions.",
         "Created product specifications, bills of materials, quality control plans, and packaging process specifications for new and existing products.",
-        "Developed 2D drawings in SolidWorks for product assemblies, incorporating geometric dimensioning and tolerancing (GD&T) in connection areas to minimize assembly issues for end users."
+        "Developed detailed component and assembly drawings in SolidWorks, incorporating geometric dimensioning and tolerancing (GD&T)."
       ],
     },
   ];
