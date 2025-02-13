@@ -178,7 +178,7 @@ import {
       ],
     },
     {
-      title: "Spaceflight Physiology Research Engineer",
+      title: "Space Physiology OSTEM Intern",
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
