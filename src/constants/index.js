@@ -250,7 +250,7 @@ import {
           color: "green-text-gradient",
         },
       ],
-      image: lucy,
+      image: nasaproject,
       deploy_link: "https://www.lspace.asu.edu/proposal-writing-academy"
     },
     {
@@ -267,7 +267,7 @@ import {
           color: "blue-text-gradient",
         },
       ],
-      image: lucy,
+      image: nasaproject,
       source_code_link: mcacertificate,
       deploy_link: "https://www.lspace.asu.edu/mission-concept-academy"
     },
