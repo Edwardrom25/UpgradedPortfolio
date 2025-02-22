@@ -6,6 +6,8 @@ import {
     javascript,
     vileda,
     typescript,
+    creo,
+    arduino,
     html,
     css,
     reactjs,
@@ -109,66 +111,66 @@ import {
   
   const technologies = [
     {
-      name: "Java",
+      name: "SolidWorks",
       icon: solidworks,
     },
     {
-      name: "Go",
+      name: "Siemens NX",
       icon: siemens,
     },
     {
-      name: "JavaScript",
+      name: "Creo Parametric",
+      icon: creo,
+    },
+    {
+      name: "AutoCAD",
       icon: autocad,
     },
     {
-      name: "PostgreSQL",
+      name: "KiCAD",
       icon: KiCAD,
     },
     {
-      name: "TypeScript",
+      name: "C++",
       icon: c,
     },
     {
-      name: "HTML 5",
+      name: "Python",
       icon: python,
     },
     {
-      name: "CSS 3",
+      name: "MATLAB",
       icon: matlab,
     },
     {
-      name: "React JS",
+      name: "JavaScript",
       icon: javascript,
     },
     {
-      name: "Next JS",
+      name: "HTML",
       icon: html,
     },
     {
-      name: "Node JS",
+      name: "CSS",
       icon: css,
     },
     {
-      name: "MongoDB",
+      name: "Git",
       icon: git,
     },
     {
-      name: "Spring Boot",
-      icon: ansys,
+      name: "Arduino",
+      icon: arduino,
     },
     {
-      name: "git",
+      name: "LabVIEW",
       icon: labview,
-    },
-    {
-      name: "docker",
-      icon: microsoft,
     },
   ];
   
   const experiences = [
     {
-      title: "High Power Graduate Engineer",
+      title: "High Power Electrical Engineering Intern",
       company_name: "SpaceX",
       icon: spacex,
       iconBg: "#000000",
@@ -178,13 +180,13 @@ import {
       ],
     },
     {
-      title: "Space Physiology OSTEM Intern",
+      title: "Electronics Engineering Intern",
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Developing hardware and software for devices that simulate zero-g and partial-g conditions equivalent to those of the ISS, the Moon, and Mars to support scientists researching the biological effects of microgravity.",
+        "Designing, building, and testing microgravity simulation devices to support scientists researching the effects of low and reduced gravity environments on biological organisms, such as plants and humans.",
       ],
     },
     {
@@ -195,8 +197,8 @@ import {
       date: "September 2024 - December 2024",
       points: [
         "Designed and commissioned medium voltage (4-69 kV) power distribution systems to support ComEd’s expansion of renewable energy infrastructure under Illinois' Future Energy Jobs Act (FEJA).",
-        "Conducted pre-design walkdowns to document existing conditions and assess the electrical feeder extensions and pole- or pad-mounted equipment needed to connect solar farms to ComEd’s electrical grid.",
-        "Drafted construction drawings in AutoCAD for 40+ solar interconnection projects, ensuring electrical installations complied with all specifications, codes, and client requirements.",
+        "Conducted pre-design walkdowns to document existing conditions and determine the electrical distribution equipment needed to connect solar farms to ComEd’s electrical grid.",
+        "Drafted construction drawings in AutoCAD for 40+ solar interconnection projects, ensuring proposed electrical installations complied with all specifications, codes, and client requirements.",
         "Simulated wind and ice loads on overhead poles in PoleForeman to verify that proposed designs adhered to NESC Rules 250B, 250C, and 250D.",
         "Leveraged the Tools for Engineering Design (TED) module within ComEd's Geographic Information System (CEGIS) to create work orders and integrate associated sketches into ComEd's distribution network model."
       ],
@@ -208,10 +210,10 @@ import {
       iconBg: "#FFFFFF",
       date: "June 2024 - August 2024",
       points: [
-        "Supported the new product development (NPD) and quality teams in designing, testing, and manufacturing metal and plastic components for microfiber cleaning systems used for contamination control in aerospace cleanrooms.",
+        "Supported the new product development and quality teams in designing and testing metal and plastic components for microfiber cleaning systems used for contamination control in aerospace cleanrooms.",
         "Led gamma irradiation, particle release, cleaning efficacy, autoclavability, and chemical resistance testing on prototypes made from recycled materials to ensure a new eco-friendly product line met reliability goals.",
         "Programmed a Universal Robots UR5 Cobot Arm to continually expose a wheel cleaner prototype to the forces it is expected to sustain over its lifetime to reveal component shortcomings.",
-        "Investigated and resolved quality complaints by determining root causes and implementing corrective actions.",
+        "Investigated and resolved quality complaints by identifying root causes and implementing corrective actions.",
         "Created product specifications, bills of materials, quality control plans, and packaging process specifications for new and existing products.",
         "Developed detailed component and assembly drawings in SolidWorks, incorporating geometric dimensioning and tolerancing (GD&T)."
       ],
@@ -241,7 +243,7 @@ import {
       deploy_link: "https://www.parkland.edu/Main/Academics/Departments/Aviation/Explore/Academics"
     },
     {
-      name: "NASA L'SPACE Proposal Writing and Evaluation Experience (NPWEE)",
+      name: "NASA L'SPACE Proposal Writing and Evaluation Experience",
       description:
         "Completing the NASA L'SPACE Proposal Writing and Evaluation Experience, a 12-week NASA workforce development program that teaches the process of proposing ideas to NASA for funding.",
       tags: [
@@ -254,7 +256,7 @@ import {
       deploy_link: "https://www.lspace.asu.edu/proposal-writing-academy"
     },
     {
-      name: "NASA L'SPACE Mission Concept Academy (MCA)",
+      name: "NASA L'SPACE Mission Concept Academy",
       description:
         "Co-led a team of 16 students as Lead Systems Engineer to prepare a MCR, SRR, MDR, and PDR for a rover testing the thermal isolation and structural integrity of lunar pits to identify long-term habitation sites for the Artemis missions.",
       tags: [

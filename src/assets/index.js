@@ -41,6 +41,8 @@ import fusion from "./tech/fusion.png";
 import microsoft from "./tech/microsoft.png";
 import ansys from "./tech/ansys.png";
 import KiCAD from "./tech/KiCAD.png";
+import creo from "./tech/creo.png";
+import arduino from "./tech/arduino.png";
 
 
 import meta from "./company/meta.png";
@@ -118,6 +120,8 @@ export {
   close,
   css,
   docker,
+  creo,
+  arduino,
   figma,
   git,
   html,
