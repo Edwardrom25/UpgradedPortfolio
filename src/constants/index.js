@@ -204,15 +204,15 @@ import {
       ],
     },
     {
-      title: "Materials Engineering Intern",
+      title: "Test Engineering Intern",
       company_name: "Freudenberg Household Products",
       icon: FHCS,
       iconBg: "#FFFFFF",
       date: "June 2024 - August 2024",
       points: [
-        "Supported the new product development and quality teams in designing and testing metal and plastic components for microfiber cleaning systems used for contamination control in aerospace cleanrooms.",
-        "Led gamma irradiation, particle release, cleaning efficacy, autoclavability, and chemical resistance testing on prototypes made from recycled materials to ensure a new eco-friendly product line met reliability goals.",
-        "Programmed a Universal Robots UR5 Cobot Arm to continually expose a wheel cleaner prototype to the forces it is expected to sustain over its lifetime to reveal component shortcomings.",
+        "Supported the new product development and quality teams in designing and testing metal and plastic components for microfiber cleaning systems used to clean controlled environments.",
+        "Conducted gamma irradiation, particle release, cleaning efficacy, autoclavability, and chemical resistance testing on prototypes to ensure reliability goals were consistently met.",
+        "Programmed a Universal Robots UR5 Cobot Arm to continually expose prototypes to the forces they are expected to sustain over their lifetime to reveal component shortcomings.",
         "Investigated and resolved quality complaints by identifying root causes and implementing corrective actions.",
         "Created product specifications, bills of materials, quality control plans, and packaging process specifications for new and existing products.",
         "Developed detailed component and assembly drawings in SolidWorks, incorporating geometric dimensioning and tolerancing (GD&T)."

@@ -49,7 +49,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
       >
-        Graduated from the University of Illinois Urbana-Champaign with a Bachelor’s Degree in Biomedical Engineering and a minor in Materials Science Engineering. Currently pursuing a Master’s Degree in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign and a Private Pilot Certificate at Parkland College. Passed the FE Electrical and Computer Exam and am currently studying for the PE Electrical and Computer: Power Exam to earn my PE license. Supporting space biology ground studies at NASA Kennedy Space Center and the design, operation, and troubleshooting of facility/onboard electrical components and systems at SpaceX to do my part in putting American astronauts on Mars.
+        Graduated from the University of Illinois Urbana-Champaign with a Bachelor’s Degree in Biomedical Engineering and a minor in Materials Science Engineering. Currently pursuing a Master’s Degree in Electrical and Computer Engineering at the University of Illinois Urbana-Champaign and a Private Pilot Certificate at Parkland College. Passed the FE Electrical and Computer Exam and am currently studying for the PE Electrical and Computer: Power Exam to earn my PE license. Supporting life sciences flight experiments at the Microgravity Simulation Support Facility at NASA Kennedy Space Center to do my part in making humanity multiplanetary.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10 justify-center'>
