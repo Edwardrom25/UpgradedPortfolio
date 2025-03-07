@@ -170,23 +170,15 @@ import {
   
   const experiences = [
     {
-      title: "High Power Electrical Engineering Intern",
-      company_name: "SpaceX",
-      icon: spacex,
-      iconBg: "#000000",
-      date: "May 2025 - August 2025",
-      points: [
-        "Providing detailed electrical design and specification for the installation of switch-gear and motor control centers, UPS units, standby and emergency generators, exterior and interior lighting, and lightning protection systems.",
-      ],
-    },
-    {
-      title: "Electronics Engineering Intern",
+      title: "Microgravity Simulation Engineering Intern",
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Designing, building, and testing microgravity simulation devices to support scientists researching the effects of low and reduced gravity environments on biological organisms, such as plants and humans.",
+        "Designed and tested microgravity simulation platforms to enable research into the effects of low and reduced gravity environments on biological organisms, such as plants and humans.",
+        "Developed a mathematical model in Python that predicts the magnitude and distribution of the g-vector for combinations of frame velocities to evaluate the efficacy of microgravity simulation devices.",
+        "reated a Python script that processes acceleration data from an Airbus Random Positioning Machine (RPM) to verify that the theoretical g-vector predicted by the mathematical model aligned with the measured g-vector.",
       ],
     },
     {
