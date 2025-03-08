@@ -176,9 +176,9 @@ import {
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Designed and tested microgravity simulation platforms to enable research into the effects of low and reduced gravity environments on biological organisms, such as plants and humans.",
-        "Developed a mathematical model in Python that predicts the magnitude and distribution of the g-vector for combinations of frame velocities to evaluate the efficacy of microgravity simulation devices.",
-        "reated a Python script that processes acceleration data from an Airbus Random Positioning Machine (RPM) to verify that the theoretical g-vector predicted by the mathematical model aligned with the measured g-vector.",
+        "Designed and tested microgravity simulators to support scientists researching the effects of low and reduced gravity environments on biological organisms, such as plants and humans.",
+        "Developed a mathematical model in Python that predicts the time-averaged magnitude and distribution in space of the g-vector for combinations of frame velocities to evaluate the efficacy of microgravity simulators.",
+        "Created a Python script that processes acceleration data from an Airbus Random Positioning Machine (RPM) to verify that the theoretical g-vector predicted by the mathematical model aligned with the measured g-vector.",
       ],
     },
     {
