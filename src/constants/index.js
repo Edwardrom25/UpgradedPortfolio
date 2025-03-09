@@ -188,9 +188,9 @@ import {
       iconBg: "#FFFFFF",
       date: "September 2024 - December 2024",
       points: [
-        "Designed and commissioned medium voltage (4-69 kV) power distribution systems to support ComEd’s expansion of renewable energy infrastructure under Illinois' Future Energy Jobs Act (FEJA).",
-        "Conducted pre-design walkdowns to document existing conditions and determine the electrical distribution equipment needed to connect solar farms to ComEd’s electrical grid.",
-        "Drafted construction drawings in AutoCAD for 40+ solar interconnection projects, ensuring proposed electrical installations complied with all specifications, codes, and client requirements.",
+        "Executed designs for overhead and underground electrical distribution systems (4-69 kV) to support ComEd’s expansion of renewable energy infrastructure under Illinois' Future Energy Jobs Act (FEJA).",
+        "Conducted field walkdowns to document existing conditions and generate material and labor specifications.",
+        "Prepared design drawings in AutoCAD for 40+ solar interconnection projects, ensuring conformance to applicable codes and regulations.",
         "Simulated wind and ice loads on overhead poles in PoleForeman to verify that proposed designs adhered to NESC Rules 250B, 250C, and 250D.",
         "Leveraged the Tools for Engineering Design (TED) module within ComEd's Geographic Information System (CEGIS) to create work orders and integrate associated sketches into ComEd's distribution network model."
       ],
@@ -237,7 +237,7 @@ import {
     {
       name: "NASA L'SPACE Proposal Writing and Evaluation Experience",
       description:
-        "Completing the NASA L'SPACE Proposal Writing and Evaluation Experience, a 12-week NASA workforce development program that teaches the process of proposing ideas to NASA for funding.",
+        "Co-authored a 7-page proposal on flight computing and avionics technologies to secure a $10K seed fund from NASA Marshall Space Flight Center’s Chief Technologist.",
       tags: [
         {
           name: "Siemens NX",
