@@ -201,7 +201,7 @@ import {
         "Executed designs for overhead and underground electrical distribution systems (4-69 kV) to support ComEd’s expansion of renewable energy infrastructure under Illinois' Future Energy Jobs Act (FEJA).",
         "Conducted field walkdowns to document existing conditions and generate material and labor specifications.",
         "Prepared design drawings in AutoCAD for 40+ solar interconnection projects, ensuring conformance to applicable codes and regulations.",
-        "Performed pole loading analysis in IKE PoleForeman using NESC Rule 250B-D weather loadings, reducing outages and restoration times.",
+        "Performed pole loading analysis in IKE PoleForeman using NESC extreme wind and ice load cases to improve network resiliency.",
         "Leveraged the Tools for Engineering Design (TED) module within ComEd's Geographic Information System (CEGIS) to create work orders and integrate associated sketches into ComEd's distribution network model."
       ],
     },
