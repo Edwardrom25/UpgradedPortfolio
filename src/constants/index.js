@@ -170,15 +170,25 @@ import {
   
   const experiences = [
     {
+      title: "High Power Electrical Engineering Intern",
+      company_name: "SpaceX",
+      icon: spacex,
+      iconBg: "#000000",
+      date: "May 2025 - August 2025",
+      points: [
+        "Starting May 2025.",
+      ],
+    },
+    {
       title: "Microgravity Simulation Engineering Intern",
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Designed and tested microgravity simulators to support scientists researching the effects of low and reduced gravity environments on biological organisms, such as plants and humans.",
-        "Developed a mathematical model in Python that predicts the time-averaged magnitude and distribution in space of the g-vector for combinations of frame velocities to evaluate the efficacy of microgravity simulators.",
-        "Created a Python script that processes acceleration data from an Airbus Random Positioning Machine (RPM) to verify that the theoretical g-vector predicted by the mathematical model aligned with the measured g-vector.",
+        "Provided engineering support to scientists researching the effects of altered gravity environments on biological organisms to better enable human spaceflight to the Moon, Mars, and beyond.",
+        "Developed a mathematical model in Python that determines the time-averaged magnitude and distribution in space of the gravity vector to evaluate the efficacy of microgravity simulators.",
+        "Utilized Creo Parametric and in-house 3D printer capabilities to develop customized science modules for the microgravity simulators based on the unique science requirements of each project.",
       ],
     },
     {
@@ -191,7 +201,7 @@ import {
         "Executed designs for overhead and underground electrical distribution systems (4-69 kV) to support ComEd’s expansion of renewable energy infrastructure under Illinois' Future Energy Jobs Act (FEJA).",
         "Conducted field walkdowns to document existing conditions and generate material and labor specifications.",
         "Prepared design drawings in AutoCAD for 40+ solar interconnection projects, ensuring conformance to applicable codes and regulations.",
-        "Simulated wind and ice loads on overhead poles in PoleForeman to verify that proposed designs adhered to NESC Rules 250B, 250C, and 250D.",
+        "Performed pole loading analysis in IKE PoleForeman using NESC Rule 250B-D weather loadings, reducing outages and restoration times.",
         "Leveraged the Tools for Engineering Design (TED) module within ComEd's Geographic Information System (CEGIS) to create work orders and integrate associated sketches into ComEd's distribution network model."
       ],
     },
