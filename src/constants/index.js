@@ -187,7 +187,7 @@ import {
       date: "January 2025 - May 2025",
       points: [
         "Provided engineering support to scientists researching the effects of altered gravity environments on biological organisms to better enable human spaceflight to the Moon, Mars, and beyond.",
-        "Developed a mathematical model in Python that determines the time-averaged magnitude and distribution in space of the gravity vector to evaluate the efficacy of microgravity simulators.",
+        "Developed a mathematical model in Python that determines the time-averaged magnitude and distribution of the gravity vector to evaluate the efficacy of microgravity simulators.",
         "Utilized Creo Parametric and in-house 3D printer capabilities to develop customized science modules for the microgravity simulators based on the unique science requirements of each project.",
       ],
     },
@@ -201,8 +201,8 @@ import {
         "Executed designs for overhead and underground electrical distribution systems (4-69 kV) to support ComEd’s expansion of renewable energy infrastructure under Illinois' Future Energy Jobs Act (FEJA).",
         "Conducted field walkdowns to document existing conditions and generate material and labor specifications.",
         "Prepared design drawings in AutoCAD for 40+ solar interconnection projects, ensuring conformance to applicable codes and regulations.",
-        "Performed pole loading analysis in IKE PoleForeman using NESC extreme wind and ice load cases to improve network resiliency.",
-        "Leveraged the Tools for Engineering Design (TED) module within ComEd's Geographic Information System (CEGIS) to create work orders and integrate associated sketches into ComEd's distribution network model."
+        "Performed pole loading analysis in IKE PoleForeman using NESC extreme wind and ice load cases to reduce outages and restoration times.",
+        "Utilized the Tools for Engineering Design (TED) module within ComEd's Geographic Information System (CEGIS) to create work orders and integrate associated sketches into ComEd's distribution network model."
       ],
     },
     {
