@@ -94,7 +94,7 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
         >
-          The activities below demonstrate my ability to lead teams, manage complex projects, and apply engineering concepts to real-world challenges.
+          The activities below demonstrate my ability to manage complex projects and apply engineering concepts to real-world challenges.
         </motion.p>
       </div>
 

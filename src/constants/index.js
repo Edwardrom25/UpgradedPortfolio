@@ -131,6 +131,10 @@ import {
       icon: KiCAD,
     },
     {
+      name: "Arduino",
+      icon: arduino,
+    },
+    {
       name: "C++",
       icon: c,
     },
@@ -159,10 +163,6 @@ import {
       icon: git,
     },
     {
-      name: "Arduino",
-      icon: arduino,
-    },
-    {
       name: "LabVIEW",
       icon: labview,
     },
@@ -180,15 +180,15 @@ import {
       ],
     },
     {
-      title: "Microgravity Simulation Engineering Intern",
+      title: "Microgravity Simulation Support Facility (MSSF) Intern",
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Provided engineering support to scientists researching the effects of altered gravity environments on biological organisms to better enable human spaceflight to the Moon, Mars, and beyond.",
-        "Developed a mathematical model in Python that determines the time-averaged magnitude and distribution of the gravity vector to evaluate the efficacy of microgravity simulators.",
-        "Utilized Creo Parametric and in-house 3D printer capabilities to develop customized science modules for the microgravity simulators based on the unique science requirements of each project.",
+        "Investigated the effects of micro- and partial-gravity on biological organisms to support the Exploration Research & Technology (ER&T) mission of enabling human spaceflight to the Moon, Mars, and beyond.",
+        "Developed a Python-based GUI that computes and visualizes the time-averaged magnitude and distribution of the acceleration vector using theoretical operating conditions or accelerometer data.",
+        "Designed custom modules for the microgravity simulators in Creo Parametric based on the unique science requirements of each project.",
       ],
     },
     {
@@ -198,26 +198,8 @@ import {
       iconBg: "#FFFFFF",
       date: "September 2024 - December 2024",
       points: [
-        "Executed designs for overhead and underground electrical distribution systems (4-69 kV) to support ComEd’s expansion of renewable energy infrastructure under Illinois' Future Energy Jobs Act (FEJA).",
-        "Conducted field walkdowns to document existing conditions and generate material and labor specifications.",
-        "Prepared design drawings in AutoCAD for 40+ solar interconnection projects, ensuring conformance to applicable codes and regulations.",
-        "Performed pole loading analysis in IKE PoleForeman using NESC extreme wind and ice load cases to reduce outages and restoration times.",
-        "Utilized the Tools for Engineering Design (TED) module within ComEd's Geographic Information System (CEGIS) to create work orders and integrate associated sketches into ComEd's distribution network model."
-      ],
-    },
-    {
-      title: "Test Engineering Intern",
-      company_name: "Freudenberg Household Products",
-      icon: FHCS,
-      iconBg: "#FFFFFF",
-      date: "June 2024 - August 2024",
-      points: [
-        "Supported the new product development and quality teams in designing and testing metal and plastic components for microfiber cleaning systems used to clean controlled environments.",
-        "Conducted gamma irradiation, particle release, cleaning efficacy, autoclavability, and chemical resistance testing on prototypes to ensure reliability goals were consistently met.",
-        "Programmed a Universal Robots UR5 Cobot Arm to continually expose prototypes to the forces they are expected to sustain over their lifetime to reveal component shortcomings.",
-        "Investigated and resolved quality complaints by identifying root causes and implementing corrective actions.",
-        "Created product specifications, bills of materials, quality control plans, and packaging process specifications for new and existing products.",
-        "Developed detailed component and assembly drawings in SolidWorks, incorporating geometric dimensioning and tolerancing (GD&T)."
+        "Designed overhead and underground electrical distribution systems (4-69 kV) for 40+ solar interconnection projects by preparing field notes, drawings in AutoCAD, and load calculations.",
+        "Ensured all electrical designs and installations conformed to applicable codes and regulations.",
       ],
     },
   ];
@@ -260,7 +242,7 @@ import {
     {
       name: "NASA L'SPACE Mission Concept Academy",
       description:
-        "Co-led a team of 16 students as Lead Systems Engineer to prepare a MCR, SRR, MDR, and PDR for a rover testing the thermal isolation and structural integrity of lunar pits to identify long-term habitation sites for the Artemis missions.",
+        "Co-led a team of 16 students to prepare an MCR, SRR, MDR, and PDR for a rover in search of lunar pits that provide stable temperatures for human habitation.",
       tags: [
         {
           name: "Siemens NX",
