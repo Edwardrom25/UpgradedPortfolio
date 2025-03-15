@@ -186,9 +186,8 @@ import {
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Investigated the effects of micro- and partial-gravity on biological organisms to support the Exploration Research & Technology (ER&T) mission of enabling human spaceflight to the Moon, Mars, and beyond.",
-        "Developed a Python-based GUI that computes and visualizes the time-averaged magnitude and distribution of the acceleration vector, enabling scientists to verify that their machines simulate microgravity.",
-        "Designed custom modules for the microgravity simulators in Creo Parametric based on the unique science requirements of each project.",
+        "Developed a Python-based GUI that computes and visualizes the magnitude and distribution of the acceleration vector, allowing scientists to verify that their machines simulate microgravity.",
+        "Designed modules for the microgravity simulators in Creo Parametric based on the unique requirements of each experiment.",
       ],
     },
     {
@@ -199,7 +198,6 @@ import {
       date: "September 2024 - December 2024",
       points: [
         "Designed overhead and underground electrical distribution systems (4-69 kV) for 40+ solar interconnection projects by preparing field notes, drawings in AutoCAD, and load calculations.",
-        "Ensured all electrical designs and installations conformed to applicable codes and regulations.",
       ],
     },
   ];
