@@ -187,7 +187,7 @@ import {
       date: "January 2025 - May 2025",
       points: [
         "Investigated the effects of micro- and partial-gravity on biological organisms to support the Exploration Research & Technology (ER&T) mission of enabling human spaceflight to the Moon, Mars, and beyond.",
-        "Developed a Python-based GUI that computes and visualizes the time-averaged magnitude and distribution of the acceleration vector using theoretical operating conditions or accelerometer data.",
+        "Developed a Python-based GUI that computes and visualizes the time-averaged magnitude and distribution of the acceleration vector, enabling scientists to verify that their machines simulate microgravity.",
         "Designed custom modules for the microgravity simulators in Creo Parametric based on the unique science requirements of each project.",
       ],
     },
