@@ -170,7 +170,7 @@ import {
   
   const experiences = [
     {
-      title: "High Power Electrical Engineering Intern",
+      title: "High Power Graduate Engineer",
       company_name: "SpaceX",
       icon: spacex,
       iconBg: "#000000",
@@ -180,7 +180,7 @@ import {
       ],
     },
     {
-      title: "Microgravity Simulation Support Facility (MSSF) Intern",
+      title: "Software Engineering Intern",
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
