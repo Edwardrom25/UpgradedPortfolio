@@ -186,8 +186,7 @@ import {
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Developed a Python-based GUI that computes and visualizes the magnitude and distribution of the acceleration vector, allowing scientists to verify that their machines simulate microgravity.",
-        "Designed modules for the microgravity simulators in Creo Parametric based on the unique requirements of each experiment.",
+        "Developed a Python-based GUI application to enable space biology investigators to validate that their ground-based simulators achieve gravity levels equivalent to those of the ISS, the Moon, and Mars.",
       ],
     },
     {
@@ -258,7 +257,7 @@ import {
     {
       name: "The Illinois Space Society",
       description:
-        "Acted as an Electronic Hardware Engineer for the Illinois Space Society's Spaceshot Project, designing electronic boards and circuits critical for the operation of the avionics bay in rockets competing in events such as FAR-51025 and the Spaceport America Cup.",
+        "Acted as an Electronic Hardware Engineer for the Illinois Space Society's Spaceshot Project by designing electronic boards and circuits critical for the operation of the avionics bay in rockets competing in events such as FAR-51025 and the Spaceport America Cup.",
       tags: [
         {
           name: "KiCad EDA",
