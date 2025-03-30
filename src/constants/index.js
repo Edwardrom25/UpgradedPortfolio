@@ -186,7 +186,7 @@ import {
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Developed a Python-based GUI application to enable space biology investigators to validate that their ground-based simulators achieve gravity levels equivalent to those of the ISS, the Moon, and Mars.",
+        "Developed a Python-based GUI application to enable space biology investigators to validate that their ground-based simulators achieve microgravity and partial gravity.",
       ],
     },
     {
@@ -226,7 +226,7 @@ import {
     {
       name: "NASA L'SPACE Proposal Writing and Evaluation Experience",
       description:
-        "Co-authored a 7-page proposal on flight computing and avionics technologies to secure a $10K seed fund from NASA Marshall Space Flight Center’s Chief Technologist.",
+        "Co-authored a proposal on flight computing and avionics technologies to secure a $10K seed fund from NASA Marshall Space Flight Center’s Chief Technologist.",
       tags: [
         {
           name: "Siemens NX",
