@@ -196,7 +196,8 @@ import {
       iconBg: "#FFFFFF",
       date: "September 2024 - December 2024",
       points: [
-        "Designed overhead and underground electrical distribution systems (4-69 kV) for 40+ solar interconnection projects by preparing field notes, drawings in AutoCAD, and load calculations.",
+        "Supported ComEd’s transition to renewable energy under Illinois’ Future Energy Jobs Act (FEJA), which requires at least 4,300 MW of new solar and wind power to be built by 2030.",
+        "Designed overhead and underground electrical distribution systems (4-69 kV) for 40 solar interconnections by preparing field notes, construction drawings in AutoCAD, and load calculations.",
       ],
     },
   ];
