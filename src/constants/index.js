@@ -186,7 +186,8 @@ import {
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Developed a Python-based GUI application to enable space biology investigators to validate that their ground-based simulators achieve microgravity and partial gravity.",
+        "Investigated the effects of altered gravity environments on biological organisms to enable long-duration human exploration of the Moon, Mars, and beyond.",
+        "Developed a Python-based GUI application that allows scientists to validate that their ground-based simulators achieve microgravity, partial gravity, and hypergravity.",
       ],
     },
     {
