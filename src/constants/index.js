@@ -191,7 +191,7 @@ import {
       ],
     },
     {
-      title: "Electrical Engineering Intern",
+      title: "Distribution Engineering Intern",
       company_name: "Milhouse Engineering and Construction, Inc.",
       icon: milhouse,
       iconBg: "#FFFFFF",
