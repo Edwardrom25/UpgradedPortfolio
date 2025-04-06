@@ -187,7 +187,7 @@ import {
       date: "January 2025 - May 2025",
       points: [
         "Investigated the effects of altered gravity environments on biological organisms to enable long-duration human exploration of the Moon, Mars, and beyond.",
-        "Developed a Python-based GUI application that allows scientists to validate that their ground-based simulators achieve microgravity, partial gravity, and hypergravity.",
+        "Developed a graphical user interface (GUI) application using Python for monitoring the accelerations felt by a sample when rotating in a ground-based simulator.",
       ],
     },
     {
@@ -198,7 +198,7 @@ import {
       date: "September 2024 - December 2024",
       points: [
         "Supported ComEd’s transition to renewable energy under Illinois’ Future Energy Jobs Act (FEJA), which requires at least 4,300 MW of new solar and wind power to be built by 2030.",
-        "Designed overhead and underground electrical distribution systems (4-69 kV) for 40 solar interconnections by preparing field notes, construction drawings in AutoCAD, and load calculations.",
+        "Designed overhead and underground electrical power distribution systems (4-69 kV) for 40 solar interconnections by preparing field notes, drawings in AutoCAD, and calculations in IKE PoleForeman.",
       ],
     },
   ];
