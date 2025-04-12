@@ -228,7 +228,7 @@ import {
     {
       name: "NASA L'SPACE Proposal Writing and Evaluation Experience",
       description:
-        "Co-authored a proposal on flight computing and avionics technologies to secure a $10K seed fund from NASA Marshall Space Flight Center’s Chief Technologist.",
+        "Co-authored a proposal on a flight computing and avionics technology to secure a $10K seed fund from NASA Marshall Space Flight Center’s Chief Technologist.",
       tags: [
         {
           name: "Siemens NX",
