@@ -187,7 +187,7 @@ import {
       date: "January 2025 - May 2025",
       points: [
         "Investigated the effects of altered gravity environments on biological organisms to enable long-duration human exploration of the Moon, Mars, and beyond.",
-        "Created a graphical user interface (GUI) application with Python for visualizing the accelerations felt by a sample when rotating in a ground-based gravity simulator.",
+        "Created a graphical user interface (GUI) application with Python for analyzing and visualizing the accelerations felt by a sample when rotating in a gravity simulator.",
       ],
     },
     {
