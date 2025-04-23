@@ -111,24 +111,28 @@ import {
   
   const technologies = [
     {
-      name: "SolidWorks",
-      icon: solidworks,
-    },
-    {
-      name: "Siemens NX",
-      icon: siemens,
+      name: "AutoCAD",
+      icon: autocad,
     },
     {
       name: "Creo Parametric",
       icon: creo,
     },
     {
-      name: "AutoCAD",
-      icon: autocad,
+      name: "Siemens NX",
+      icon: siemens,
+    },
+    {
+      name: "SolidWorks",
+      icon: solidworks,
     },
     {
       name: "KiCAD",
       icon: KiCAD,
+    },
+    {
+      name: "LabVIEW",
+      icon: labview,
     },
     {
       name: "Arduino",
@@ -161,10 +165,6 @@ import {
     {
       name: "Git",
       icon: git,
-    },
-    {
-      name: "LabVIEW",
-      icon: labview,
     },
   ];
   
