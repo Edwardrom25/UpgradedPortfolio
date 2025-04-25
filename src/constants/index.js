@@ -82,7 +82,7 @@ import {
     },
     {
       id: "work",
-      title: "Work Experience",
+      title: "Experience",
     },
     {
       id: "activities",
@@ -98,10 +98,6 @@ import {
     {
       title: "Electrical Systems",
       icon: backend,
-    },
-    {
-      title: "Materials & Processes",
-      icon: mobile,
     },
     {
       title: "Modeling & Simulation",
@@ -170,7 +166,7 @@ import {
   
   const experiences = [
     {
-      title: "Laucnh High Power Graduate Engineer",
+      title: "Launch High Power Graduate Engineer",
       company_name: "SpaceX",
       icon: spacex,
       iconBg: "#000000",
@@ -186,8 +182,7 @@ import {
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Investigated the effects of altered gravity environments on biological organisms to enable long-duration human exploration of the Moon, Mars, and beyond.",
-        "Created a graphical user interface (GUI) application with Python for analyzing and visualizing the accelerations felt by a sample when rotating in a gravity simulator.",
+        "Created a graphical user interface (GUI) with Python for analyzing and visualizing the accelerations felt by a biospecimen when rotating in a microgravity simulator.",
       ],
     },
     {
@@ -211,14 +206,14 @@ import {
     {
       name: "Student Pilot",
       description:
-        "Completing the Private Pilot Program at Parkland College during the fall 2025 and spring 2026 semesters. The private pilot training consists of two classes taken over the course of two semesters: AVI 101 (Private Pilot I) and AVI 120 (Private Pilot II), which provide 29.7 and 37.4 flight with simulator hours, respectively.",
+        "Completing Private Pilot I and Private Pilot II at Parkland College, which include 29.7 and 37.4 flight with simulator hours, respectively.",
       tags: [
         {
           name: "ForeFlight",
           color: "blue-text-gradient",
         },
         {
-          name: "Frasca Flight Simulators",
+          name: "Flight Simulators",
           color: "orange-text-gradient",
         },
       ],
@@ -255,19 +250,6 @@ import {
       image: nasaproject,
       source_code_link: mcacertificate,
       deploy_link: "https://www.lspace.asu.edu/mission-concept-academy"
-    },
-    {
-      name: "The Illinois Space Society",
-      description:
-        "Acted as an Electronic Hardware Engineer for the Illinois Space Society's Spaceshot Project by designing electronic boards and circuits critical for the operation of the avionics bay in rockets competing in events such as FAR-51025 and the Spaceport America Cup.",
-      tags: [
-        {
-          name: "KiCad EDA",
-          color: "orange-text-gradient",
-        },
-      ],
-      image: spaceshot,
-      deploy_link: "https://www.illinoisspacesociety.org/spaceshot"
     },
   ];
   

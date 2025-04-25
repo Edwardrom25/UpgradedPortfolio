@@ -85,8 +85,8 @@ const Works = () => {
   return (
     <>
       <motion.div variants={textVariant()} className="flex flex-col items-center justify-center">
-        <p className={`${styles.sectionSubText} text-center`}>My Extracurriculars</p>
-        <h2 className={`${styles.sectionHeadText} text-center`}>Leadership & Activities</h2>
+        <p className={`${styles.sectionSubText} text-center`}>My Involvements</p>
+        <h2 className={`${styles.sectionHeadText} text-center`}>Extracurricular Activities</h2>
       </motion.div>
 
       <div className='w-full flex justify-center items-center'>
@@ -94,7 +94,6 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
         >
-          The activities below demonstrate my ability to manage complex projects and apply engineering concepts to real-world challenges.
         </motion.p>
       </div>
 

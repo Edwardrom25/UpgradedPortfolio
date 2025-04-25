@@ -63,7 +63,7 @@ const Contact = () => {
 
     // Validation: Check if all fields are filled
     if (!form.name || !form.email || !form.message) {
-      toast.error("Please fill in all the fields before submitting.", {
+      toast.error("Fill in all fields before submitting.", {
         duration: 3000,
         position: "bottom-right",
       });
@@ -82,7 +82,7 @@ const Contact = () => {
       .then(
         () => {
           setLoading(false);
-          toast.success("Thank you! I will get back to you as soon as possible.", {
+          toast.success("Thank you! I'll get back to you shortly.", {
             duration: 3000,
             position: "bottom-right",
           });
@@ -113,9 +113,9 @@ const Contact = () => {
         toastOptions={{
           className: "",
           style: {
-            border: "1px solid #713200",
+            border: "1px solid #915eff",
             padding: "16px",
-            color: "#713200",
+            color: "#000000",
           },
         }}
       />
@@ -147,7 +147,6 @@ const Contact = () => {
                   name="name"
                   value={form.name}
                   onChange={handleChange}
-                  placeholder="Your name"
                   className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium"
                 />
               </label>
@@ -167,7 +166,6 @@ const Contact = () => {
                   name="email"
                   value={form.email}
                   onChange={handleChange}
-                  placeholder="Your email"
                   className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium"
                 />
               </label>
@@ -187,7 +185,6 @@ const Contact = () => {
               name="message"
               value={form.message}
               onChange={handleChange}
-              placeholder="Write your message here..."
               className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium"
             />
           </label>
