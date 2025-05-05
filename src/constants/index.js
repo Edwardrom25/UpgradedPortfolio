@@ -176,7 +176,7 @@ import {
       ],
     },
     {
-      title: "Software Engineering Intern",
+      title: "Microgravity Simulation Support Facility Intern",
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
