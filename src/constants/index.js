@@ -182,6 +182,7 @@ import {
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
+        "Advanced NASA’s Exploration Research and Technology (ER&T) mission of enabling a permanent human and robotic presence on the Moon, Mars, and beyond.",
         "Created a graphical user interface (GUI) with Python for analyzing and visualizing the accelerations felt by a biospecimen when rotating in a microgravity simulator.",
       ],
     },
