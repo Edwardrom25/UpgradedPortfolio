@@ -12,7 +12,7 @@ const Tech = () => {
   return (
     <div className='flex flex-col items-center max-w-6xl mx-auto'>
       <motion.div variants={textVariant()} className="text-center">
-        <p className={`${styles.sectionSubText}`}>My Technical Skills</p>
+        {/* <p className={`${styles.sectionSubText}`}>My Technical Skills</p> */}
         <h2 className={`${styles.sectionHeadText} mb-10`}>
           Technologies
         </h2>

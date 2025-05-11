@@ -50,7 +50,7 @@ const Hero = () => {
           </div>
           <div className="flex flex-col w-full items-center justify-center">
             <p className={`${styles.heroSubText} text-white-100`}>
-              Electrical and Computer Engineering @ UIUC<br className='sm:block hidden' />
+              Electrical and Computer Engineering<br className='sm:block hidden' />
             </p>
           </div>
           <div>
