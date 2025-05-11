@@ -100,7 +100,7 @@ import {
       icon: backend,
     },
     {
-      title: "Modeling & Simulation",
+      title: "Modeling and Simulation",
       icon: web,
     },
   ];
