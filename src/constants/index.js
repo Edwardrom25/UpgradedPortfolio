@@ -175,7 +175,7 @@ import {
       date: "January 2025 - May 2025",
       points: [
         "Supported NASA’s Biological and Physical Sciences division in examining the impacts of spaceflight on living systems to prepare for future human exploration missions far from Earth.",
-        "Created a graphical user interface with Python for analyzing and visualizing the accelerations felt by a biospecimen when rotating in a microgravity simulator.",
+        "Created a graphical user interface with Python for computing and visualizing the accelerations felt by a biospecimen when rotating in a microgravity simulator.",
       ],
     },
     {
