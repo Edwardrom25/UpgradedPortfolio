@@ -177,6 +177,7 @@ import {
       points: [
         "Supported NASA’s Biological and Physical Sciences division in examining the impacts of spaceflight on living systems to prepare for future human exploration missions far from Earth.",
         "Created a graphical user interface with Python for computing and visualizing the accelerations felt by a biospecimen when rotating in a microgravity simulator.",
+        "Submitted a New Technology Report for the graphical user interface using NASA’s New Technology Reporting System.",
       ],
     },
     {
