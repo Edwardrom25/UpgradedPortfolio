@@ -52,7 +52,8 @@ import {
     ventures,
     next,
     solidworks,
-    mcacertificate,
+    MCA,
+    NPWEE,
     spaceshot,
     ansys,
     matlab,
@@ -224,6 +225,7 @@ import {
         },
       ],
       image: nasaproject,
+      source_code_link: NPWEE,
       deploy_link: "https://www.lspace.asu.edu/proposal-writing-academy"
     },
     {
@@ -241,7 +243,7 @@ import {
         },
       ],
       image: nasaproject,
-      source_code_link: mcacertificate,
+      source_code_link: MCA,
       deploy_link: "https://www.lspace.asu.edu/mission-concept-academy"
     },
   ];

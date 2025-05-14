@@ -83,7 +83,8 @@ import FAA from "./FAA.png";
 
 import PID from "./PID.pdf";
 import spaceappscertificate from "./ERomero 2024 NASA International Space Apps Challenge Certificate.pdf";
-import mcacertificate from "./Certificate of Completion Fall 2024 L'SPACE Eduardo Romero.pdf";
+import MCA from "./Certificate of Completion MCA Fall 2024 L'SPACE Eduardo Romero.pdf";
+import NPWEE from "./Certificate of Completion NPWEE Spring 2025 L'SPACE Eduardo Romero.pdf";
 import ECG from "./ECG.pdf";
 import homepage from "./homepage.png";
 
@@ -97,7 +98,8 @@ export {
   nasaproject,
   lucy,
   spaceappscertificate,
-  mcacertificate,
+  MCA,
+  NPWEE,
   ISS,
   spaceshot,
   spaceapps,
