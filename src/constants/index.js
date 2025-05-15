@@ -159,7 +159,7 @@ import {
   
   const experiences = [
     {
-      title: "Launch High Power Graduate Engineer",
+      title: "Electrical Engineering Intern",
       company_name: "SpaceX",
       icon: spacex,
       iconBg: "#000000",
@@ -169,7 +169,7 @@ import {
       ],
     },
     {
-      title: "Microgravity Simulation Support Facility Intern",
+      title: "Software Engineering Intern",
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
@@ -177,11 +177,10 @@ import {
       points: [
         "Supported NASA’s Biological and Physical Sciences division in examining the impacts of spaceflight on living systems to prepare for future human exploration missions far from Earth.",
         "Created a graphical user interface with Python for computing and visualizing the accelerations felt by a biospecimen when rotating in a microgravity simulator.",
-        "Submitted a New Technology Report for the graphical user interface using NASA’s New Technology Reporting System.",
       ],
     },
     {
-      title: "Distribution Engineering Intern",
+      title: "Electrical Engineering Intern",
       company_name: "Milhouse Engineering and Construction, Inc.",
       icon: milhouse,
       iconBg: "#FFFFFF",
