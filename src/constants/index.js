@@ -187,7 +187,7 @@ import {
       date: "September 2024 - December 2024",
       points: [
         "Supported ComEd’s transition to renewables under the Future Energy Jobs Act, which requires at least 4,300 MW of new solar and wind power to be built in Illinois by 2030.",
-        "Designed electrical distribution systems for solar interconnections by preparing field reports, construction drawings in AutoCAD, and load calculations in IKE PoleForeman.",
+        "Prepared field reports, construction drawings in AutoCAD, and load calculations in IKE PoleForeman to facilitate the interconnection of solar farms to ComEd's electrical grid.",
       ],
     },
   ];
