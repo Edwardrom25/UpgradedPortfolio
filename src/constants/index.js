@@ -165,7 +165,7 @@ import {
       iconBg: "#000000",
       date: "May 2025 - August 2025",
       points: [
-        "Starting May 2025.",
+        "Supporting SpaceX’s Facilities Infrastructure Engineering department in designing and troubleshooting electrical systems for the world’s busiest spaceport.",
       ],
     },
     {
