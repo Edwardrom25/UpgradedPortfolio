@@ -165,7 +165,8 @@ import {
       iconBg: "#000000",
       date: "May 2025 - August 2025",
       points: [
-        "Supporting SpaceX’s Facilities Infrastructure Engineering department in designing and troubleshooting electrical systems for the world’s busiest spaceport.",
+        "Supported SpaceX’s Facilities Infrastructure Engineering department in designing and troubleshooting electrical systems for the world’s busiest spaceport.",
+        "Produced heat shield tiles for Starship’s upcoming flight tests!"
       ],
     },
     {
@@ -201,7 +202,7 @@ import {
     {
       name: "Student Pilot",
       description:
-        "Completing Private Pilot I and Private Pilot II at Parkland College, which include 29.7 and 37.4 flight with simulator hours, respectively.",
+        "Completing Private Pilot I and Private Pilot II at Parkland College. The courses include 29.7 and 37.4 flight with simulator hours, respectively.",
       tags: [
         {
           name: "ForeFlight",
