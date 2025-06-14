@@ -165,7 +165,7 @@ import {
       iconBg: "#000000",
       date: "May 2025 - August 2025",
       points: [
-        "Supported SpaceX’s Facilities Infrastructure Engineering department in designing and troubleshooting electrical systems for the world’s busiest spaceport.",
+        "Supported SpaceX’s Launch division in designing and troubleshooting electrical systems for the world’s busiest spaceport.",
         "Produced heat shield tiles for Starship’s upcoming flight tests!"
       ],
     },
