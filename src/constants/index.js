@@ -177,7 +177,7 @@ import {
       date: "January 2025 - May 2025",
       points: [
         "Supported NASA’s Biological and Physical Sciences division in examining the impacts of spaceflight on living systems to prepare for future human exploration missions far from Earth.",
-        "Created a graphical user interface with Python for computing and visualizing the accelerations felt by a biospecimen when rotating in a microgravity simulator.",
+        "Created a graphical user interface in Python for computing and visualizing the accelerations felt by a biospecimen when rotating in a microgravity simulator.",
         "Submitted a New Technology Report for the graphical user interface using NASA’s New Technology Reporting System.",
       ],
     },
@@ -188,7 +188,7 @@ import {
       iconBg: "#FFFFFF",
       date: "September 2024 - December 2024",
       points: [
-        "Supported ComEd’s transition to renewables under the Future Energy Jobs Act, which requires at least 4,300 MW of new solar and wind power to be built in Illinois by 2030.",
+        "Supported ComEd’s transition to clean energy under the Future Energy Jobs Act, which requires at least 4,300 MW of new solar and wind power to be built in Illinois by 2030.",
         "Prepared field reports, construction drawings in AutoCAD, and load calculations in IKE PoleForeman to facilitate the interconnection of 35 solar farms to ComEd's electrical grid.",
       ],
     },
