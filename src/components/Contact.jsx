@@ -63,7 +63,7 @@ const Contact = () => {
 
     // Validation: Check if all fields are filled
     if (!form.name || !form.email || !form.message) {
-      toast.error("Fill in all fields before submitting.", {
+      toast.error("Please fill out all fields.", {
         duration: 3000,
         position: "bottom-right",
       });

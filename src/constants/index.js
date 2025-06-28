@@ -30,6 +30,7 @@ import {
     threejs,
     mrg,
     milhouse,
+    ignition,
     lspace,
     collins,
     katzfull,
@@ -108,26 +109,6 @@ import {
   
   const technologies = [
     {
-      name: "AutoCAD",
-      icon: autocad,
-    },
-    {
-      name: "Siemens NX",
-      icon: siemens,
-    },
-    {
-      name: "SolidWorks",
-      icon: solidworks,
-    },
-    {
-      name: "LabVIEW",
-      icon: labview,
-    },
-    {
-      name: "Arduino",
-      icon: arduino,
-    },
-    {
       name: "C++",
       icon: c,
     },
@@ -140,20 +121,20 @@ import {
       icon: matlab,
     },
     {
-      name: "JavaScript",
-      icon: javascript,
+      name: "LabVIEW",
+      icon: labview,
     },
     {
-      name: "HTML",
-      icon: html,
+      name: "Ignition",
+      icon: ignition,
     },
     {
-      name: "CSS",
-      icon: css,
+      name: "AutoCAD",
+      icon: autocad,
     },
     {
-      name: "Git",
-      icon: git,
+      name: "Siemens NX",
+      icon: siemens,
     },
   ];
   
@@ -166,7 +147,8 @@ import {
       date: "May 2025 - August 2025",
       points: [
         "Supported SpaceX’s High Power Engineering department in designing and troubleshooting electrical systems for the world’s busiest spaceport.",
-        "Produced heat shield tiles for Starship’s eleventh flight test!"
+        "Developed ground software in LabVIEW for monitoring the Just Read the Instructions droneship’s onboard uninterruptible power supplies.",
+        "Produced heatshield tiles for Starship’s upcoming flight tests!"
       ],
     },
     {
@@ -206,10 +188,6 @@ import {
       tags: [
         {
           name: "ForeFlight",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Flight Simulators",
           color: "orange-text-gradient",
         },
       ],
@@ -222,7 +200,7 @@ import {
         "Co-authored a proposal on a flight computing and avionics technology to secure a $10K seed fund from NASA Marshall Space Flight Center.",
       tags: [
         {
-          name: "Siemens NX",
+          name: "NX",
           color: "green-text-gradient",
         },
       ],
@@ -236,7 +214,7 @@ import {
         "Co-led a team of 16 students to prepare an MCR, SRR, MDR, and PDR for a rover in search of lunar pits that provide stable temperatures for human habitation.",
       tags: [
         {
-          name: "Siemens NX",
+          name: "NX",
           color: "pink-text-gradient",
         },
         {
