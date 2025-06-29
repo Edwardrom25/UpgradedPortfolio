@@ -99,7 +99,7 @@ import {
   const services = [
     {
       title: "Electrical Systems",
-      icon: backend,
+      icon: mobile,
     },
     {
       title: "Modeling and Simulation",
