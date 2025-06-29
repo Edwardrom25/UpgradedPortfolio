@@ -26,7 +26,7 @@ const B2Canvas = () => {
         position: [10, 5, 0],
       }}
     >
-      <ambientLight intensity={9} /> {/* Increased intensity */}
+      <ambientLight intensity={12} /> {/* Increased intensity */}
       
       <Suspense fallback={<CanvasLoader />}>
         <OrbitControls enableZoom={false} enableRotate={false} /> {/* Disable rotation */}
