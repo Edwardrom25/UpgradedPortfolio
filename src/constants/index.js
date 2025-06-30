@@ -146,7 +146,7 @@ import {
       iconBg: "#000000",
       date: "May 2025 - August 2025",
       points: [
-        "Supported SpaceX’s High Power Engineering department in designing and troubleshooting electrical systems for the world’s busiest spaceport.",
+        "Supported SpaceX’s High Power Electrical department in designing and troubleshooting electrical systems for the world’s busiest spaceport.",
         "Developed ground software in LabVIEW for monitoring the Just Read the Instructions droneship’s onboard uninterruptible power supplies.",
         "Produced heatshield tiles for Starship’s upcoming flight tests!"
       ],
