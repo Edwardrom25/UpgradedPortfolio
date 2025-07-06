@@ -87,6 +87,10 @@ import {
       title: "Experience",
     },
     {
+      id: "tech",
+      title: "Skills",
+    },
+    {
       id: "activities",
       title: "Activities",
     },
@@ -146,7 +150,7 @@ import {
       iconBg: "#000000",
       date: "May 2025 - August 2025",
       points: [
-        "Supported SpaceX’s High Power Electrical department in designing and troubleshooting electrical systems for the world’s busiest spaceport.",
+        "Supported SpaceX’s Launch division in designing and troubleshooting electrical systems for the world’s busiest spaceport.",
         "Developed ground software in LabVIEW for monitoring the Just Read the Instructions droneship’s onboard uninterruptible power supplies.",
         "Produced heatshield tiles for Starship’s upcoming flight tests!"
       ],
@@ -158,9 +162,8 @@ import {
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Supported NASA’s Biological and Physical Sciences division in examining the impacts of spaceflight on living systems to prepare for future human exploration missions far from Earth.",
-        "Created a graphical user interface in Python for computing and visualizing the accelerations felt by a biospecimen when rotating in a microgravity simulator.",
-        "Submitted a New Technology Report for the graphical user interface using NASA’s New Technology Reporting System.",
+        "Supported NASA’s Space Biology program in examining the impacts of spaceflight on living systems to enable a permanent human presence on the Moon, Mars, and beyond.",
+        "Created a graphical user interface in Python for monitoring the accelerations felt by a biospecimen when rotating in a ground-based microgravity simulator.",
       ],
     },
     {

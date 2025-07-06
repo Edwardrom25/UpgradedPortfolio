@@ -14,7 +14,7 @@ const Tech = () => {
       <motion.div variants={textVariant()} className="text-center">
         {/* <p className={`${styles.sectionSubText}`}>My Technical Skills</p> */}
         <h2 className={`${styles.sectionHeadText} mb-10`}>
-          Technologies
+          Skills
         </h2>
       </motion.div>
       <div className='flex flex-row flex-wrap justify-center gap-10'>
@@ -28,4 +28,4 @@ const Tech = () => {
   );
 }
 
-export default Tech;
+export default SectionWrapper(Tech, "tech");
