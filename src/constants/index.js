@@ -198,7 +198,7 @@ import {
       deploy_link: "https://www.parkland.edu/Main/Academics/Departments/Aviation/Explore/Academics"
     },
     {
-      name: "NASA L'SPACE Proposal Writing and Evaluation Experience",
+      name: "NASA L'SPACE Proposal Writing and Evaluation Experience Academy",
       description:
         "Co-authored a proposal on a flight computing and avionics technology to secure a $10K seed fund from NASA Marshall Space Flight Center.",
       tags: [
