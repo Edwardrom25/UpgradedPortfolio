@@ -144,7 +144,7 @@ import {
   
   const experiences = [
     {
-      title: "High Power Engineering Intern",
+      title: "Electrical Engineering Intern, High Power",
       company_name: "SpaceX",
       icon: spacex,
       iconBg: "#000000",
@@ -156,7 +156,7 @@ import {
       ],
     },
     {
-      title: "Microgravity Simulation Support Facility Intern",
+      title: "Software Engineering Intern, Exploration Research & Technology",
       company_name: "NASA Kennedy Space Center",
       icon: nasawork,
       iconBg: "#FFFFFF",
@@ -167,7 +167,7 @@ import {
       ],
     },
     {
-      title: "Distribution Engineering Intern",
+      title: "Electrical Engineering Intern, Distribution",
       company_name: "Milhouse Engineering and Construction, Inc.",
       icon: milhouse,
       iconBg: "#FFFFFF",
@@ -198,9 +198,9 @@ import {
       deploy_link: "https://www.parkland.edu/Main/Academics/Departments/Aviation/Explore/Academics"
     },
     {
-      name: "NASA L'SPACE Proposal Writing and Evaluation Experience Academy",
+      name: "NASA Proposal Writing and Evaluation Experience",
       description:
-        "Co-authored a proposal on a flight computing and avionics technology to secure a $10K seed fund from NASA Marshall Space Flight Center.",
+        "Coauthored a proposal on a flight computing and avionics technology to secure a $10K seed fund from NASA Marshall Space Flight Center.",
       tags: [
         {
           name: "NX",
@@ -212,9 +212,9 @@ import {
       deploy_link: "https://www.lspace.asu.edu/proposal-writing-academy"
     },
     {
-      name: "NASA L'SPACE Mission Concept Academy",
+      name: "Mission Concept Academy",
       description:
-        "Co-led a team of 16 students to prepare an MCR, SRR, MDR, and PDR for a rover in search of lunar pits that provide stable temperatures for human habitation.",
+        "Coauthored an MCR, SRR, MDR, and PDR for a rover in search of lunar pits that provide stable temperatures for human habitation.",
       tags: [
         {
           name: "NX",
