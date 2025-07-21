@@ -163,7 +163,7 @@ import {
       date: "January 2025 - May 2025",
       points: [
         "Supported NASA’s Space Biology program in examining the impacts of spaceflight on biological systems to enable a permanent human presence on the Moon, Mars, and beyond.",
-        "Created a graphical user interface in Python for monitoring the accelerations felt by a biospecimen when rotating in a ground-based microgravity simulator.",
+        "Created a graphical user interface in Python for monitoring the G-forces experienced by a biospecimen in a ground-based microgravity simulator.",
       ],
     },
     {
