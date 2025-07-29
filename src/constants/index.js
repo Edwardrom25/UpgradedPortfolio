@@ -152,7 +152,7 @@ import {
       points: [
         "Supported SpaceX’s Launch division in designing, operating, and troubleshooting electrical systems for the world’s busiest spaceport.",
         "Developed ground software in LabVIEW for monitoring the Just Read the Instructions droneship’s onboard uninterruptible power supplies.",
-        "Produced heatshield tiles for Starship’s upcoming flight tests."
+        "Produced heatshield tiles for Starship’s tenth flight test."
       ],
     },
     {
@@ -162,7 +162,7 @@ import {
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Supported NASA’s Space Biology program in examining the impacts of spaceflight on biological systems to enable a permanent human presence on the Moon, Mars, and beyond.",
+        "Supported the Microgravity Simulation Support Facility in examining the impacts of spaceflight on biological systems to enable a sustained human presence on the Moon, Mars, and beyond.",
         "Created a graphical user interface in Python for monitoring the G-forces experienced by a biospecimen in a ground-based microgravity simulator.",
       ],
     },
@@ -173,7 +173,7 @@ import {
       iconBg: "#FFFFFF",
       date: "September 2024 - December 2024",
       points: [
-        "Supported ComEd’s transition to cleaner energy under the Future Energy Jobs Act, which requires at least 4,300 MW of new solar and wind power to be built in Illinois by 2030.",
+        "Supported ComEd’s transition to sustainable energy under the Future Energy Jobs Act, which requires at least 4,300 MW of new solar and wind power to be built in Illinois by 2030.",
         "Prepared field reports, construction drawings in AutoCAD, and load calculations in IKE PoleForeman to facilitate the interconnection of 35 solar farms to ComEd's electric grid.",
       ],
     },
@@ -198,9 +198,9 @@ import {
       deploy_link: "https://www.parkland.edu/Main/Academics/Departments/Aviation/Explore/Academics"
     },
     {
-      name: "NASA Proposal Writing and Evaluation Experience",
+      name: "NASA Proposal Writing and Evaluation Experience Academy",
       description:
-        "Coauthored a proposal on a flight computing and avionics technology to secure a $10K seed fund from NASA Marshall Space Flight Center.",
+        "Co-authored a proposal for a flight computing and avionics technology to secure a $10K seed fund from NASA Marshall Space Flight Center.",
       tags: [
         {
           name: "NX",
@@ -214,7 +214,7 @@ import {
     {
       name: "Mission Concept Academy",
       description:
-        "Coauthored an MCR, SRR, MDR, and PDR for a rover in search of lunar pits that provide stable temperatures for human habitation.",
+        "Co-authored an MCR, SRR, MDR, and PDR for a rover in search of lunar pits that provide stable temperatures for human habitation.",
       tags: [
         {
           name: "NX",
