@@ -150,9 +150,7 @@ import {
       iconBg: "#000000",
       date: "May 2025 - August 2025",
       points: [
-        "Supported SpaceX’s Launch division in designing, operating, and troubleshooting electrical systems for the world’s busiest spaceport.",
-        "Developed ground software in LabVIEW for monitoring the Just Read the Instructions droneship’s onboard uninterruptible power supplies.",
-        "Produced heatshield tiles for Starship’s tenth flight test."
+        "Supporting SpaceX’s Launch division in designing and troubleshooting electric power systems for the world’s busiest spaceport.",
       ],
     },
     {
@@ -174,7 +172,7 @@ import {
       date: "September 2024 - December 2024",
       points: [
         "Supported ComEd’s transition to sustainable energy under the Future Energy Jobs Act, which requires at least 4,300 MW of new solar and wind power to be built in Illinois by 2030.",
-        "Prepared field reports, construction drawings in AutoCAD, and load calculations in IKE PoleForeman to facilitate the interconnection of 35 solar farms to ComEd's electric grid.",
+        "Prepared reports, construction drawings in AutoCAD, and load calculations in IKE PoleForeman to facilitate the interconnection of 35 solar farms to ComEd's electric grid.",
       ],
     },
   ];
