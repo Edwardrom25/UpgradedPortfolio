@@ -83,11 +83,11 @@ import {
       title: "About",
     },
     {
-      id: "work",
+      id: "experience",
       title: "Experience",
     },
     {
-      id: "tech",
+      id: "skills",
       title: "Skills",
     },
     {
