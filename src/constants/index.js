@@ -102,7 +102,7 @@ import {
   
   const services = [
     {
-      title: "Electrical Systems",
+      title: "Electric Power",
       icon: mobile,
     },
     {
@@ -144,13 +144,14 @@ import {
   
   const experiences = [
     {
-      title: "Electrical Engineering Intern, High Power",
+      title: "Electrical Engineering Intern, Facilities Infrastructure",
       company_name: "SpaceX",
       icon: spacex,
       iconBg: "#000000",
       date: "May 2025 - August 2025",
       points: [
-        "Supporting SpaceX’s Launch division in designing and troubleshooting electric power systems for the world’s busiest spaceport.",
+        "Supported the Facilities Infrastructure Engineering department in designing and operating critical electric infrastructure for SpaceX’s east coast launch facilities.",
+        "Created a graphical user interface in LabVIEW to enable Falcon Recovery Controllers to monitor the Just Read the Instructions droneship’s onboard electric power systems.",
       ],
     },
     {
@@ -161,7 +162,7 @@ import {
       date: "January 2025 - May 2025",
       points: [
         "Supported the Microgravity Simulation Support Facility in examining the impacts of spaceflight on biological systems to enable a sustained human presence on the Moon, Mars, and beyond.",
-        "Created a graphical user interface in Python for monitoring the G-forces experienced by a biospecimen in a ground-based microgravity simulator.",
+        "Created a graphical user interface in Python to enable Project Scientists to monitor the G-forces experienced by a biospecimen in a ground-based microgravity simulator.",
       ],
     },
     {
@@ -172,7 +173,7 @@ import {
       date: "September 2024 - December 2024",
       points: [
         "Supported ComEd’s transition to sustainable energy under the Future Energy Jobs Act, which requires at least 4,300 MW of new solar and wind power to be built in Illinois by 2030.",
-        "Prepared reports, construction drawings in AutoCAD, and load calculations in IKE PoleForeman to facilitate the interconnection of 35 solar farms to ComEd's electric grid.",
+        "Created construction drawings in AutoCAD and performed loading calculations in IKE PoleForeman to facilitate the interconnection of 35 solar farms to ComEd's electric grid.",
       ],
     },
   ];
