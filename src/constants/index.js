@@ -161,7 +161,7 @@ import {
       iconBg: "#FFFFFF",
       date: "January 2025 - May 2025",
       points: [
-        "Supported the Microgravity Simulation Support Facility in examining the impacts of spaceflight on biological systems to enable a sustained human presence on the Moon, Mars, and beyond.",
+        "Supported the Microgravity Simulation Support Facility in examining the effects of spaceflight on biological systems to enable a sustained human presence on the Moon, Mars, and beyond.",
         "Created a graphical user interface in Python to enable Project Scientists to monitor the G-forces experienced by a biospecimen in a ground-based microgravity simulator.",
       ],
     },
