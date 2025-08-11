@@ -199,7 +199,7 @@ import {
     {
       name: "NASA Proposal Writing and Evaluation Experience Academy",
       description:
-        "Co-authored a proposal for a flight computing and avionics technology to secure a $10K seed fund from NASA Marshall Space Flight Center.",
+        "Prepared and submitted a proposal to NASA Marshall Space Flight Center for $10K in seed funding for development of flight computing and avionics.",
       tags: [
         {
           name: "NX",
@@ -213,7 +213,7 @@ import {
     {
       name: "Mission Concept Academy",
       description:
-        "Co-authored an MCR, SRR, MDR, and PDR for a rover in search of lunar pits that provide stable temperatures for human habitation.",
+        "Prepared and presented a preliminary design review for a rover searching for lunar pits that provide stable temperatures for human habitation.",
       tags: [
         {
           name: "NX",
