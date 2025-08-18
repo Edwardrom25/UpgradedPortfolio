@@ -199,7 +199,7 @@ import {
     {
       name: "NASA Proposal Writing and Evaluation Experience Academy",
       description:
-        "Prepared and submitted a proposal to NASA Marshall Space Flight Center for $10K in seed funding for development of flight computing and avionics.",
+        "Prepared and submitted a proposal to NASA Marshall Space Flight Center for $10K in seed funding for the development of flight computing and avionics.",
       tags: [
         {
           name: "NX",
