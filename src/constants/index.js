@@ -151,7 +151,7 @@ import {
       date: "May 2025 \u2013 August 2025",
       points: [
         "Supported the Facilities Infrastructure Engineering department in designing and operating critical electric infrastructure for SpaceX’s east coast launch facilities.",
-        "Created a graphical user interface in LabVIEW to enable Falcon Recovery Controllers to monitor the Just Read the Instructions droneship’s onboard electric power systems.",
+        "Created a graphical user interface in LabVIEW to enable Falcon Recovery Controllers to monitor the Just Read the Instructions droneship’s onboard electric power system.",
       ],
     },
     {
