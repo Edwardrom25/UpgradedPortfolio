@@ -187,25 +187,15 @@ import {
       name: "Student Pilot",
       description:
         "Completing Private Pilot I and Private Pilot II at Parkland College. The courses include 29.7 and 37.4 flight with simulator hours, respectively.",
-      tags: [
-        {
-          name: "ForeFlight",
-          color: "orange-text-gradient",
-        },
-      ],
+      tags: [],
       image: FAA,
-      deploy_link: "https://www.parkland.edu/Main/Academics/Departments/Aviation/Explore/Academics"
+      deploy_link: "https://www.parkland.edu/Main/Academics/Departments/Institute-of-Aviation"
     },
     {
       name: "NASA Proposal Writing and Evaluation Experience Academy",
       description:
         "Prepared and submitted a proposal to NASA Marshall Space Flight Center for $10K in seed funding for the development of flight computing and avionics.",
-      tags: [
-        {
-          name: "NX",
-          color: "green-text-gradient",
-        },
-      ],
+      tags: [],
       image: nasaproject,
       source_code_link: NPWEE,
       deploy_link: "https://www.lspace.asu.edu/proposal-writing-academy"
@@ -214,16 +204,7 @@ import {
       name: "Mission Concept Academy",
       description:
         "Prepared and presented a preliminary design review for a rover searching for lunar pits that provide stable temperatures for human habitation.",
-      tags: [
-        {
-          name: "NX",
-          color: "pink-text-gradient",
-        },
-        {
-          name: "JMARS",
-          color: "blue-text-gradient",
-        },
-      ],
+      tags: [],
       image: nasaproject,
       source_code_link: MCA,
       deploy_link: "https://www.lspace.asu.edu/mission-concept-academy"
