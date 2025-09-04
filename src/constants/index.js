@@ -152,6 +152,7 @@ import {
       points: [
         "Supported the Facilities Infrastructure Engineering department in designing and operating critical electric infrastructure for SpaceX’s East Coast launch facilities.",
         "Developed ground software in LabVIEW to enable Falcon Recovery Controllers to monitor the Just Read the Instructions droneship’s onboard electric power system.",
+        "Manufactured the thermal protection system for Starship’s 10th flight test, which provided valuable data on heating and vehicle control during hypersonic reentry.",
       ],
     },
     {
