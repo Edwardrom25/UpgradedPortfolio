@@ -150,8 +150,8 @@ import {
       iconBg: "#000000",
       date: "May 2025 \u2013 August 2025",
       points: [
-        "Supported the Facilities Infrastructure Engineering department in designing and operating critical electric infrastructure for SpaceX’s east coast launch facilities.",
-        "Created a graphical user interface in LabVIEW to enable Falcon Recovery Controllers to monitor the Just Read the Instructions droneship’s onboard electric power system.",
+        "Supported the Facilities Infrastructure Engineering department in designing and operating critical electric infrastructure for SpaceX’s East Coast launch facilities.",
+        "Developed ground software in LabVIEW to enable Falcon Recovery Controllers to monitor the Just Read the Instructions droneship’s onboard electric power system.",
       ],
     },
     {
@@ -161,8 +161,8 @@ import {
       iconBg: "#FFFFFF",
       date: "January 2025 \u2013 May 2025",
       points: [
-        "Supported the Microgravity Simulation Support Facility in examining the effects of spaceflight on biological systems to enable a sustained human presence on the Moon, Mars, and beyond.",
-        "Created a graphical user interface in Python to enable Project Scientists to monitor the G-forces experienced by a biospecimen in a ground-based microgravity simulator.",
+        "Supported the Microgravity Simulation Support Facility in examining the effects of spaceflight on biological systems to enable a sustained human presence on the Moon and beyond.",
+        "Developed a computational model in Python for predicting the G-forces experienced by a biospecimen in a ground-based microgravity simulator.",
       ],
     },
     {
@@ -173,7 +173,7 @@ import {
       date: "September 2024 \u2013 December 2024",
       points: [
         "Supported ComEd’s transition to sustainable energy under the Future Energy Jobs Act, which requires at least 4,300 MW of new solar and wind power to be built in Illinois by 2030.",
-        "Created construction drawings in AutoCAD and performed loading calculations in IKE PoleForeman to facilitate the interconnection of 35 solar farms to ComEd's electric grid.",
+        "Created construction drawings in AutoCAD and performed loading calculations in IKE PoleForeman to facilitate the interconnection of 25 solar farms to ComEd's electric grid.",
       ],
     },
   ];

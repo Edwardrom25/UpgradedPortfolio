@@ -49,7 +49,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] text-left'
       >
-        Graduate Student in the Department of Electrical and Computer Engineering at the University of Illinois Urbana-Champaign. Passed the Fundamentals of Engineering exam. Making life multiplanetary!
+        Graduate student in the Department of Electrical and Computer Engineering at the University of Illinois Urbana-Champaign. Passed the Fundamentals of Engineering exam. Making life multiplanetary!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10 justify-center'>
