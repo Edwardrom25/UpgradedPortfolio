@@ -150,9 +150,9 @@ import {
       iconBg: "#000000",
       date: "May 2025 \u2013 August 2025",
       points: [
-        "Supported the Facilities Infrastructure Engineering department in designing and operating critical electric infrastructure for SpaceX’s East Coast launch facilities.",
-        "Developed ground software in LabVIEW to enable Falcon Recovery Controllers to monitor the Just Read the Instructions droneship’s onboard electric power system.",
-        "Manufactured the thermal protection system for Starship’s 10th flight test, which provided valuable data on heating and vehicle control during hypersonic reentry.",
+        "Supported the Facilities Infrastructure Engineering department in designing and operating critical electric infrastructure for SpaceX's East Coast launch facilities.",
+        "Developed ground software in LabVIEW to enable Falcon Recovery Controllers to monitor the Just Read the Instructions droneship's onboard electric power system.",
+        "Manufactured the thermal protection system for Starship's 10th flight test, which provided valuable data on heating and vehicle control during hypersonic reentry.",
       ],
     },
     {
@@ -173,7 +173,7 @@ import {
       iconBg: "#FFFFFF",
       date: "September 2024 \u2013 December 2024",
       points: [
-        "Supported ComEd’s transition to sustainable energy under the Future Energy Jobs Act, which requires at least 4,300 MW of new solar and wind power to be built in Illinois by 2030.",
+        "Supported ComEd's transition to sustainable energy under the Future Energy Jobs Act, which requires at least 4,300 MW of new solar and wind power to be built in Illinois by 2030.",
         "Created construction drawings in AutoCAD and performed loading calculations in IKE PoleForeman to facilitate the interconnection of 25 solar farms to ComEd's electric grid.",
       ],
     },
